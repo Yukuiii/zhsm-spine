@@ -1,8 +1,12 @@
 # zhsm-spine
 
-Spine asset preview workspace for extracted `zhsmxb` game resources.
+Spine asset preview workspace for extracted assets from **战火使命** (`zhsmxb`).
 
 The project includes a browser-based WebGL previewer for Spine 3.6 assets, including binary `.skel` files. It is intended for browsing, checking animations, and quickly isolating visible character parts from background/effect slots.
+
+## Disclaimer
+
+The extracted game assets in this repository are provided only for personal learning and technical exchange. Do not use them for commercial purposes or unauthorized redistribution.
 
 ## Features
 
