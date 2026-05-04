@@ -1,0 +1,118 @@
+
+UI_89.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textcn_00000
+  rotate: false
+  xy: 341, 107
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 341, 73
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dot_00000
+  rotate: false
+  xy: 491, 167
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+kuang_00000
+  rotate: false
+  xy: 2, 798
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+kuang_00001
+  rotate: false
+  xy: 2, 599
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+kuang_00002
+  rotate: false
+  xy: 341, 798
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+kuang_00003
+  rotate: false
+  xy: 2, 400
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+kuang_00004
+  rotate: false
+  xy: 341, 599
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+kuang_00005
+  rotate: false
+  xy: 680, 798
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+kuang_00006
+  rotate: false
+  xy: 2, 201
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+kuang_00007
+  rotate: false
+  xy: 341, 400
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+kuang_00008
+  rotate: false
+  xy: 680, 599
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+kuang_00009
+  rotate: false
+  xy: 2, 2
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+kuang_00010
+  rotate: false
+  xy: 341, 201
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+kuang_00011
+  rotate: false
+  xy: 680, 400
+  size: 337, 197
+  orig: 337, 197
+  offset: 0, 0
+  index: -1
+ring_00000
+  rotate: false
+  xy: 680, 334
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

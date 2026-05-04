@@ -1,0 +1,181 @@
+
+roguelike_land.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian006_01
+  rotate: true
+  xy: 1939, 301
+  size: 209, 79
+  orig: 209, 79
+  offset: 0, 0
+  index: -1
+dian006_02
+  rotate: false
+  xy: 2, 4
+  size: 209, 79
+  orig: 209, 79
+  offset: 0, 0
+  index: -1
+dian006_03
+  rotate: false
+  xy: 981, 188
+  size: 209, 79
+  orig: 209, 79
+  offset: 0, 0
+  index: -1
+dian006_04
+  rotate: false
+  xy: 213, 4
+  size: 209, 79
+  orig: 209, 79
+  offset: 0, 0
+  index: -1
+dian006_05
+  rotate: false
+  xy: 1192, 188
+  size: 209, 79
+  orig: 209, 79
+  offset: 0, 0
+  index: -1
+dian006_06
+  rotate: false
+  xy: 1403, 188
+  size: 209, 79
+  orig: 209, 79
+  offset: 0, 0
+  index: -1
+dian006_07
+  rotate: false
+  xy: 1614, 188
+  size: 209, 79
+  orig: 209, 79
+  offset: 0, 0
+  index: -1
+dian006_08
+  rotate: false
+  xy: 981, 107
+  size: 209, 79
+  orig: 209, 79
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: false
+  xy: 429, 134
+  size: 104, 376
+  orig: 104, 376
+  offset: 0, 0
+  index: -1
+light1_00000
+  rotate: true
+  xy: 778, 145
+  size: 122, 201
+  orig: 122, 201
+  offset: 0, 0
+  index: -1
+light2_00000
+  rotate: false
+  xy: 632, 59
+  size: 122, 52
+  orig: 122, 52
+  offset: 0, 0
+  index: -1
+lizi1_00000
+  rotate: false
+  xy: 1939, 272
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+lizi2_00000
+  rotate: false
+  xy: 1825, 240
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+ring_00000
+  rotate: false
+  xy: 429, 2
+  size: 201, 109
+  orig: 201, 109
+  offset: 0, 0
+  index: -1
+sd_00001
+  rotate: false
+  xy: 535, 269
+  size: 154, 241
+  orig: 154, 241
+  offset: 0, 0
+  index: -1
+sd_00003
+  rotate: false
+  xy: 691, 269
+  size: 154, 241
+  orig: 154, 241
+  offset: 0, 0
+  index: -1
+sd_00005
+  rotate: false
+  xy: 847, 269
+  size: 154, 241
+  orig: 154, 241
+  offset: 0, 0
+  index: -1
+sd_00007
+  rotate: false
+  xy: 1003, 269
+  size: 154, 241
+  orig: 154, 241
+  offset: 0, 0
+  index: -1
+sd_00009
+  rotate: false
+  xy: 1159, 269
+  size: 154, 241
+  orig: 154, 241
+  offset: 0, 0
+  index: -1
+sd_00011
+  rotate: false
+  xy: 1315, 269
+  size: 154, 241
+  orig: 154, 241
+  offset: 0, 0
+  index: -1
+sd_00013
+  rotate: false
+  xy: 1471, 269
+  size: 154, 241
+  orig: 154, 241
+  offset: 0, 0
+  index: -1
+sd_00015
+  rotate: false
+  xy: 1627, 269
+  size: 154, 241
+  orig: 154, 241
+  offset: 0, 0
+  index: -1
+sd_00017
+  rotate: false
+  xy: 1783, 269
+  size: 154, 241
+  orig: 154, 241
+  offset: 0, 0
+  index: -1
+sd_00019
+  rotate: true
+  xy: 535, 113
+  size: 154, 241
+  orig: 154, 241
+  offset: 0, 0
+  index: -1
+t6_00000
+  rotate: false
+  xy: 2, 85
+  size: 425, 425
+  orig: 425, 425
+  offset: 0, 0
+  index: -1

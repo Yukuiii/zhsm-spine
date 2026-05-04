@@ -1,0 +1,146 @@
+
+Enemy_Bz63Q.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kua
+  rotate: false
+  xy: 561, 817
+  size: 186, 177
+  orig: 186, 177
+  offset: 0, 0
+  index: -1
+shou_y_01
+  rotate: false
+  xy: 2, 2
+  size: 93, 236
+  orig: 93, 236
+  offset: 0, 0
+  index: -1
+shou_y_02
+  rotate: false
+  xy: 2, 240
+  size: 129, 294
+  orig: 129, 294
+  offset: 0, 0
+  index: -1
+shou_y_03
+  rotate: false
+  xy: 2, 536
+  size: 187, 364
+  orig: 187, 364
+  offset: 0, 0
+  index: -1
+shou_z_01
+  rotate: true
+  xy: 479, 437
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1
+shou_z_02
+  rotate: true
+  xy: 749, 846
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+shou_z_03
+  rotate: true
+  xy: 133, 261
+  size: 135, 133
+  orig: 135, 133
+  offset: 0, 0
+  index: -1
+tou_01
+  rotate: true
+  xy: 97, 14
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+tou_02
+  rotate: true
+  xy: 947, 829
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+tui_y_01
+  rotate: true
+  xy: 561, 683
+  size: 132, 181
+  orig: 132, 181
+  offset: 0, 0
+  index: -1
+tui_y_02
+  rotate: true
+  xy: 97, 153
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+tui_y_03
+  rotate: false
+  xy: 363, 441
+  size: 114, 105
+  orig: 114, 105
+  offset: 0, 0
+  index: -1
+tui_y_04
+  rotate: true
+  xy: 947, 880
+  size: 114, 73
+  orig: 114, 73
+  offset: 0, 0
+  index: -1
+tui_z_01
+  rotate: false
+  xy: 133, 398
+  size: 118, 136
+  orig: 118, 136
+  offset: 0, 0
+  index: -1
+tui_z_02
+  rotate: true
+  xy: 97, 74
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+tui_z_03
+  rotate: false
+  xy: 253, 442
+  size: 108, 125
+  orig: 108, 125
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 191, 569
+  size: 190, 331
+  orig: 190, 331
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 383, 661
+  size: 176, 239
+  orig: 176, 239
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 2, 902
+  size: 534, 92
+  orig: 534, 92
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 383, 548
+  size: 147, 111
+  orig: 147, 111
+  offset: 0, 0
+  index: -1

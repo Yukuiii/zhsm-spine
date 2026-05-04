@@ -1,0 +1,83 @@
+
+roguelike_start.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 45
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+star_00000
+  rotate: false
+  xy: 183, 60
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+star_00001
+  rotate: false
+  xy: 404, 427
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+star_00002
+  rotate: false
+  xy: 2, 2
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+star_00003
+  rotate: false
+  xy: 404, 455
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+star_00004
+  rotate: false
+  xy: 273, 315
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+star_00005
+  rotate: false
+  xy: 41, 17
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 273, 421
+  size: 129, 74
+  orig: 129, 74
+  offset: 0, 0
+  index: -1
+startgolden
+  rotate: false
+  xy: 273, 345
+  size: 129, 74
+  orig: 129, 74
+  offset: 0, 0
+  index: -1
+startred
+  rotate: true
+  xy: 183, 95
+  size: 129, 74
+  orig: 129, 74
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 2, 226
+  size: 269, 269
+  orig: 269, 269
+  offset: 0, 0
+  index: -1

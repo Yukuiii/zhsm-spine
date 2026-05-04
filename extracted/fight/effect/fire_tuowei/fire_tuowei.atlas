@@ -1,0 +1,111 @@
+
+fire_tuowei.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dan
+  rotate: true
+  xy: 267, 53
+  size: 30, 92
+  orig: 30, 92
+  offset: 0, 0
+  index: -1
+orange
+  rotate: false
+  xy: 202, 20
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+tuowei00
+  rotate: false
+  xy: 1, 416
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei01
+  rotate: false
+  xy: 1, 333
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei02
+  rotate: false
+  xy: 202, 416
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei03
+  rotate: false
+  xy: 1, 250
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei04
+  rotate: false
+  xy: 202, 333
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei05
+  rotate: false
+  xy: 1, 167
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei06
+  rotate: false
+  xy: 202, 250
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei07
+  rotate: true
+  xy: 403, 298
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei08
+  rotate: false
+  xy: 1, 84
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei09
+  rotate: false
+  xy: 202, 167
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei10
+  rotate: false
+  xy: 1, 1
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei11
+  rotate: false
+  xy: 202, 84
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+tuowei12
+  rotate: true
+  xy: 403, 97
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1

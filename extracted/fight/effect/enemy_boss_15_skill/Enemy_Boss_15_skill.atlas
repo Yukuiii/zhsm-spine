@@ -1,0 +1,153 @@
+
+Enemy_Boss_15_skill.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanzi-1
+  rotate: true
+  xy: 642, 295
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+guanzi-2
+  rotate: false
+  xy: 1616, 395
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: true
+  xy: 689, 335
+  size: 174, 216
+  orig: 174, 216
+  offset: 0, 0
+  index: -1
+shenti-1
+  rotate: true
+  xy: 907, 328
+  size: 181, 210
+  orig: 181, 210
+  offset: 0, 0
+  index: -1
+shenti-2
+  rotate: false
+  xy: 452, 18
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+shenti-3
+  rotate: false
+  xy: 1475, 394
+  size: 139, 115
+  orig: 139, 115
+  offset: 0, 0
+  index: -1
+shenti-4
+  rotate: true
+  xy: 432, 125
+  size: 290, 208
+  orig: 290, 208
+  offset: 0, 0
+  index: -1
+tou-1
+  rotate: true
+  xy: 563, 16
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+tou-2
+  rotate: true
+  xy: 344, 2
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+youlun-1
+  rotate: true
+  xy: 1791, 436
+  size: 73, 172
+  orig: 73, 172
+  offset: 0, 0
+  index: -1
+youlun-2
+  rotate: true
+  xy: 1616, 433
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+youshou-1
+  rotate: false
+  xy: 1255, 310
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+youshou-2
+  rotate: true
+  xy: 1119, 398
+  size: 111, 206
+  orig: 111, 206
+  offset: 0, 0
+  index: -1
+youshou-3
+  rotate: false
+  xy: 2, 7
+  size: 149, 502
+  orig: 149, 502
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 153, 417
+  size: 534, 92
+  orig: 534, 92
+  offset: 0, 0
+  index: -1
+zuolun-1
+  rotate: true
+  xy: 1119, 290
+  size: 106, 134
+  orig: 106, 134
+  offset: 0, 0
+  index: -1
+zuolun-2
+  rotate: false
+  xy: 153, 100
+  size: 277, 315
+  orig: 277, 315
+  offset: 0, 0
+  index: -1
+zuoshou-1
+  rotate: false
+  xy: 1965, 442
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+zuoshou-2
+  rotate: true
+  xy: 642, 365
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+zuoshou-3
+  rotate: true
+  xy: 1327, 380
+  size: 129, 146
+  orig: 129, 146
+  offset: 0, 0
+  index: -1
+zuoshou-4
+  rotate: true
+  xy: 153, 16
+  size: 82, 189
+  orig: 82, 189
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,321 @@
+
+hero_pf03_030.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 278, 382
+  size: 128, 228
+  orig: 128, 228
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 139
+  size: 134, 226
+  orig: 134, 226
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 774, 268
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 328, 66
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 328, 206
+  size: 104, 88
+  orig: 104, 88
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 159, 73
+  size: 108, 90
+  orig: 108, 90
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 649, 268
+  size: 123, 26
+  orig: 123, 26
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 508, 241
+  size: 136, 28
+  orig: 136, 28
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 500, 187
+  size: 133, 52
+  orig: 133, 52
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 697, 296
+  size: 134, 50
+  orig: 134, 50
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 718, 348
+  size: 181, 162
+  orig: 181, 162
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 508, 399
+  size: 111, 208
+  orig: 111, 208
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 440, 84
+  size: 44, 120
+  orig: 44, 120
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 562, 88
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 269, 158
+  size: 57, 136
+  orig: 57, 136
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 898, 235
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+24
+  rotate: true
+  xy: 746, 151
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 586, 127
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 734, 214
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 833, 258
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+29
+  rotate: true
+  xy: 170, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 508, 335
+  size: 62, 187
+  orig: 62, 187
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 649, 301
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+31
+  rotate: false
+  xy: 774, 280
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+32
+  rotate: true
+  xy: 1002, 466
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+33
+  rotate: true
+  xy: 359, 9
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+34
+  rotate: true
+  xy: 269, 2
+  size: 46, 88
+  orig: 46, 88
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 445, 15
+  size: 109, 67
+  orig: 109, 67
+  offset: 0, 0
+  index: -1
+36
+  rotate: true
+  xy: 170, 25
+  size: 46, 97
+  orig: 46, 97
+  offset: 0, 0
+  index: -1
+37
+  rotate: false
+  xy: 438, 265
+  size: 68, 115
+  orig: 68, 115
+  offset: 0, 0
+  index: -1
+38
+  rotate: false
+  xy: 269, 50
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: -1
+39
+  rotate: true
+  xy: 458, 130
+  size: 55, 126
+  orig: 55, 126
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 508, 271
+  size: 62, 139
+  orig: 62, 139
+  offset: 0, 0
+  index: -1
+40
+  rotate: true
+  xy: 2, 49
+  size: 88, 155
+  orig: 88, 155
+  offset: 0, 0
+  index: -1
+41
+  rotate: false
+  xy: 434, 208
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+42
+  rotate: false
+  xy: 643, 133
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+43
+  rotate: true
+  xy: 646, 211
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 328, 146
+  size: 58, 128
+  orig: 58, 128
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 901, 318
+  size: 99, 192
+  orig: 99, 192
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 3
+  size: 44, 166
+  orig: 44, 166
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 278, 296
+  size: 84, 158
+  orig: 84, 158
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 138, 165
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 367
+  size: 274, 143
+  orig: 274, 143
+  offset: 0, 0
+  index: -1
+death
+  rotate: true
+  xy: 713, 144
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+shouji2
+  rotate: true
+  xy: 697, 348
+  size: 49, 18
+  orig: 49, 18
+  offset: 0, 0
+  index: -1

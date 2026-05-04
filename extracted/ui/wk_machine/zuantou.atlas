@@ -1,0 +1,118 @@
+
+zuantou.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: false
+  xy: 1498, 368
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 1910, 946
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+g3
+  rotate: true
+  xy: 2, 2
+  size: 109, 146
+  orig: 109, 146
+  offset: 0, 0
+  index: -1
+zt_001
+  rotate: false
+  xy: 376, 414
+  size: 372, 295
+  orig: 372, 306
+  offset: 0, 4
+  index: -1
+zt_002
+  rotate: false
+  xy: 1124, 418
+  size: 372, 290
+  orig: 372, 306
+  offset: 0, 10
+  index: -1
+zt_003
+  rotate: false
+  xy: 1124, 126
+  size: 372, 290
+  orig: 372, 306
+  offset: 0, 10
+  index: -1
+zt_004
+  rotate: false
+  xy: 750, 416
+  size: 372, 292
+  orig: 372, 306
+  offset: 0, 10
+  index: -1
+zt_005
+  rotate: false
+  xy: 788, 710
+  size: 372, 294
+  orig: 372, 306
+  offset: 0, 10
+  index: -1
+zt_006
+  rotate: false
+  xy: 2, 113
+  size: 372, 296
+  orig: 372, 306
+  offset: 0, 9
+  index: -1
+zt_007
+  rotate: false
+  xy: 2, 411
+  size: 372, 298
+  orig: 372, 306
+  offset: 0, 6
+  index: -1
+zt_008
+  rotate: false
+  xy: 1162, 710
+  size: 372, 294
+  orig: 372, 306
+  offset: 0, 5
+  index: -1
+zt_009
+  rotate: false
+  xy: 1498, 420
+  size: 372, 288
+  orig: 372, 306
+  offset: 0, 4
+  index: -1
+zt_010
+  rotate: false
+  xy: 750, 123
+  size: 372, 291
+  orig: 372, 306
+  offset: 0, 2
+  index: -1
+zt_011
+  rotate: false
+  xy: 1536, 710
+  size: 372, 294
+  orig: 372, 306
+  offset: 0, 1
+  index: -1
+zt_012
+  rotate: false
+  xy: 376, 117
+  size: 372, 295
+  orig: 372, 306
+  offset: 0, 1
+  index: -1
+zzz
+  rotate: false
+  xy: 2, 711
+  size: 784, 293
+  orig: 784, 293
+  offset: 0, 0
+  index: -1

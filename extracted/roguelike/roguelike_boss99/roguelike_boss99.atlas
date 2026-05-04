@@ -1,0 +1,83 @@
+
+roguelike_boss99.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+end1_00000
+  rotate: false
+  xy: 2, 459
+  size: 493, 435
+  orig: 493, 435
+  offset: 0, 0
+  index: -1
+end2_00000
+  rotate: false
+  xy: 497, 504
+  size: 390, 390
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+end3
+  rotate: false
+  xy: 889, 580
+  size: 439, 314
+  orig: 439, 314
+  offset: 0, 0
+  index: -1
+end3_00000
+  rotate: false
+  xy: 1159, 228
+  size: 215, 216
+  orig: 215, 216
+  offset: 0, 0
+  index: -1
+end4_00000
+  rotate: false
+  xy: 1376, 310
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+end5_00000
+  rotate: false
+  xy: 1708, 569
+  size: 320, 325
+  orig: 320, 325
+  offset: 0, 0
+  index: -1
+end6_00000
+  rotate: false
+  xy: 889, 310
+  size: 268, 268
+  orig: 268, 268
+  offset: 0, 0
+  index: -1
+end7_00000
+  rotate: false
+  xy: 1330, 518
+  size: 376, 376
+  orig: 376, 376
+  offset: 0, 0
+  index: -1
+end8_00000
+  rotate: false
+  xy: 1159, 446
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+end9_00000
+  rotate: false
+  xy: 2, 2
+  size: 455, 455
+  orig: 455, 455
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1708, 322
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1

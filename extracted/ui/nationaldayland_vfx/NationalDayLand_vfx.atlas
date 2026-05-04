@@ -1,0 +1,83 @@
+
+NationalDayLand_vfx.png
+size: 1164,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di2_0
+  rotate: false
+  xy: 516, 5
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+di_0
+  rotate: false
+  xy: 516, 268
+  size: 271, 246
+  orig: 271, 246
+  offset: 0, 0
+  index: -1
+star_0
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+xuanzhong_kuang2_00000
+  rotate: false
+  xy: 516, 106
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+xuanzhong_kuang2_00001
+  rotate: false
+  xy: 789, 354
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+xuanzhong_kuang2_00002
+  rotate: false
+  xy: 951, 354
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+xuanzhong_kuang2_00003
+  rotate: false
+  xy: 678, 106
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+xuanzhong_kuang2_00004
+  rotate: false
+  xy: 840, 192
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+xuanzhong_kuang2_00005
+  rotate: false
+  xy: 1002, 192
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+xuanzhong_kuang2_00006
+  rotate: false
+  xy: 840, 30
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+xuanzhong_kuang2_00007
+  rotate: false
+  xy: 1002, 30
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

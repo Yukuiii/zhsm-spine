@@ -1,0 +1,132 @@
+
+TacticsJiesuo_vfx.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian
+  rotate: false
+  xy: 343, 328
+  size: 1229, 75
+  orig: 1229, 75
+  offset: 0, 0
+  index: -1
+boom
+  rotate: false
+  xy: 1759, 21
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 2, 62
+  size: 341, 339
+  orig: 341, 339
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: true
+  xy: 1882, 416
+  size: 138, 159
+  orig: 138, 159
+  offset: 0, 0
+  index: -1
+liziPng_00002
+  rotate: true
+  xy: 1574, 279
+  size: 275, 306
+  orig: 275, 306
+  offset: 0, 0
+  index: -1
+liziPng_00003
+  rotate: false
+  xy: 343, 20
+  size: 275, 306
+  orig: 275, 306
+  offset: 0, 0
+  index: -1
+liziPng_00004
+  rotate: false
+  xy: 620, 20
+  size: 275, 306
+  orig: 275, 306
+  offset: 0, 0
+  index: -1
+liziPng_00005
+  rotate: false
+  xy: 897, 20
+  size: 275, 306
+  orig: 275, 306
+  offset: 0, 0
+  index: -1
+liziPng_00006
+  rotate: false
+  xy: 1174, 20
+  size: 275, 306
+  orig: 275, 306
+  offset: 0, 0
+  index: -1
+liziPng_00007
+  rotate: true
+  xy: 1451, 2
+  size: 275, 306
+  orig: 275, 306
+  offset: 0, 0
+  index: -1
+liziPng_00008
+  rotate: false
+  xy: 528, 714
+  size: 275, 306
+  orig: 275, 306
+  offset: 0, 0
+  index: -1
+liziPng_00009
+  rotate: false
+  xy: 528, 406
+  size: 275, 306
+  orig: 275, 306
+  offset: 0, 0
+  index: -1
+liziPng_00010
+  rotate: false
+  xy: 805, 714
+  size: 275, 306
+  orig: 275, 306
+  offset: 0, 0
+  index: -1
+liziPng_00011
+  rotate: false
+  xy: 805, 406
+  size: 275, 306
+  orig: 275, 306
+  offset: 0, 0
+  index: -1
+liziPng_00012
+  rotate: true
+  xy: 1082, 745
+  size: 275, 306
+  orig: 275, 306
+  offset: 0, 0
+  index: -1
+neiquan
+  rotate: false
+  xy: 1082, 514
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+waiquan
+  rotate: false
+  xy: 1574, 556
+  size: 466, 464
+  orig: 466, 464
+  offset: 0, 0
+  index: -1
+zhongxinbaodian
+  rotate: true
+  xy: 2, 405
+  size: 615, 524
+  orig: 615, 524
+  offset: 0, 0
+  index: -1

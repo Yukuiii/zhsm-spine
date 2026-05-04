@@ -1,0 +1,279 @@
+
+mines.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1518, 1462
+  size: 581, 335
+  orig: 581, 335
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 110
+  size: 625, 432
+  orig: 625, 432
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 1991, 2024
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 880, 1452
+  size: 636, 591
+  orig: 636, 591
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 544
+  size: 704, 700
+  orig: 704, 700
+  offset: 0, 0
+  index: -1
+4_1
+  rotate: true
+  xy: 2, 2
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 1246
+  size: 876, 797
+  orig: 876, 797
+  offset: 0, 0
+  index: -1
+5_1
+  rotate: false
+  xy: 1312, 323
+  size: 68, 226
+  orig: 68, 226
+  offset: 0, 0
+  index: -1
+TX/1
+  rotate: false
+  xy: 1236, 1245
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+TX/2
+  rotate: false
+  xy: 1168, 551
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+TX/3
+  rotate: false
+  xy: 1105, 344
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+TX/4
+  rotate: false
+  xy: 1105, 137
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+TX/aoyi_huomiao01
+  rotate: false
+  xy: 1855, 1493
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+TX/aoyi_huomiao04
+  rotate: false
+  xy: 1236, 1153
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+TX/aoyi_huomiao06
+  rotate: false
+  xy: 1313, 1153
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+TX/aoyi_huomiao08
+  rotate: false
+  xy: 1443, 1360
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+TX/aoyi_huomiao10
+  rotate: false
+  xy: 1443, 1268
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+TX/aoyi_huomiao12
+  rotate: false
+  xy: 1312, 231
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: false
+  xy: 880, 1098
+  size: 354, 352
+  orig: 354, 352
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00000
+  rotate: true
+  xy: 2, 42
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00002
+  rotate: false
+  xy: 1855, 1585
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00004
+  rotate: false
+  xy: 708, 786
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00006
+  rotate: false
+  xy: 1923, 1585
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00008
+  rotate: false
+  xy: 776, 786
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00010
+  rotate: false
+  xy: 629, 84
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00012
+  rotate: false
+  xy: 697, 84
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00014
+  rotate: true
+  xy: 844, 1030
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00016
+  rotate: true
+  xy: 844, 962
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00018
+  rotate: true
+  xy: 844, 894
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00020
+  rotate: true
+  xy: 844, 826
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00022
+  rotate: true
+  xy: 844, 758
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00024
+  rotate: true
+  xy: 708, 690
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00026
+  rotate: true
+  xy: 708, 622
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00028
+  rotate: true
+  xy: 708, 554
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00030
+  rotate: false
+  xy: 765, 94
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00032
+  rotate: false
+  xy: 833, 94
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00034
+  rotate: false
+  xy: 901, 94
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00036
+  rotate: false
+  xy: 969, 94
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1
+TX/liuti/lianjie_00038
+  rotate: false
+  xy: 1037, 94
+  size: 66, 458
+  orig: 66, 458
+  offset: 0, 0
+  index: -1

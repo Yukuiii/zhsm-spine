@@ -1,0 +1,20 @@
+
+city_halo.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangring_green
+  rotate: false
+  xy: 2, 2
+  size: 159, 100
+  orig: 159, 100
+  offset: 0, 0
+  index: -1
+guangring_red
+  rotate: false
+  xy: 163, 2
+  size: 159, 100
+  orig: 159, 100
+  offset: 0, 0
+  index: -1

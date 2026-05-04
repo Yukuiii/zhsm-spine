@@ -1,0 +1,160 @@
+
+Yindao_littlekari.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+littlekari-brow
+  rotate: false
+  xy: 237, 17
+  size: 57, 20
+  orig: 57, 20
+  offset: 0, 0
+  index: -1
+littlekari-danjia
+  rotate: false
+  xy: 515, 83
+  size: 92, 43
+  orig: 92, 43
+  offset: 0, 0
+  index: -1
+littlekari-danjia1
+  rotate: false
+  xy: 203, 2
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+littlekari-danjia2
+  rotate: true
+  xy: 410, 40
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+littlekari-eyes-02
+  rotate: false
+  xy: 929, 106
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+littlekari-face
+  rotate: true
+  xy: 208, 39
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1
+littlekari-mouth
+  rotate: false
+  xy: 993, 112
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+littlekari-shenzi
+  rotate: true
+  xy: 310, 79
+  size: 47, 107
+  orig: 47, 107
+  offset: 0, 0
+  index: -1
+littlekari-toufa1
+  rotate: true
+  xy: 682, 77
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+littlekari-toufa2
+  rotate: true
+  xy: 78, 11
+  size: 52, 123
+  orig: 52, 123
+  offset: 0, 0
+  index: -1
+littlekari-toufa3
+  rotate: true
+  xy: 78, 65
+  size: 61, 128
+  orig: 61, 128
+  offset: 0, 0
+  index: -1
+littlekari-toufa4
+  rotate: true
+  xy: 419, 68
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+littlekari-toufa5
+  rotate: false
+  xy: 2, 3
+  size: 74, 123
+  orig: 74, 123
+  offset: 0, 0
+  index: -1
+littlekari-toufa6
+  rotate: true
+  xy: 751, 78
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+littlekari-toufa7
+  rotate: true
+  xy: 310, 2
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+littlekari-xianglian
+  rotate: false
+  xy: 378, 40
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+littlekari-yanjing1
+  rotate: false
+  xy: 310, 40
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+littlekari-yaobao
+  rotate: false
+  xy: 870, 95
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+littlekari-yaodai2
+  rotate: false
+  xy: 515, 63
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+littlekari-yifu
+  rotate: false
+  xy: 609, 70
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+littlekari-youshou
+  rotate: false
+  xy: 809, 81
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+littlekari-zuoshou
+  rotate: false
+  xy: 370, 2
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+HeroSkillUnlock.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow002
+  rotate: false
+  xy: 478, 74
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow01_00001
+  rotate: false
+  xy: 304, 33
+  size: 172, 169
+  orig: 172, 169
+  offset: 0, 0
+  index: -1
+glow02_00002
+  rotate: false
+  xy: 562, 234
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+glow03_00003
+  rotate: false
+  xy: 790, 258
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+guangmang_00000
+  rotate: false
+  xy: 2, 2
+  size: 300, 458
+  orig: 300, 458
+  offset: 0, 0
+  index: -1
+lizi009
+  rotate: false
+  xy: 304, 204
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

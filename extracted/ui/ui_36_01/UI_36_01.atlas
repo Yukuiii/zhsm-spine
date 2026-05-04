@@ -1,0 +1,104 @@
+
+UI_36_01.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 150, 50
+  size: 144, 203
+  orig: 144, 203
+  offset: 0, 0
+  index: -1
+G
+  rotate: true
+  xy: 429, 125
+  size: 128, 205
+  orig: 128, 205
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 2, 11
+  size: 37, 201
+  orig: 37, 201
+  offset: 0, 0
+  index: -1
+N
+  rotate: true
+  xy: 636, 127
+  size: 126, 201
+  orig: 126, 201
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 296, 52
+  size: 131, 201
+  orig: 131, 201
+  offset: 0, 0
+  index: -1
+W
+  rotate: false
+  xy: 2, 50
+  size: 146, 203
+  orig: 146, 203
+  offset: 0, 0
+  index: -1
+t01
+  rotate: true
+  xy: 429, 56
+  size: 67, 160
+  orig: 67, 160
+  offset: 0, 0
+  index: -1
+t02
+  rotate: true
+  xy: 831, 6
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+t03
+  rotate: true
+  xy: 591, 2
+  size: 121, 167
+  orig: 121, 167
+  offset: 0, 0
+  index: -1
+t04
+  rotate: false
+  xy: 839, 112
+  size: 163, 141
+  orig: 163, 141
+  offset: 0, 0
+  index: -1
+t07
+  rotate: true
+  xy: 760, 61
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+t08
+  rotate: false
+  xy: 205, 12
+  size: 104, 36
+  orig: 104, 36
+  offset: 0, 0
+  index: -1
+t09
+  rotate: false
+  xy: 311, 30
+  size: 157, 20
+  orig: 157, 20
+  offset: 0, 0
+  index: -1
+t10
+  rotate: false
+  xy: 917, 51
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1

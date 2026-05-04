@@ -1,0 +1,307 @@
+
+Enemy_Bz47Q.png
+size: 408,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S01
+  rotate: false
+  xy: 307, 339
+  size: 99, 88
+  orig: 99, 88
+  offset: 0, 0
+  index: -1
+S02a
+  rotate: false
+  xy: 307, 429
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+S02b
+  rotate: true
+  xy: 84, 63
+  size: 106, 88
+  orig: 106, 88
+  offset: 0, 0
+  index: -1
+S03
+  rotate: false
+  xy: 174, 25
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+S04a
+  rotate: false
+  xy: 334, 205
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+S04b
+  rotate: false
+  xy: 93, 8
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+SG01
+  rotate: true
+  xy: 146, 193
+  size: 68, 133
+  orig: 68, 133
+  offset: 0, 0
+  index: -1
+SG02
+  rotate: false
+  xy: 56, 2
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+ST01
+  rotate: false
+  xy: 281, 198
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+ST02
+  rotate: true
+  xy: 146, 173
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+ST03
+  rotate: false
+  xy: 375, 165
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+ST04
+  rotate: true
+  xy: 364, 3
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+TX01
+  rotate: false
+  xy: 2, 263
+  size: 303, 255
+  orig: 303, 255
+  offset: 0, 0
+  index: -1
+X01
+  rotate: true
+  xy: 307, 249
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+X02
+  rotate: false
+  xy: 2, 42
+  size: 80, 127
+  orig: 80, 127
+  offset: 0, 0
+  index: -1
+X03
+  rotate: false
+  xy: 240, 106
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+X04
+  rotate: false
+  xy: 174, 87
+  size: 64, 104
+  orig: 64, 104
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 350, 140
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+dianxian
+  rotate: false
+  xy: 378, 70
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dianxian2
+  rotate: false
+  xy: 281, 250
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dianxian3
+  rotate: false
+  xy: 93, 2
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+kage
+  rotate: false
+  xy: 2, 171
+  size: 142, 90
+  orig: 142, 90
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 242, 12
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 357, 47
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+tou3
+  rotate: false
+  xy: 364, 20
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+yao
+  rotate: true
+  xy: 165, 2
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+yao2
+  rotate: true
+  xy: 316, 70
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: true
+  xy: 316, 42
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: true
+  xy: 375, 152
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+youtui3
+  rotate: false
+  xy: 386, 114
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+youtui4
+  rotate: true
+  xy: 347, 70
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+youtui5
+  rotate: true
+  xy: 299, 2
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+youtui7
+  rotate: true
+  xy: 312, 151
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+youtui8
+  rotate: false
+  xy: 376, 199
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+zuitui2
+  rotate: true
+  xy: 329, 4
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+zuochi7
+  rotate: false
+  xy: 242, 48
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+zuochi8
+  rotate: true
+  xy: 198, 3
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: true
+  xy: 2, 2
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+zuotui3
+  rotate: false
+  xy: 301, 50
+  size: 13, 54
+  orig: 13, 54
+  offset: 0, 0
+  index: -1
+zuotui4
+  rotate: true
+  xy: 347, 86
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+zuotui5
+  rotate: true
+  xy: 312, 111
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+zuotui6
+  rotate: false
+  xy: 348, 105
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+zuotui6 拷贝
+  rotate: false
+  xy: 350, 167
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1

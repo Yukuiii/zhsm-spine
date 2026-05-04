@@ -1,0 +1,90 @@
+
+Boom_02.png
+size: 278,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: true
+  xy: 207, 118
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+behit_yingxin_c_01
+  rotate: true
+  xy: 89, 2
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+behit_yingxin_c_02
+  rotate: false
+  xy: 2, 4
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+behit_yingxin_c_03
+  rotate: true
+  xy: 170, 5
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+behit_yingxin_c_04
+  rotate: true
+  xy: 113, 92
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+behit_yingxin_c_05
+  rotate: true
+  xy: 2, 84
+  size: 95, 109
+  orig: 95, 109
+  offset: 0, 0
+  index: -1
+behit_yingxin_c_06
+  rotate: true
+  xy: 2, 295
+  size: 111, 129
+  orig: 111, 129
+  offset: 0, 0
+  index: -1
+behit_yingxin_c_07
+  rotate: true
+  xy: 137, 415
+  size: 124, 139
+  orig: 124, 139
+  offset: 0, 0
+  index: -1
+behit_yingxin_c_08
+  rotate: true
+  xy: 2, 408
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+behit_yingxin_c_09
+  rotate: true
+  xy: 137, 286
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+behit_yingxin_c_10
+  rotate: false
+  xy: 2, 181
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+behit_yingxin_c_11
+  rotate: true
+  xy: 116, 175
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+shelter_room.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ
+  rotate: false
+  xy: 2, 1288
+  size: 1672, 752
+  orig: 1672, 752
+  offset: 0, 0
+  index: -1
+ding
+  rotate: true
+  xy: 2, 93
+  size: 449, 104
+  orig: 449, 104
+  offset: 0, 0
+  index: -1
+houxiang
+  rotate: false
+  xy: 2, 2
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+kzt
+  rotate: false
+  xy: 412, 1027
+  size: 696, 183
+  orig: 696, 183
+  offset: 0, 0
+  index: -1
+lvdai
+  rotate: false
+  xy: 2, 1212
+  size: 1300, 13
+  orig: 1300, 13
+  offset: 0, 0
+  index: -1
+lvdai2
+  rotate: false
+  xy: 2, 1227
+  size: 1342, 59
+  orig: 1342, 59
+  offset: 0, 0
+  index: -1
+neibu
+  rotate: false
+  xy: 412, 957
+  size: 331, 68
+  orig: 331, 68
+  offset: 0, 0
+  index: -1
+qianxiang
+  rotate: false
+  xy: 1110, 1036
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+rl2
+  rotate: false
+  xy: 1676, 1422
+  size: 317, 618
+  orig: 317, 618
+  offset: 0, 0
+  index: -1
+ru1
+  rotate: false
+  xy: 2, 544
+  size: 408, 666
+  orig: 408, 666
+  offset: 0, 0
+  index: -1
+shang
+  rotate: true
+  xy: 1995, 1715
+  size: 325, 33
+  orig: 325, 33
+  offset: 0, 0
+  index: -1
+sjz
+  rotate: false
+  xy: 1891, 1333
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1
+sjz2
+  rotate: false
+  xy: 567, 890
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+xia
+  rotate: false
+  xy: 1346, 1230
+  size: 325, 56
+  orig: 325, 56
+  offset: 0, 0
+  index: -1
+zban
+  rotate: true
+  xy: 745, 986
+  size: 39, 184
+  orig: 39, 184
+  offset: 0, 0
+  index: -1
+zjxb1
+  rotate: false
+  xy: 412, 727
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+zjxb2
+  rotate: true
+  xy: 1676, 1301
+  size: 119, 213
+  orig: 119, 213
+  offset: 0, 0
+  index: -1
+zjxb3
+  rotate: true
+  xy: 108, 204
+  size: 149, 62
+  orig: 149, 62
+  offset: 0, 0
+  index: -1
+zjxb4
+  rotate: false
+  xy: 108, 355
+  size: 142, 187
+  orig: 142, 187
+  offset: 0, 0
+  index: -1
+zy
+  rotate: false
+  xy: 412, 808
+  size: 153, 147
+  orig: 153, 147
+  offset: 0, 0
+  index: -1
+zyy1
+  rotate: true
+  xy: 2020, 1695
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+zyy2
+  rotate: false
+  xy: 108, 173
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+zyy3
+  rotate: false
+  xy: 252, 448
+  size: 43, 94
+  orig: 43, 94
+  offset: 0, 0
+  index: -1
+zyy4
+  rotate: false
+  xy: 931, 1002
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+zyy5
+  rotate: false
+  xy: 745, 961
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+zyy6
+  rotate: true
+  xy: 1995, 1610
+  size: 103, 23
+  orig: 103, 23
+  offset: 0, 0
+  index: -1

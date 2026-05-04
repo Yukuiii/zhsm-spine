@@ -1,0 +1,20 @@
+
+UI_47.png
+size: 308,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G01
+  rotate: false
+  xy: 196, 2
+  size: 110, 440
+  orig: 110, 440
+  offset: 0, 0
+  index: -1
+G02
+  rotate: false
+  xy: 2, 2
+  size: 192, 440
+  orig: 192, 440
+  offset: 0, 0
+  index: -1

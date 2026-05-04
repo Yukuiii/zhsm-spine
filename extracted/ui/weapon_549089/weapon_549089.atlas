@@ -1,0 +1,13 @@
+
+weapon_549089.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao
+  rotate: false
+  xy: 2, 2
+  size: 650, 471
+  orig: 650, 471
+  offset: 0, 0
+  index: -1

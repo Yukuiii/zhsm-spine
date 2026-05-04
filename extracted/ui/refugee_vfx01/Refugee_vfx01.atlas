@@ -1,0 +1,69 @@
+
+Refugee_vfx01.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuguang_0
+  rotate: false
+  xy: 645, 453
+  size: 233, 347
+  orig: 233, 347
+  offset: 0, 0
+  index: -1
+liuguang_1
+  rotate: false
+  xy: 645, 104
+  size: 233, 347
+  orig: 233, 347
+  offset: 0, 0
+  index: -1
+liuguang_2
+  rotate: false
+  xy: 880, 453
+  size: 233, 347
+  orig: 233, 347
+  offset: 0, 0
+  index: -1
+liuguang_3
+  rotate: false
+  xy: 880, 104
+  size: 233, 347
+  orig: 233, 347
+  offset: 0, 0
+  index: -1
+liuguang_4
+  rotate: false
+  xy: 1115, 453
+  size: 233, 347
+  orig: 233, 347
+  offset: 0, 0
+  index: -1
+liuguang_5
+  rotate: false
+  xy: 1115, 104
+  size: 233, 347
+  orig: 233, 347
+  offset: 0, 0
+  index: -1
+liuguang_6
+  rotate: false
+  xy: 1350, 453
+  size: 233, 347
+  orig: 233, 347
+  offset: 0, 0
+  index: -1
+liuguang_7
+  rotate: false
+  xy: 1350, 104
+  size: 233, 347
+  orig: 233, 347
+  offset: 0, 0
+  index: -1
+refugee_jueseb_10003_0
+  rotate: false
+  xy: 2, 2
+  size: 641, 798
+  orig: 641, 798
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+hero_086_02.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_01_1
+  rotate: true
+  xy: 2, 173
+  size: 716, 551
+  orig: 716, 551
+  offset: 0, 0
+  index: -1
+hong_meimao_y
+  rotate: false
+  xy: 438, 157
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+hong_meimao_z
+  rotate: false
+  xy: 2, 2
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+hong_shenti_01
+  rotate: false
+  xy: 1786, 1498
+  size: 207, 547
+  orig: 207, 547
+  offset: 0, 0
+  index: -1
+hong_shenti_02
+  rotate: false
+  xy: 2, 891
+  size: 656, 1154
+  orig: 656, 1154
+  offset: 0, 0
+  index: -1
+hong_shenti_03
+  rotate: false
+  xy: 1347, 1404
+  size: 437, 641
+  orig: 437, 641
+  offset: 0, 0
+  index: -1
+hong_shenti_04
+  rotate: false
+  xy: 555, 200
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+hong_shou_y_01
+  rotate: false
+  xy: 1786, 1430
+  size: 101, 66
+  orig: 101, 66
+  offset: 0, 0
+  index: -1
+hong_shou_y_02
+  rotate: false
+  xy: 555, 260
+  size: 211, 272
+  orig: 211, 272
+  offset: 0, 0
+  index: -1
+hong_shou_z_01
+  rotate: false
+  xy: 1044, 712
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+hong_shou_z_02
+  rotate: false
+  xy: 555, 534
+  size: 248, 282
+  orig: 248, 282
+  offset: 0, 0
+  index: -1
+hong_texiao_01
+  rotate: true
+  xy: 938, 521
+  size: 120, 106
+  orig: 120, 106
+  offset: 0, 0
+  index: -1
+hong_texiao_02
+  rotate: true
+  xy: 660, 998
+  size: 250, 691
+  orig: 250, 691
+  offset: 0, 0
+  index: -1
+hong_texiao_03
+  rotate: true
+  xy: 660, 818
+  size: 178, 483
+  orig: 178, 483
+  offset: 0, 0
+  index: -1
+hong_texiao_04
+  rotate: false
+  xy: 805, 643
+  size: 237, 173
+  orig: 237, 173
+  offset: 0, 0
+  index: -1
+hong_texiao_05
+  rotate: true
+  xy: 1145, 816
+  size: 180, 227
+  orig: 180, 227
+  offset: 0, 0
+  index: -1
+hong_tf_01
+  rotate: true
+  xy: 2, 14
+  size: 157, 272
+  orig: 157, 272
+  offset: 0, 0
+  index: -1
+hong_tf_02
+  rotate: false
+  xy: 555, 837
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+hong_tf_03
+  rotate: true
+  xy: 276, 68
+  size: 103, 160
+  orig: 103, 160
+  offset: 0, 0
+  index: -1
+hong_tf_04
+  rotate: false
+  xy: 1353, 1012
+  size: 483, 390
+  orig: 483, 390
+  offset: 0, 0
+  index: -1
+hong_tf_05
+  rotate: false
+  xy: 660, 1250
+  size: 685, 795
+  orig: 685, 795
+  offset: 0, 0
+  index: -1
+hong_tou
+  rotate: true
+  xy: 805, 526
+  size: 115, 131
+  orig: 115, 131
+  offset: 0, 0
+  index: -1
+hong_yj_y
+  rotate: false
+  xy: 276, 41
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+hong_yj_z
+  rotate: false
+  xy: 1995, 2026
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1

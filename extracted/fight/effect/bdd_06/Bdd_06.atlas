@@ -1,0 +1,20 @@
+
+Bdd_06.png
+size: 80,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bdd_01
+  rotate: true
+  xy: 52, 2
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+t01
+  rotate: true
+  xy: 2, 2
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1

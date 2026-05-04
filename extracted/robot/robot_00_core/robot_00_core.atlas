@@ -1,0 +1,13 @@
+
+robot_00_core.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+robot_00_core
+  rotate: false
+  xy: 2, 2
+  size: 376, 376
+  orig: 376, 376
+  offset: 0, 0
+  index: -1

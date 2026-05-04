@@ -1,0 +1,90 @@
+
+UI_78.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_0
+  rotate: false
+  xy: 2, 150
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+01_1
+  rotate: false
+  xy: 2, 76
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+01_10
+  rotate: false
+  xy: 314, 2
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+01_11
+  rotate: false
+  xy: 470, 76
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+01_2
+  rotate: false
+  xy: 158, 150
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+01_3
+  rotate: false
+  xy: 2, 2
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+01_4
+  rotate: false
+  xy: 158, 76
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+01_5
+  rotate: false
+  xy: 314, 150
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+01_6
+  rotate: false
+  xy: 158, 2
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+01_7
+  rotate: false
+  xy: 314, 76
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+01_8
+  rotate: false
+  xy: 470, 150
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1
+01_9
+  rotate: false
+  xy: 626, 150
+  size: 154, 72
+  orig: 154, 72
+  offset: 0, 0
+  index: -1

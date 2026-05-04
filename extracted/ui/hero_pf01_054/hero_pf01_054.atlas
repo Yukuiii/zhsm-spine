@@ -1,0 +1,279 @@
+
+hero_pf01_054.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 53, 151
+  size: 274, 143
+  orig: 274, 143
+  offset: 0, 0
+  index: -1
+banbi
+  rotate: true
+  xy: 294, 15
+  size: 143, 45
+  orig: 143, 45
+  offset: 0, 0
+  index: -1
+biaoqing
+  rotate: true
+  xy: 199, 21
+  size: 137, 93
+  orig: 137, 93
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 755, 602
+  size: 144, 27
+  orig: 144, 27
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 782, 749
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+daizi-1
+  rotate: false
+  xy: 608, 494
+  size: 130, 109
+  orig: 130, 109
+  offset: 0, 0
+  index: -1
+daizi-2
+  rotate: true
+  xy: 678, 748
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+death
+  rotate: false
+  xy: 368, 448
+  size: 238, 113
+  orig: 238, 113
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 368, 563
+  size: 195, 175
+  orig: 195, 175
+  offset: 0, 0
+  index: -1
+lucixiao
+  rotate: true
+  xy: 895, 635
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+miyan
+  rotate: true
+  xy: 319, 323
+  size: 143, 32
+  orig: 143, 32
+  offset: 0, 0
+  index: -1
+shenti-2
+  rotate: false
+  xy: 53, 2
+  size: 144, 147
+  orig: 144, 147
+  offset: 0, 0
+  index: -1
+shouji
+  rotate: false
+  xy: 410, 740
+  size: 266, 96
+  orig: 266, 96
+  offset: 0, 0
+  index: -1
+toufa-1
+  rotate: true
+  xy: 198, 160
+  size: 75, 136
+  orig: 75, 136
+  offset: 0, 0
+  index: -1
+toufa-2
+  rotate: false
+  xy: 198, 237
+  size: 119, 188
+  orig: 119, 188
+  offset: 0, 0
+  index: -1
+toufa-3
+  rotate: true
+  xy: 761, 855
+  size: 149, 214
+  orig: 149, 214
+  offset: 0, 0
+  index: -1
+toufa-4
+  rotate: true
+  xy: 410, 838
+  size: 166, 349
+  orig: 166, 349
+  offset: 0, 0
+  index: -1
+toufa-5
+  rotate: true
+  xy: 565, 605
+  size: 133, 188
+  orig: 133, 188
+  offset: 0, 0
+  index: -1
+toufa-6
+  rotate: true
+  xy: 594, 341
+  size: 46, 124
+  orig: 46, 124
+  offset: 0, 0
+  index: -1
+toufa-7
+  rotate: true
+  xy: 608, 447
+  size: 45, 133
+  orig: 45, 133
+  offset: 0, 0
+  index: -1
+toufa-8
+  rotate: false
+  xy: 247, 468
+  size: 119, 313
+  orig: 119, 313
+  offset: 0, 0
+  index: -1
+toufa-9
+  rotate: false
+  xy: 2, 427
+  size: 243, 354
+  orig: 243, 354
+  offset: 0, 0
+  index: -1
+toushi-2
+  rotate: false
+  xy: 421, 346
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+toushi-3
+  rotate: false
+  xy: 2, 22
+  size: 49, 403
+  orig: 49, 403
+  offset: 0, 0
+  index: -1
+toushi-4
+  rotate: false
+  xy: 508, 369
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+weiqu
+  rotate: false
+  xy: 784, 639
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+wuqi-2
+  rotate: false
+  xy: 2, 783
+  size: 406, 221
+  orig: 406, 221
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 977, 851
+  size: 153, 45
+  orig: 153, 45
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 784, 539
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+yaoshi-1
+  rotate: false
+  xy: 893, 536
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+youshou-1_zd
+  rotate: false
+  xy: 903, 744
+  size: 68, 109
+  orig: 68, 109
+  offset: 0, 0
+  index: -1
+youshou-2
+  rotate: false
+  xy: 319, 238
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+youtui-1
+  rotate: false
+  xy: 353, 324
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+youtui-2
+  rotate: true
+  xy: 594, 389
+  size: 56, 123
+  orig: 56, 123
+  offset: 0, 0
+  index: -1
+zuoshou-2
+  rotate: true
+  xy: 973, 757
+  size: 92, 38
+  orig: 92, 38
+  offset: 0, 0
+  index: -1
+zuoshou-3
+  rotate: true
+  xy: 383, 232
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+zuoshou3_zd
+  rotate: false
+  xy: 719, 394
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+zuotui-1
+  rotate: false
+  xy: 498, 222
+  size: 52, 122
+  orig: 52, 122
+  offset: 0, 0
+  index: -1
+zuotui-2
+  rotate: false
+  xy: 437, 227
+  size: 59, 117
+  orig: 59, 117
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+fishing_winter.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 860, 577
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 588, 587
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+dress_front
+  rotate: false
+  xy: 180, 292
+  size: 112, 172
+  orig: 112, 172
+  offset: 0, 0
+  index: -1
+fish_handle
+  rotate: true
+  xy: 566, 535
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+fish_line
+  rotate: false
+  xy: 2, 166
+  size: 176, 298
+  orig: 176, 298
+  offset: 0, 0
+  index: -1
+fish_stick
+  rotate: false
+  xy: 2, 466
+  size: 267, 275
+  orig: 267, 275
+  offset: 0, 0
+  index: -1
+fish_wheel
+  rotate: true
+  xy: 943, 744
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+fupiao
+  rotate: false
+  xy: 265, 99
+  size: 14, 65
+  orig: 14, 65
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 180, 166
+  size: 124, 117
+  orig: 124, 117
+  offset: 0, 0
+  index: -1
+multi_hit_2
+  rotate: false
+  xy: 943, 805
+  size: 71, 216
+  orig: 71, 216
+  offset: 0, 0
+  index: -1
+spin_1
+  rotate: false
+  xy: 172, 5
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+spin_2
+  rotate: false
+  xy: 213, 5
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+winter/arm
+  rotate: false
+  xy: 172, 67
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+winter/bag
+  rotate: false
+  xy: 724, 587
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+winter/dress
+  rotate: false
+  xy: 449, 564
+  size: 137, 177
+  orig: 137, 177
+  offset: 0, 0
+  index: -1
+winter/fore_ground
+  rotate: false
+  xy: 2, 743
+  size: 939, 278
+  orig: 939, 278
+  offset: 0, 0
+  index: -1
+winter/hair
+  rotate: false
+  xy: 2, 2
+  size: 168, 162
+  orig: 168, 162
+  offset: 0, 0
+  index: -1
+winter/hat
+  rotate: false
+  xy: 271, 557
+  size: 176, 184
+  orig: 176, 184
+  offset: 0, 0
+  index: -1
+winter/left _leg
+  rotate: false
+  xy: 860, 627
+  size: 73, 114
+  orig: 73, 114
+  offset: 0, 0
+  index: -1
+winter/right_leg
+  rotate: true
+  xy: 462, 493
+  size: 69, 102
+  orig: 69, 102
+  offset: 0, 0
+  index: -1
+winter/shadow
+  rotate: false
+  xy: 271, 500
+  size: 189, 55
+  orig: 189, 55
+  offset: 0, 0
+  index: -1

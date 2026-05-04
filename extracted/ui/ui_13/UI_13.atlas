@@ -1,0 +1,13 @@
+
+UI_13.png
+size: 116,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t1
+  rotate: false
+  xy: 2, 2
+  size: 112, 108
+  orig: 112, 108
+  offset: 0, 0
+  index: -1

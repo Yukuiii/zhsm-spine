@@ -1,0 +1,419 @@
+
+Hero_pf01_047Q_skill.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DCP1
+  rotate: false
+  xy: 443, 356
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+F_y_1
+  rotate: true
+  xy: 700, 198
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+F_y_2
+  rotate: false
+  xy: 994, 262
+  size: 28, 67
+  orig: 28, 67
+  offset: 0, 0
+  index: -1
+F_z_1
+  rotate: true
+  xy: 448, 196
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+F_z_2
+  rotate: false
+  xy: 514, 135
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+H_y_1
+  rotate: true
+  xy: 358, 82
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+H_y_2
+  rotate: false
+  xy: 994, 226
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+H_y_3
+  rotate: true
+  xy: 666, 197
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+H_y_32
+  rotate: true
+  xy: 378, 17
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+H_z_1
+  rotate: false
+  xy: 354, 49
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+H_z_12
+  rotate: true
+  xy: 445, 85
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+H_z_13
+  rotate: true
+  xy: 478, 94
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+H_z_2
+  rotate: false
+  xy: 406, 86
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+H_z_3
+  rotate: false
+  xy: 316, 2
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Mmao_y
+  rotate: true
+  xy: 1018, 488
+  size: 22, 4
+  orig: 22, 4
+  offset: 0, 0
+  index: -1
+Mmao_z
+  rotate: false
+  xy: 256, 2
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+QKY
+  rotate: false
+  xy: 702, 230
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+ShanDian_05
+  rotate: true
+  xy: 158, 59
+  size: 154, 77
+  orig: 154, 77
+  offset: 0, 0
+  index: -1
+ShanDian_07
+  rotate: false
+  xy: 245, 279
+  size: 154, 77
+  orig: 154, 77
+  offset: 0, 0
+  index: -1
+Sti
+  rotate: false
+  xy: 518, 254
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+Tex-0028_01
+  rotate: false
+  xy: 158, 19
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Tex-0028_02
+  rotate: false
+  xy: 237, 9
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Tex-0028_03
+  rotate: false
+  xy: 508, 214
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Tex-0028_04
+  rotate: true
+  xy: 358, 115
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Tex-0028_05
+  rotate: true
+  xy: 398, 117
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Tex-0028_06
+  rotate: false
+  xy: 587, 199
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Tex-0028_07
+  rotate: false
+  xy: 801, 201
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Tex-0028_08
+  rotate: true
+  xy: 438, 117
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Tfa_1
+  rotate: true
+  xy: 909, 331
+  size: 57, 111
+  orig: 57, 111
+  offset: 0, 0
+  index: -1
+Tfa_2
+  rotate: false
+  xy: 448, 223
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+Tfa_3
+  rotate: true
+  xy: 801, 241
+  size: 51, 101
+  orig: 51, 101
+  offset: 0, 0
+  index: -1
+Tfa_4
+  rotate: true
+  xy: 801, 294
+  size: 63, 106
+  orig: 63, 106
+  offset: 0, 0
+  index: -1
+Tfa_5
+  rotate: false
+  xy: 378, 196
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+Tfa_6
+  rotate: true
+  xy: 237, 49
+  size: 35, 115
+  orig: 35, 115
+  offset: 0, 0
+  index: -1
+Tfa_7
+  rotate: true
+  xy: 401, 292
+  size: 62, 115
+  orig: 62, 115
+  offset: 0, 0
+  index: -1
+Tfa_8
+  rotate: false
+  xy: 478, 131
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+Tfa_9
+  rotate: true
+  xy: 599, 239
+  size: 88, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 909, 252
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+Wqi_1
+  rotate: true
+  xy: 909, 390
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+Wqi_2
+  rotate: false
+  xy: 599, 358
+  size: 154, 152
+  orig: 154, 152
+  offset: 0, 0
+  index: -1
+Wqi_3
+  rotate: false
+  xy: 2, 17
+  size: 154, 196
+  orig: 154, 196
+  offset: 0, 0
+  index: -1
+Wqi_4
+  rotate: false
+  xy: 2, 363
+  size: 242, 147
+  orig: 242, 147
+  offset: 0, 0
+  index: -1
+YJ
+  rotate: false
+  xy: 158, 2
+  size: 61, 15
+  orig: 61, 15
+  offset: 0, 0
+  index: -1
+Yjing_1
+  rotate: true
+  xy: 552, 133
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+Yjing_2
+  rotate: false
+  xy: 502, 196
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Yjing_3
+  rotate: false
+  xy: 800, 185
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+Yjing_4
+  rotate: false
+  xy: 2, 3
+  size: 61, 12
+  orig: 61, 12
+  offset: 0, 0
+  index: -1
+Yjing_D
+  rotate: true
+  xy: 353, 2
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+Yjing_S
+  rotate: true
+  xy: 880, 192
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+Zui_1
+  rotate: false
+  xy: 237, 2
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Zui_2
+  rotate: false
+  xy: 221, 8
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Zui_3
+  rotate: true
+  xy: 745, 339
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+h4-wuqi-6
+  rotate: true
+  xy: 599, 329
+  size: 27, 144
+  orig: 27, 144
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: true
+  xy: 758, 193
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+kage
+  rotate: false
+  xy: 245, 194
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1
+weapon_fire
+  rotate: false
+  xy: 2, 215
+  size: 241, 146
+  orig: 241, 146
+  offset: 0, 0
+  index: -1
+wuqi_1_fire
+  rotate: false
+  xy: 237, 86
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+wuqi_2_fire
+  rotate: false
+  xy: 755, 359
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+wuqi_3_fire
+  rotate: true
+  xy: 246, 358
+  size: 152, 195
+  orig: 152, 195
+  offset: 0, 0
+  index: -1

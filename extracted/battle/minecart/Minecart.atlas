@@ -1,0 +1,111 @@
+
+Minecart.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: false
+  xy: 551, 107
+  size: 7, 30
+  orig: 7, 30
+  offset: 0, 0
+  index: -1
+deng2
+  rotate: false
+  xy: 589, 147
+  size: 7, 30
+  orig: 7, 30
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 327, 90
+  size: 222, 47
+  orig: 222, 47
+  offset: 0, 0
+  index: -1
+houlun
+  rotate: false
+  xy: 837, 181
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+houlun 2
+  rotate: false
+  xy: 681, 181
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+jingzi
+  rotate: true
+  xy: 2, 2
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+jingzi2
+  rotate: true
+  xy: 27, 2
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 2, 14
+  size: 100, 16
+  orig: 100, 16
+  offset: 0, 0
+  index: -1
+paojia
+  rotate: false
+  xy: 327, 28
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+qianke
+  rotate: false
+  xy: 589, 179
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+qianlun
+  rotate: false
+  xy: 913, 180
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+qianlun2
+  rotate: false
+  xy: 760, 181
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 327, 139
+  size: 260, 115
+  orig: 260, 115
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 32
+  size: 323, 222
+  orig: 323, 222
+  offset: 0, 0
+  index: -1
+zuolun
+  rotate: false
+  xy: 407, 14
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1

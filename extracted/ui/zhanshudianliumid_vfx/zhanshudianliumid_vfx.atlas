@@ -1,0 +1,62 @@
+
+zhanshudianliumid_vfx.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ring_00000
+  rotate: false
+  xy: 2, 184
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00001
+  rotate: false
+  xy: 2, 2
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00002
+  rotate: false
+  xy: 184, 184
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00003
+  rotate: false
+  xy: 184, 2
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00004
+  rotate: false
+  xy: 366, 184
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00005
+  rotate: false
+  xy: 366, 2
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00006
+  rotate: false
+  xy: 548, 184
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00007
+  rotate: false
+  xy: 548, 2
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

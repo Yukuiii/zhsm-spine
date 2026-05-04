@@ -1,0 +1,188 @@
+
+Pet_004Q_skill.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1233
+  rotate: false
+  xy: 2, 193
+  size: 488, 414
+  orig: 488, 414
+  offset: 0, 0
+  index: -1
+bshenti_yy
+  rotate: true
+  xy: 273, 53
+  size: 44, 128
+  orig: 44, 128
+  offset: 0, 0
+  index: -1
+erduo-1
+  rotate: false
+  xy: 912, 857
+  size: 87, 165
+  orig: 87, 165
+  offset: 0, 0
+  index: -1
+erduo-2
+  rotate: true
+  xy: 129, 43
+  size: 54, 142
+  orig: 54, 142
+  offset: 0, 0
+  index: -1
+guanzi-1
+  rotate: true
+  xy: 129, 3
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+guanzi-2
+  rotate: true
+  xy: 403, 2
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+hq1
+  rotate: false
+  xy: 713, 520
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+hqg1
+  rotate: false
+  xy: 538, 5
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 932, 326
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+jiandai
+  rotate: true
+  xy: 492, 362
+  size: 245, 219
+  orig: 245, 219
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 690, 676
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+naodai
+  rotate: false
+  xy: 492, 201
+  size: 214, 159
+  orig: 214, 159
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 650, 732
+  size: 260, 290
+  orig: 260, 290
+  offset: 0, 0
+  index: -1
+shenti_yy
+  rotate: true
+  xy: 403, 55
+  size: 42, 126
+  orig: 42, 126
+  offset: 0, 0
+  index: -1
+weiba-1
+  rotate: true
+  xy: 932, 648
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+weiba-2
+  rotate: false
+  xy: 713, 366
+  size: 217, 152
+  orig: 217, 152
+  offset: 0, 0
+  index: -1
+wuqiwuying
+  rotate: false
+  xy: 2, 609
+  size: 646, 413
+  orig: 646, 413
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 650, 612
+  size: 118, 38
+  orig: 118, 38
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 13
+  size: 84, 125
+  orig: 84, 125
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 932, 563
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 2, 99
+  size: 534, 92
+  orig: 534, 92
+  offset: 0, 0
+  index: -1
+zuojian
+  rotate: false
+  xy: 455, 16
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+zuoshou-1
+  rotate: false
+  xy: 932, 476
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+zuoshou-2
+  rotate: false
+  xy: 708, 287
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+zuoshoufang
+  rotate: false
+  xy: 912, 744
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 932, 392
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1

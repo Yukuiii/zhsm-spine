@@ -1,0 +1,48 @@
+
+studing_up.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 46
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 140, 105
+  size: 112, 127
+  orig: 112, 127
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 135, 2
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 180
+  size: 136, 52
+  orig: 136, 52
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 36, 15
+  size: 83, 29
+  orig: 83, 29
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 12
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+boom.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+合成 2_00000
+  rotate: false
+  xy: 2, 158
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00001
+  rotate: false
+  xy: 158, 314
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00002
+  rotate: false
+  xy: 2, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00003
+  rotate: false
+  xy: 158, 158
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00004
+  rotate: false
+  xy: 314, 314
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00005
+  rotate: false
+  xy: 158, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00006
+  rotate: false
+  xy: 314, 158
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00007
+  rotate: false
+  xy: 470, 314
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00008
+  rotate: false
+  xy: 314, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00009
+  rotate: false
+  xy: 470, 158
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00010
+  rotate: false
+  xy: 626, 314
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00011
+  rotate: false
+  xy: 470, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00012
+  rotate: false
+  xy: 626, 158
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00013
+  rotate: false
+  xy: 782, 314
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00014
+  rotate: false
+  xy: 626, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+合成 2_00015
+  rotate: false
+  xy: 2, 314
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1

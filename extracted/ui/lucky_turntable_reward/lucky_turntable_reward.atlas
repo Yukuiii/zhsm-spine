@@ -1,0 +1,153 @@
+
+lucky_turntable_reward.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 612
+  size: 410, 410
+  orig: 410, 410
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 414, 634
+  size: 389, 388
+  orig: 389, 388
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 202
+  size: 409, 408
+  orig: 409, 408
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 851, 314
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 414, 408
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+lizi_1
+  rotate: false
+  xy: 2, 56
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_10
+  rotate: false
+  xy: 440, 116
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_11
+  rotate: false
+  xy: 586, 116
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_12
+  rotate: false
+  xy: 786, 440
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_13
+  rotate: false
+  xy: 705, 294
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_14
+  rotate: false
+  xy: 732, 148
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_15
+  rotate: false
+  xy: 732, 2
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_2
+  rotate: false
+  xy: 805, 878
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_3
+  rotate: false
+  xy: 148, 56
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_4
+  rotate: false
+  xy: 805, 732
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_5
+  rotate: false
+  xy: 294, 56
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_6
+  rotate: false
+  xy: 640, 488
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_7
+  rotate: false
+  xy: 413, 262
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_8
+  rotate: false
+  xy: 805, 586
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+lizi_9
+  rotate: false
+  xy: 559, 262
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+star_0
+  rotate: false
+  xy: 878, 192
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

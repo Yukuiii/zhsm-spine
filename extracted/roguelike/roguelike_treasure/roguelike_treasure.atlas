@@ -1,0 +1,167 @@
+
+roguelike_treasure.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex-0389_01
+  rotate: false
+  xy: 1456, 132
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+Tex-0389_02
+  rotate: false
+  xy: 1575, 132
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+Tex-0389_03
+  rotate: false
+  xy: 1694, 136
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1
+Tex-0389_04
+  rotate: false
+  xy: 1813, 136
+  size: 111, 118
+  orig: 111, 118
+  offset: 0, 0
+  index: -1
+box_close1
+  rotate: false
+  xy: 2, 2
+  size: 133, 149
+  orig: 133, 149
+  offset: 0, 0
+  index: -1
+box_close2
+  rotate: false
+  xy: 2, 153
+  size: 183, 101
+  orig: 183, 101
+  offset: 0, 0
+  index: -1
+box_closegolden1
+  rotate: false
+  xy: 137, 2
+  size: 133, 149
+  orig: 133, 149
+  offset: 0, 0
+  index: -1
+box_closegolden2
+  rotate: false
+  xy: 372, 153
+  size: 183, 101
+  orig: 183, 101
+  offset: 0, 0
+  index: -1
+box_closered1
+  rotate: true
+  xy: 905, 123
+  size: 131, 147
+  orig: 131, 147
+  offset: 0, 0
+  index: -1
+box_closered2
+  rotate: false
+  xy: 187, 153
+  size: 183, 101
+  orig: 183, 101
+  offset: 0, 0
+  index: -1
+box_open1
+  rotate: false
+  xy: 1322, 130
+  size: 132, 124
+  orig: 132, 124
+  offset: 0, 0
+  index: -1
+box_open2
+  rotate: false
+  xy: 457, 51
+  size: 183, 100
+  orig: 183, 100
+  offset: 0, 0
+  index: -1
+box_opengolden1
+  rotate: false
+  xy: 1188, 127
+  size: 132, 127
+  orig: 132, 127
+  offset: 0, 0
+  index: -1
+box_opengolden2
+  rotate: false
+  xy: 557, 153
+  size: 183, 101
+  orig: 183, 101
+  offset: 0, 0
+  index: -1
+box_openred1
+  rotate: false
+  xy: 1054, 127
+  size: 132, 127
+  orig: 132, 127
+  offset: 0, 0
+  index: -1
+box_openred2
+  rotate: false
+  xy: 272, 50
+  size: 183, 101
+  orig: 183, 101
+  offset: 0, 0
+  index: -1
+star_00000
+  rotate: false
+  xy: 1926, 221
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+star_00001
+  rotate: false
+  xy: 681, 125
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+star_00002
+  rotate: false
+  xy: 272, 7
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+star_00003
+  rotate: false
+  xy: 642, 111
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+star_00004
+  rotate: false
+  xy: 311, 20
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+star_00005
+  rotate: false
+  xy: 642, 83
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+vfx_di_0
+  rotate: true
+  xy: 742, 159
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1

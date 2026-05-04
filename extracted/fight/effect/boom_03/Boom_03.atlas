@@ -1,0 +1,76 @@
+
+Boom_03.png
+size: 105,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: false
+  xy: 2, 15
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+qiangyan_01
+  rotate: false
+  xy: 59, 50
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+qiangyan_02
+  rotate: false
+  xy: 59, 27
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+qiangyan_03
+  rotate: false
+  xy: 82, 50
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+qiangyan_04
+  rotate: false
+  xy: 82, 27
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+qiangyan_05
+  rotate: false
+  xy: 59, 4
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+t08
+  rotate: false
+  xy: 82, 6
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+t09
+  rotate: false
+  xy: 15, 4
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+t10
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+t11
+  rotate: false
+  xy: 82, 15
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1

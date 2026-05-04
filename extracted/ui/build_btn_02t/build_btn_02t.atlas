@@ -1,0 +1,13 @@
+
+build_btn_02t.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t01
+  rotate: false
+  xy: 2, 2
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1

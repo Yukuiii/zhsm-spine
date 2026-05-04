@@ -1,0 +1,279 @@
+
+hero_pf02_004.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 339, 367
+  size: 274, 143
+  orig: 274, 143
+  offset: 0, 0
+  index: -1
+banbi
+  rotate: true
+  xy: 957, 261
+  size: 125, 42
+  orig: 125, 42
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 637, 117
+  size: 127, 28
+  orig: 127, 28
+  offset: 0, 0
+  index: -1
+death
+  rotate: false
+  xy: 766, 128
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: true
+  xy: 972, 446
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+fashi-1
+  rotate: true
+  xy: 793, 364
+  size: 80, 137
+  orig: 80, 137
+  offset: 0, 0
+  index: -1
+fashi-2
+  rotate: false
+  xy: 467, 67
+  size: 158, 70
+  orig: 158, 70
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 635, 249
+  size: 153, 152
+  orig: 153, 152
+  offset: 0, 0
+  index: -1
+qundi
+  rotate: false
+  xy: 887, 256
+  size: 68, 106
+  orig: 68, 106
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 615, 403
+  size: 107, 176
+  orig: 107, 176
+  offset: 0, 0
+  index: -1
+shouji2
+  rotate: false
+  xy: 2, 2
+  size: 49, 18
+  orig: 49, 18
+  offset: 0, 0
+  index: -1
+toufa-1
+  rotate: false
+  xy: 963, 195
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+toufa-2
+  rotate: false
+  xy: 339, 129
+  size: 118, 236
+  orig: 118, 236
+  offset: 0, 0
+  index: -1
+toufa-3
+  rotate: true
+  xy: 53, 5
+  size: 15, 53
+  orig: 15, 53
+  offset: 0, 0
+  index: -1
+toufa-4
+  rotate: false
+  xy: 459, 186
+  size: 174, 179
+  orig: 174, 179
+  offset: 0, 0
+  index: -1
+toufa-5
+  rotate: false
+  xy: 2, 22
+  size: 335, 488
+  orig: 335, 488
+  offset: 0, 0
+  index: -1
+toufa-7
+  rotate: true
+  xy: 459, 139
+  size: 45, 176
+  orig: 45, 176
+  offset: 0, 0
+  index: -1
+tuerduo-1
+  rotate: true
+  xy: 793, 446
+  size: 64, 177
+  orig: 64, 177
+  offset: 0, 0
+  index: -1
+tuerduo-2
+  rotate: true
+  xy: 339, 6
+  size: 121, 126
+  orig: 121, 126
+  offset: 0, 0
+  index: -1
+tuihua
+  rotate: true
+  xy: 883, 200
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 790, 269
+  size: 95, 93
+  orig: 95, 93
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 637, 147
+  size: 125, 43
+  orig: 125, 43
+  offset: 0, 0
+  index: -1
+yaohua-1
+  rotate: true
+  xy: 972, 480
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+yaohua-2
+  rotate: true
+  xy: 627, 13
+  size: 30, 107
+  orig: 30, 107
+  offset: 0, 0
+  index: -1
+youmeimao
+  rotate: true
+  xy: 785, 3
+  size: 40, 10
+  orig: 40, 10
+  offset: 0, 0
+  index: -1
+youshou-1
+  rotate: false
+  xy: 952, 131
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+youshou-2
+  rotate: true
+  xy: 790, 215
+  size: 52, 91
+  orig: 52, 91
+  offset: 0, 0
+  index: -1
+youshou-4
+  rotate: true
+  xy: 932, 388
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+youtui-1
+  rotate: true
+  xy: 627, 45
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+youtui-2
+  rotate: true
+  xy: 635, 192
+  size: 55, 122
+  orig: 55, 122
+  offset: 0, 0
+  index: -1
+zhangzui
+  rotate: false
+  xy: 759, 228
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 615, 377
+  size: 24, 7
+  orig: 24, 7
+  offset: 0, 0
+  index: -1
+zuomeimao
+  rotate: false
+  xy: 579, 9
+  size: 45, 11
+  orig: 45, 11
+  offset: 0, 0
+  index: -1
+zuoshou-2
+  rotate: true
+  xy: 736, 2
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+zuoshou-22
+  rotate: false
+  xy: 733, 45
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+zuoshou-2_zd
+  rotate: false
+  xy: 579, 22
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+zuoshou-3
+  rotate: true
+  xy: 866, 144
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+zuotui-1
+  rotate: true
+  xy: 764, 161
+  size: 52, 100
+  orig: 52, 100
+  offset: 0, 0
+  index: -1
+zuotui-2
+  rotate: true
+  xy: 467, 3
+  size: 62, 110
+  orig: 62, 110
+  offset: 0, 0
+  index: -1

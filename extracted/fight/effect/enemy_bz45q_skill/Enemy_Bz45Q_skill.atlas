@@ -1,0 +1,258 @@
+
+Enemy_Bz45Q_skill.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q01
+  rotate: true
+  xy: 617, 575
+  size: 189, 65
+  orig: 189, 65
+  offset: 0, 0
+  index: -1
+Q02
+  rotate: false
+  xy: 827, 787
+  size: 149, 44
+  orig: 149, 44
+  offset: 0, 0
+  index: -1
+Q03
+  rotate: false
+  xy: 328, 680
+  size: 216, 72
+  orig: 216, 72
+  offset: 0, 0
+  index: -1
+Q04
+  rotate: true
+  xy: 351, 308
+  size: 182, 59
+  orig: 182, 59
+  offset: 0, 0
+  index: -1
+Q05
+  rotate: true
+  xy: 460, 475
+  size: 203, 84
+  orig: 203, 84
+  offset: 0, 0
+  index: -1
+Q06
+  rotate: true
+  xy: 250, 222
+  size: 248, 99
+  orig: 248, 99
+  offset: 0, 0
+  index: -1
+Tex-0032-6_01
+  rotate: false
+  xy: 412, 345
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0032-6_02
+  rotate: false
+  xy: 117, 87
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0032-6_03
+  rotate: false
+  xy: 412, 215
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0032-6_04
+  rotate: false
+  xy: 695, 659
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+erduo-1
+  rotate: true
+  xy: 561, 155
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: -1
+erduo-2
+  rotate: true
+  xy: 306, 100
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 699
+  size: 324, 322
+  orig: 324, 322
+  offset: 0, 0
+  index: -1
+houguan
+  rotate: false
+  xy: 247, 87
+  size: 57, 128
+  orig: 57, 128
+  offset: 0, 0
+  index: -1
+houqi
+  rotate: false
+  xy: 117, 2
+  size: 142, 83
+  orig: 142, 83
+  offset: 0, 0
+  index: -1
+houtui-1
+  rotate: false
+  xy: 826, 564
+  size: 111, 100
+  orig: 111, 100
+  offset: 0, 0
+  index: -1
+houtui-2
+  rotate: true
+  xy: 482, 111
+  size: 102, 77
+  orig: 102, 77
+  offset: 0, 0
+  index: -1
+houtui-3
+  rotate: false
+  xy: 546, 426
+  size: 89, 117
+  orig: 89, 117
+  offset: 0, 0
+  index: -1
+jiao-1
+  rotate: false
+  xy: 96, 472
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+jiao-2
+  rotate: false
+  xy: 695, 789
+  size: 130, 232
+  orig: 130, 232
+  offset: 0, 0
+  index: -1
+shenti-1
+  rotate: false
+  xy: 825, 666
+  size: 109, 119
+  orig: 109, 119
+  offset: 0, 0
+  index: -1
+shenti-2
+  rotate: false
+  xy: 296, 492
+  size: 162, 186
+  orig: 162, 186
+  offset: 0, 0
+  index: -1
+shenti-3
+  rotate: false
+  xy: 328, 754
+  size: 196, 267
+  orig: 196, 267
+  offset: 0, 0
+  index: -1
+shenti-4
+  rotate: false
+  xy: 827, 833
+  size: 166, 188
+  orig: 166, 188
+  offset: 0, 0
+  index: -1
+yaci
+  rotate: false
+  xy: 546, 545
+  size: 69, 219
+  orig: 69, 219
+  offset: 0, 0
+  index: -1
+yaci-1
+  rotate: false
+  xy: 526, 766
+  size: 167, 255
+  orig: 167, 255
+  offset: 0, 0
+  index: -1
+yaci-2
+  rotate: false
+  xy: 96, 217
+  size: 152, 253
+  orig: 152, 253
+  offset: 0, 0
+  index: -1
+youtui-1
+  rotate: false
+  xy: 684, 580
+  size: 140, 77
+  orig: 140, 77
+  offset: 0, 0
+  index: -1
+youtui-2
+  rotate: false
+  xy: 2, 16
+  size: 113, 145
+  orig: 113, 145
+  offset: 0, 0
+  index: -1
+yuanding-1
+  rotate: false
+  xy: 542, 313
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+yuanding-2
+  rotate: true
+  xy: 542, 250
+  size: 61, 108
+  orig: 61, 108
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 2, 163
+  size: 534, 92
+  orig: 534, 92
+  offset: 0, 0
+  index: -1
+zuotui-1
+  rotate: false
+  xy: 360, 113
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+zuotui-2
+  rotate: false
+  xy: 936, 693
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+zuotui-3
+  rotate: false
+  xy: 939, 569
+  size: 78, 122
+  orig: 78, 122
+  offset: 0, 0
+  index: -1
+zuotui-4
+  rotate: false
+  xy: 351, 255
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1

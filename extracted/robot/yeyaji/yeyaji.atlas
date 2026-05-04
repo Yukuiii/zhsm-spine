@@ -1,0 +1,27 @@
+
+yeyaji.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m_down
+  rotate: false
+  xy: 551, 597
+  size: 215, 237
+  orig: 215, 237
+  offset: 0, 0
+  index: -1
+m_up
+  rotate: false
+  xy: 2, 2
+  size: 222, 232
+  orig: 222, 232
+  offset: 0, 0
+  index: -1
+n_main
+  rotate: false
+  xy: 2, 236
+  size: 547, 598
+  orig: 547, 598
+  offset: 0, 0
+  index: -1

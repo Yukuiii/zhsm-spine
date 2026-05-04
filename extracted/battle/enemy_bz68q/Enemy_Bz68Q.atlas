@@ -1,0 +1,132 @@
+
+Enemy_Bz68Q.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kua
+  rotate: true
+  xy: 323, 196
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 185, 278
+  size: 184, 137
+  orig: 184, 137
+  offset: 0, 0
+  index: -1
+shou_y_01
+  rotate: false
+  xy: 787, 424
+  size: 111, 85
+  orig: 111, 85
+  offset: 0, 0
+  index: -1
+shou_y_02
+  rotate: false
+  xy: 2, 161
+  size: 181, 254
+  orig: 181, 254
+  offset: 0, 0
+  index: -1
+shou_y_03
+  rotate: false
+  xy: 555, 394
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+shou_y_04
+  rotate: true
+  xy: 371, 276
+  size: 48, 114
+  orig: 48, 114
+  offset: 0, 0
+  index: -1
+shou_z_01
+  rotate: true
+  xy: 538, 433
+  size: 76, 247
+  orig: 76, 247
+  offset: 0, 0
+  index: -1
+shou_z_02
+  rotate: false
+  xy: 512, 349
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+shou_z_03
+  rotate: false
+  xy: 607, 397
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+shou_z_04
+  rotate: false
+  xy: 900, 432
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+shou_z_05
+  rotate: false
+  xy: 429, 171
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+tui_y_01
+  rotate: false
+  xy: 555, 352
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+tui_y_02
+  rotate: true
+  xy: 2, 2
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+tui_y_03
+  rotate: true
+  xy: 371, 326
+  size: 89, 139
+  orig: 89, 139
+  offset: 0, 0
+  index: -1
+tui_z_01
+  rotate: true
+  xy: 185, 178
+  size: 98, 136
+  orig: 98, 136
+  offset: 0, 0
+  index: -1
+tui_z_02
+  rotate: true
+  xy: 2, 90
+  size: 69, 170
+  orig: 69, 170
+  offset: 0, 0
+  index: -1
+tui_z_03
+  rotate: true
+  xy: 127, 23
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 2, 417
+  size: 534, 92
+  orig: 534, 92
+  offset: 0, 0
+  index: -1

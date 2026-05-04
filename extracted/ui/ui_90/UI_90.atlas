@@ -1,0 +1,118 @@
+
+UI_90.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textcn_00000
+  rotate: false
+  xy: 400, 505
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 798, 963
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dot_00000
+  rotate: false
+  xy: 201, 167
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+kuang2_00000
+  rotate: false
+  xy: 2, 798
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+kuang2_00001
+  rotate: false
+  xy: 2, 599
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+kuang2_00002
+  rotate: false
+  xy: 201, 798
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+kuang2_00003
+  rotate: false
+  xy: 2, 400
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+kuang2_00004
+  rotate: false
+  xy: 201, 599
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+kuang2_00005
+  rotate: false
+  xy: 400, 798
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+kuang2_00006
+  rotate: false
+  xy: 2, 201
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+kuang2_00007
+  rotate: false
+  xy: 201, 400
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+kuang2_00008
+  rotate: false
+  xy: 400, 599
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+kuang2_00009
+  rotate: false
+  xy: 599, 798
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+kuang2_00010
+  rotate: false
+  xy: 2, 2
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+kuang2_00011
+  rotate: false
+  xy: 201, 201
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+ring_00000
+  rotate: false
+  xy: 599, 732
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

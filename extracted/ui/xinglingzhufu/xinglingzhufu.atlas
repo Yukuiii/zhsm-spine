@@ -1,0 +1,34 @@
+
+xinglingzhufu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/newyear_adi_09
+  rotate: true
+  xy: 2, 68
+  size: 182, 306
+  orig: 182, 306
+  offset: 0, 0
+  index: -1
+image/newyear_adi_10
+  rotate: true
+  xy: 310, 127
+  size: 123, 321
+  orig: 123, 321
+  offset: 0, 0
+  index: -1
+image/newyear_adi_11
+  rotate: true
+  xy: 633, 127
+  size: 123, 321
+  orig: 123, 321
+  offset: 0, 0
+  index: -1
+image/newyear_adi_12
+  rotate: true
+  xy: 310, 2
+  size: 123, 321
+  orig: 123, 321
+  offset: 0, 0
+  index: -1

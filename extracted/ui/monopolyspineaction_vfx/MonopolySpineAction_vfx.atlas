@@ -1,0 +1,48 @@
+
+MonopolySpineAction_vfx.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choujiangquan
+  rotate: false
+  xy: 2, 2
+  size: 263, 204
+  orig: 263, 204
+  offset: 0, 0
+  index: -1
+choujiangquan1
+  rotate: false
+  xy: 1229, 278
+  size: 263, 204
+  orig: 263, 204
+  offset: 0, 0
+  index: -1
+choujiangquan2
+  rotate: false
+  xy: 267, 2
+  size: 263, 204
+  orig: 263, 204
+  offset: 0, 0
+  index: -1
+gaojibg
+  rotate: false
+  xy: 2, 208
+  size: 407, 274
+  orig: 407, 274
+  offset: 0, 0
+  index: -1
+gaojibg1
+  rotate: false
+  xy: 411, 208
+  size: 407, 274
+  orig: 407, 274
+  offset: 0, 0
+  index: -1
+gaojibg2
+  rotate: false
+  xy: 820, 208
+  size: 407, 274
+  orig: 407, 274
+  offset: 0, 0
+  index: -1

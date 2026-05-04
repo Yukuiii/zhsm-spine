@@ -1,0 +1,27 @@
+
+Bdd_05.png
+size: 199,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T01
+  rotate: true
+  xy: 152, 18
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+z01
+  rotate: true
+  xy: 2, 2
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+z02
+  rotate: true
+  xy: 77, 2
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1

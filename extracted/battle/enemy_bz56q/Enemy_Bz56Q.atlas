@@ -1,0 +1,230 @@
+
+Enemy_Bz56Q.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jian_y
+  rotate: false
+  xy: 929, 746
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+Tex_zhua_0_00000_01
+  rotate: false
+  xy: 2, 715
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+Tex_zhua_0_00000_02
+  rotate: false
+  xy: 2, 406
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+Tex_zhua_0_00000_03
+  rotate: false
+  xy: 311, 715
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+Tex_zhua_0_00000_04
+  rotate: false
+  xy: 2, 97
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+Tex_zhua_0_00000_05
+  rotate: false
+  xy: 311, 406
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+Tex_zhua_0_00000_06
+  rotate: false
+  xy: 620, 715
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+Tou_1
+  rotate: false
+  xy: 226, 2
+  size: 27, 93
+  orig: 27, 93
+  offset: 0, 0
+  index: -1
+Tou_2
+  rotate: true
+  xy: 620, 424
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+Tou_4
+  rotate: false
+  xy: 596, 360
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+Wing_B_01
+  rotate: false
+  xy: 311, 268
+  size: 283, 136
+  orig: 283, 136
+  offset: 0, 0
+  index: -1
+Wing_B_02
+  rotate: false
+  xy: 311, 148
+  size: 162, 118
+  orig: 162, 118
+  offset: 0, 0
+  index: -1
+Wing_Z_01
+  rotate: false
+  xy: 620, 577
+  size: 282, 136
+  orig: 282, 136
+  offset: 0, 0
+  index: -1
+Wing_Z_02
+  rotate: true
+  xy: 904, 550
+  size: 163, 118
+  orig: 163, 118
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 983, 848
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+dao
+  rotate: false
+  xy: 703, 513
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+dao-3
+  rotate: false
+  xy: 475, 195
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+datui-1
+  rotate: false
+  xy: 561, 208
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+datui-2
+  rotate: true
+  xy: 475, 148
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+jianbang-2
+  rotate: false
+  xy: 255, 57
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+kage
+  rotate: true
+  xy: 929, 891
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 767, 540
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+lan-1
+  rotate: true
+  xy: 703, 479
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+lan-2
+  rotate: false
+  xy: 527, 153
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 372, 106
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 620, 478
+  size: 81, 97
+  orig: 81, 97
+  offset: 0, 0
+  index: -1
+tui-2
+  rotate: false
+  xy: 929, 794
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+xiaotui-2
+  rotate: false
+  xy: 158, 8
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+xigai-1
+  rotate: true
+  xy: 929, 720
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+xigai-2
+  rotate: false
+  xy: 561, 174
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+yao
+  rotate: true
+  xy: 311, 98
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+圖層 72
+  rotate: true
+  xy: 2, 5
+  size: 90, 154
+  orig: 90, 154
+  offset: 0, 0
+  index: -1

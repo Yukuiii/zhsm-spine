@@ -1,0 +1,69 @@
+
+shelter_arsenal.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1268
+  size: 1670, 750
+  orig: 1670, 750
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 1717, 1870
+  size: 154, 148
+  orig: 154, 148
+  offset: 0, 0
+  index: -1
+boxzhezhao
+  rotate: true
+  xy: 1674, 1559
+  size: 459, 41
+  orig: 459, 41
+  offset: 0, 0
+  index: -1
+car
+  rotate: true
+  xy: 1226, 87
+  size: 1179, 389
+  orig: 1179, 389
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 2, 201
+  size: 1222, 1065
+  orig: 1222, 1065
+  offset: 0, 0
+  index: -1
+houlangang
+  rotate: false
+  xy: 2, 6
+  size: 1039, 126
+  orig: 1039, 126
+  offset: 0, 0
+  index: -1
+qianlangang
+  rotate: true
+  xy: 1763, 954
+  size: 914, 120
+  orig: 914, 120
+  offset: 0, 0
+  index: -1
+qianzhedan
+  rotate: true
+  xy: 1617, 2
+  size: 1264, 144
+  orig: 1264, 144
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 2, 134
+  size: 1183, 65
+  orig: 1183, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+Enemy_Bz62Q.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb_y_01
+  rotate: false
+  xy: 267, 273
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
+cb_y_02
+  rotate: false
+  xy: 403, 268
+  size: 111, 148
+  orig: 111, 148
+  offset: 0, 0
+  index: -1
+cb_z_01
+  rotate: false
+  xy: 2, 208
+  size: 263, 208
+  orig: 263, 208
+  offset: 0, 0
+  index: -1
+cb_z_02
+  rotate: false
+  xy: 2, 79
+  size: 162, 127
+  orig: 162, 127
+  offset: 0, 0
+  index: -1
+cj_y
+  rotate: true
+  xy: 516, 376
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+cj_z
+  rotate: false
+  xy: 2, 2
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+fubu
+  rotate: true
+  xy: 538, 438
+  size: 72, 259
+  orig: 72, 259
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 269, 112
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+tui_y_01
+  rotate: false
+  xy: 538, 408
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+tui_y_02
+  rotate: false
+  xy: 129, 48
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+tui_y_03
+  rotate: true
+  xy: 2, 25
+  size: 52, 125
+  orig: 52, 125
+  offset: 0, 0
+  index: -1
+tui_y_04
+  rotate: false
+  xy: 912, 405
+  size: 85, 105
+  orig: 85, 105
+  offset: 0, 0
+  index: -1
+tui_z_01
+  rotate: false
+  xy: 799, 400
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+tui_z_02
+  rotate: true
+  xy: 166, 84
+  size: 122, 101
+  orig: 122, 101
+  offset: 0, 0
+  index: -1
+tui_z_03
+  rotate: false
+  xy: 365, 241
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+tui_z_04
+  rotate: false
+  xy: 999, 472
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 269, 177
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 2, 418
+  size: 534, 92
+  orig: 534, 92
+  offset: 0, 0
+  index: -1

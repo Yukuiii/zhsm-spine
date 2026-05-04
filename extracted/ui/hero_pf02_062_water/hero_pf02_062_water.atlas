@@ -1,0 +1,62 @@
+
+hero_pf02_062_water.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 279
+  size: 684, 652
+  orig: 684, 652
+  offset: 0, 0
+  index: -1
+shuiwen_01
+  rotate: false
+  xy: 336, 247
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+shuiwen_03
+  rotate: false
+  xy: 2, 119
+  size: 332, 158
+  orig: 332, 158
+  offset: 0, 0
+  index: -1
+shuiwen_04
+  rotate: false
+  xy: 688, 842
+  size: 299, 89
+  orig: 299, 89
+  offset: 0, 0
+  index: -1
+shuiwen_05
+  rotate: false
+  xy: 2, 2
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+shuiwen_06
+  rotate: true
+  xy: 989, 896
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+shuiwen_07
+  rotate: false
+  xy: 688, 795
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+tf_06
+  rotate: false
+  xy: 2, 20
+  size: 137, 97
+  orig: 137, 97
+  offset: 0, 0
+  index: -1

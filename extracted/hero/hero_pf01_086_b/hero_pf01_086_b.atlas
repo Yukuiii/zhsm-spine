@@ -1,0 +1,34 @@
+
+hero_pf01_086_b.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tf_11
+  rotate: true
+  xy: 2, 2
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+tf_12
+  rotate: true
+  xy: 1237, 50
+  size: 127, 249
+  orig: 127, 249
+  offset: 0, 0
+  index: -1
+tf_13
+  rotate: false
+  xy: 1237, 179
+  size: 803, 842
+  orig: 803, 842
+  offset: 0, 0
+  index: -1
+tf_14
+  rotate: true
+  xy: 2, 26
+  size: 995, 1233
+  orig: 995, 1233
+  offset: 0, 0
+  index: -1

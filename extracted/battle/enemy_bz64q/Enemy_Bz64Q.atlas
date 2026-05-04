@@ -1,0 +1,90 @@
+
+Enemy_Bz64Q.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: true
+  xy: 538, 343
+  size: 166, 339
+  orig: 166, 339
+  offset: 0, 0
+  index: -1
+shenti_01
+  rotate: true
+  xy: 879, 303
+  size: 206, 132
+  orig: 206, 132
+  offset: 0, 0
+  index: -1
+shenti_02
+  rotate: false
+  xy: 187, 2
+  size: 141, 120
+  orig: 141, 120
+  offset: 0, 0
+  index: -1
+tou_y
+  rotate: false
+  xy: 2, 30
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+tou_z
+  rotate: false
+  xy: 445, 48
+  size: 89, 104
+  orig: 89, 104
+  offset: 0, 0
+  index: -1
+tui_y_01
+  rotate: false
+  xy: 494, 201
+  size: 127, 140
+  orig: 127, 140
+  offset: 0, 0
+  index: -1
+tui_y_02
+  rotate: true
+  xy: 623, 171
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+tui_z_01
+  rotate: false
+  xy: 330, 23
+  size: 113, 129
+  orig: 113, 129
+  offset: 0, 0
+  index: -1
+tui_z_02
+  rotate: true
+  xy: 623, 257
+  size: 84, 178
+  orig: 84, 178
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 279, 154
+  size: 261, 213
+  orig: 261, 213
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 124
+  size: 275, 291
+  orig: 275, 291
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 2, 417
+  size: 534, 92
+  orig: 534, 92
+  offset: 0, 0
+  index: -1

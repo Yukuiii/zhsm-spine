@@ -1,0 +1,139 @@
+
+monopoly_reward.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_0
+  rotate: false
+  xy: 2, 689
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+l_0
+  rotate: false
+  xy: 2, 460
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_1
+  rotate: false
+  xy: 260, 718
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_10
+  rotate: false
+  xy: 260, 489
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_11
+  rotate: false
+  xy: 492, 489
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_12
+  rotate: false
+  xy: 724, 489
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_13
+  rotate: false
+  xy: 956, 489
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_14
+  rotate: false
+  xy: 1188, 489
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_15
+  rotate: false
+  xy: 1420, 489
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_16
+  rotate: false
+  xy: 1652, 489
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_17
+  rotate: false
+  xy: 234, 260
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_2
+  rotate: false
+  xy: 2, 231
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_3
+  rotate: false
+  xy: 492, 718
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_4
+  rotate: false
+  xy: 2, 2
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_5
+  rotate: false
+  xy: 724, 718
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_6
+  rotate: false
+  xy: 956, 718
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_7
+  rotate: false
+  xy: 1188, 718
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_8
+  rotate: false
+  xy: 1420, 718
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+l_9
+  rotate: false
+  xy: 1652, 718
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+Enemy_Bz50Q.png
+size: 895,214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bbao_1
+  rotate: false
+  xy: 449, 29
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+Bbao_2
+  rotate: true
+  xy: 428, 119
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: -1
+Dang
+  rotate: false
+  xy: 854, 118
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+F_Y_01
+  rotate: false
+  xy: 791, 78
+  size: 61, 75
+  orig: 61, 75
+  offset: 0, 0
+  index: -1
+F_Y_02
+  rotate: true
+  xy: 515, 152
+  size: 60, 98
+  orig: 60, 98
+  offset: 0, 0
+  index: -1
+F_Z_01
+  rotate: false
+  xy: 534, 39
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: -1
+F_Z_02
+  rotate: false
+  xy: 725, 62
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+G01
+  rotate: true
+  xy: 449, 7
+  size: 20, 56
+  orig: 20, 56
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 583, 2
+  size: 140, 148
+  orig: 140, 148
+  offset: 0, 0
+  index: -1
+H_Y_02
+  rotate: false
+  xy: 831, 165
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+H_Y_03
+  rotate: false
+  xy: 725, 13
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+H_Z_01
+  rotate: true
+  xy: 701, 154
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+H_Z_02
+  rotate: true
+  xy: 810, 33
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+H_y_01
+  rotate: true
+  xy: 615, 153
+  size: 59, 84
+  orig: 59, 84
+  offset: 0, 0
+  index: -1
+Jian
+  rotate: false
+  xy: 770, 8
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Jian_Y
+  rotate: false
+  xy: 769, 155
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+Sti
+  rotate: false
+  xy: 332, 101
+  size: 94, 111
+  orig: 94, 111
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 223, 90
+  size: 107, 122
+  orig: 107, 122
+  offset: 0, 0
+  index: -1
+YZ_Y01
+  rotate: false
+  xy: 354, 2
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+YZ_Y02
+  rotate: true
+  xy: 2, 13
+  size: 59, 134
+  orig: 59, 134
+  offset: 0, 0
+  index: -1
+YZ_Z01
+  rotate: true
+  xy: 249, 7
+  size: 81, 103
+  orig: 81, 103
+  offset: 0, 0
+  index: -1
+YZ_Z02
+  rotate: false
+  xy: 138, 5
+  size: 109, 67
+  orig: 109, 67
+  offset: 0, 0
+  index: -1
+Yao_01
+  rotate: false
+  xy: 534, 4
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Yao_02
+  rotate: false
+  xy: 515, 119
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+Yao_03
+  rotate: false
+  xy: 810, 4
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+kage
+  rotate: false
+  xy: 2, 74
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1

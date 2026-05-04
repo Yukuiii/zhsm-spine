@@ -1,0 +1,118 @@
+
+roguelike_story.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+en_00000
+  rotate: false
+  xy: 2, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+en_00001
+  rotate: false
+  xy: 120, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+en_00002
+  rotate: false
+  xy: 238, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+en_00003
+  rotate: false
+  xy: 356, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+en_00004
+  rotate: false
+  xy: 474, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+en_00005
+  rotate: false
+  xy: 592, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+en_00006
+  rotate: false
+  xy: 710, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+en_00007
+  rotate: false
+  xy: 828, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+en_00008
+  rotate: false
+  xy: 946, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+en_00009
+  rotate: false
+  xy: 1064, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+en_00010
+  rotate: false
+  xy: 1182, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+en_00011
+  rotate: false
+  xy: 1300, 90
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+suiji
+  rotate: false
+  xy: 1418, 157
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+suijigold
+  rotate: false
+  xy: 1515, 58
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+suijired
+  rotate: false
+  xy: 1575, 157
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+vfx_di_0
+  rotate: false
+  xy: 1418, 2
+  size: 95, 153
+  orig: 95, 153
+  offset: 0, 0
+  index: -1

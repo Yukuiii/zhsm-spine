@@ -1,0 +1,244 @@
+
+Enemy_Bz46Q_skill.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daizi
+  rotate: true
+  xy: 662, 445
+  size: 12, 222
+  orig: 12, 222
+  offset: 0, 0
+  index: -1
+houguan-1
+  rotate: false
+  xy: 248, 118
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+houguan-2
+  rotate: true
+  xy: 439, 252
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+houguan-3
+  rotate: false
+  xy: 55, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+houguan-4
+  rotate: false
+  xy: 158, 68
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+houguan-5
+  rotate: true
+  xy: 2, 2
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+lvguan-1
+  rotate: false
+  xy: 208, 92
+  size: 38, 94
+  orig: 38, 94
+  offset: 0, 0
+  index: -1
+lvguan-2
+  rotate: false
+  xy: 968, 380
+  size: 54, 129
+  orig: 54, 129
+  offset: 0, 0
+  index: -1
+lvguan-3
+  rotate: false
+  xy: 453, 296
+  size: 35, 128
+  orig: 35, 128
+  offset: 0, 0
+  index: -1
+lvguan-4
+  rotate: true
+  xy: 853, 459
+  size: 50, 113
+  orig: 50, 113
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 122, 245
+  size: 127, 179
+  orig: 127, 179
+  offset: 0, 0
+  index: -1
+tou-1
+  rotate: false
+  xy: 248, 79
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+tou-2
+  rotate: false
+  xy: 548, 260
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+yjianguan
+  rotate: false
+  xy: 251, 242
+  size: 99, 31
+  orig: 99, 31
+  offset: 0, 0
+  index: -1
+youjian-1
+  rotate: false
+  xy: 584, 358
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+youjian-2
+  rotate: false
+  xy: 243, 188
+  size: 83, 52
+  orig: 83, 52
+  offset: 0, 0
+  index: -1
+youjian-3
+  rotate: false
+  xy: 309, 126
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+youshou-1
+  rotate: false
+  xy: 2, 27
+  size: 101, 193
+  orig: 101, 193
+  offset: 0, 0
+  index: -1
+youshou-2
+  rotate: false
+  xy: 360, 302
+  size: 91, 122
+  orig: 91, 122
+  offset: 0, 0
+  index: -1
+youshou-3
+  rotate: true
+  xy: 360, 252
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+youshou-4
+  rotate: false
+  xy: 613, 290
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+youtui-1
+  rotate: true
+  xy: 490, 291
+  size: 56, 121
+  orig: 56, 121
+  offset: 0, 0
+  index: -1
+youtui-2
+  rotate: true
+  xy: 485, 437
+  size: 72, 175
+  orig: 72, 175
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 2, 426
+  size: 481, 83
+  orig: 481, 83
+  offset: 0, 0
+  index: -1
+zjianguan
+  rotate: true
+  xy: 158, 90
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+zuojian-1
+  rotate: false
+  xy: 490, 349
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+zuojian-2
+  rotate: false
+  xy: 122, 188
+  size: 119, 55
+  orig: 119, 55
+  offset: 0, 0
+  index: -1
+zuoshou-1
+  rotate: false
+  xy: 2, 222
+  size: 118, 202
+  orig: 118, 202
+  offset: 0, 0
+  index: -1
+zuoshou-2
+  rotate: true
+  xy: 886, 395
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+zuoshou-3
+  rotate: true
+  xy: 105, 27
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+zuoshou-4
+  rotate: false
+  xy: 251, 275
+  size: 107, 149
+  orig: 107, 149
+  offset: 0, 0
+  index: -1
+zuotui-1
+  rotate: false
+  xy: 105, 68
+  size: 51, 118
+  orig: 51, 118
+  offset: 0, 0
+  index: -1
+zuotui-2
+  rotate: true
+  xy: 662, 459
+  size: 50, 189
+  orig: 50, 189
+  offset: 0, 0
+  index: -1
+zuotui-3
+  rotate: false
+  xy: 487, 232
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1

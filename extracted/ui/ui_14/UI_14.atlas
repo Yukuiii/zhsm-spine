@@ -1,0 +1,27 @@
+
+UI_14.png
+size: 81,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T05
+  rotate: true
+  xy: 2, 2
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+t03
+  rotate: false
+  xy: 2, 41
+  size: 77, 109
+  orig: 77, 109
+  offset: 0, 0
+  index: -1
+t04
+  rotate: true
+  xy: 2, 152
+  size: 134, 77
+  orig: 134, 77
+  offset: 0, 0
+  index: -1

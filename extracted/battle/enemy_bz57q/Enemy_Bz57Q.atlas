@@ -1,0 +1,90 @@
+
+Enemy_Bz57Q.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T_1
+  rotate: false
+  xy: 2, 240
+  size: 420, 301
+  orig: 420, 301
+  offset: 0, 0
+  index: -1
+T_Mmaoy
+  rotate: false
+  xy: 742, 550
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+T_Mmaoz
+  rotate: false
+  xy: 989, 740
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+T_Sh
+  rotate: false
+  xy: 424, 499
+  size: 210, 42
+  orig: 210, 42
+  offset: 0, 0
+  index: -1
+T_Yjing
+  rotate: false
+  xy: 2, 46
+  size: 133, 52
+  orig: 133, 52
+  offset: 0, 0
+  index: -1
+T_Yjing2
+  rotate: false
+  xy: 223, 187
+  size: 133, 51
+  orig: 133, 51
+  offset: 0, 0
+  index: -1
+T_Yjing3
+  rotate: false
+  xy: 2, 2
+  size: 126, 42
+  orig: 126, 42
+  offset: 0, 0
+  index: -1
+T_Zui
+  rotate: false
+  xy: 424, 397
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1
+X_1
+  rotate: false
+  xy: 742, 578
+  size: 245, 188
+  orig: 245, 188
+  offset: 0, 0
+  index: -1
+Yzi
+  rotate: false
+  xy: 2, 543
+  size: 738, 223
+  orig: 738, 223
+  offset: 0, 0
+  index: -1
+kage
+  rotate: false
+  xy: 2, 100
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+yanjing_d
+  rotate: false
+  xy: 636, 502
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1

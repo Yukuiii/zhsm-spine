@@ -1,0 +1,48 @@
+
+kejijiasu_vfx.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_0
+  rotate: false
+  xy: 2, 15
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+02_0
+  rotate: false
+  xy: 94, 62
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+03_0
+  rotate: false
+  xy: 126, 70
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+04_0
+  rotate: false
+  xy: 163, 70
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+05_0
+  rotate: false
+  xy: 200, 70
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+06_0
+  rotate: true
+  xy: 2, 2
+  size: 11, 74
+  orig: 11, 74
+  offset: 0, 0
+  index: -1

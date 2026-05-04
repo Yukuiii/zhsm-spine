@@ -1,0 +1,69 @@
+
+roguelike_boss1.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 954, 254
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 1393, 420
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 1212, 276
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 380, 208
+  size: 296, 302
+  orig: 296, 302
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 1212, 331
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 678, 236
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+t6
+  rotate: false
+  xy: 203, 41
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+transdoor
+  rotate: false
+  xy: 2, 184
+  size: 376, 326
+  orig: 376, 326
+  offset: 0, 0
+  index: -1
+vfx_di_0
+  rotate: true
+  xy: 2, 2
+  size: 180, 199
+  orig: 180, 199
+  offset: 0, 0
+  index: -1

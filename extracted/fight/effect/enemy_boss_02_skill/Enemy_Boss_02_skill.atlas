@@ -1,0 +1,216 @@
+
+Enemy_Boss_02_skill.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b4-bozi
+  rotate: false
+  xy: 483, 82
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+b4-jz
+  rotate: true
+  xy: 769, 9
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+b4-jzy
+  rotate: true
+  xy: 698, 4
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+b4-muzhiy
+  rotate: false
+  xy: 819, 25
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+b4-muzhiz
+  rotate: false
+  xy: 734, 103
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+b4-penqi-1
+  rotate: true
+  xy: 513, 219
+  size: 124, 166
+  orig: 124, 166
+  offset: 0, 0
+  index: -1
+b4-penqi-2
+  rotate: false
+  xy: 553, 345
+  size: 231, 165
+  orig: 231, 165
+  offset: 0, 0
+  index: -1
+b4-shenti
+  rotate: true
+  xy: 786, 338
+  size: 172, 207
+  orig: 172, 207
+  offset: 0, 0
+  index: -1
+b4-tou-1
+  rotate: false
+  xy: 588, 51
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+b4-tou-2
+  rotate: true
+  xy: 873, 68
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+b4-tou-3
+  rotate: false
+  xy: 620, 2
+  size: 76, 99
+  orig: 76, 99
+  offset: 0, 0
+  index: -1
+b4-weiba01
+  rotate: false
+  xy: 900, 128
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+b4-weiba02
+  rotate: false
+  xy: 620, 103
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+b4-weiba03
+  rotate: true
+  xy: 252, 119
+  size: 98, 229
+  orig: 98, 229
+  offset: 0, 0
+  index: -1
+b4-yao
+  rotate: false
+  xy: 918, 256
+  size: 91, 80
+  orig: 91, 80
+  offset: 0, 0
+  index: -1
+b4-youjian
+  rotate: true
+  xy: 2, 13
+  size: 231, 248
+  orig: 231, 248
+  offset: 0, 0
+  index: -1
+b4-youshou-1
+  rotate: false
+  xy: 479, 13
+  size: 107, 67
+  orig: 107, 67
+  offset: 0, 0
+  index: -1
+b4-youshou-2
+  rotate: false
+  xy: 2, 246
+  size: 263, 264
+  orig: 263, 264
+  offset: 0, 0
+  index: -1
+b4-youshou-3
+  rotate: false
+  xy: 734, 141
+  size: 79, 109
+  orig: 79, 109
+  offset: 0, 0
+  index: -1
+b4-youtui-1
+  rotate: true
+  xy: 786, 265
+  size: 71, 130
+  orig: 71, 130
+  offset: 0, 0
+  index: -1
+b4-youtui-2
+  rotate: false
+  xy: 819, 66
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+b4-youtui-3
+  rotate: false
+  xy: 407, 4
+  size: 70, 113
+  orig: 70, 113
+  offset: 0, 0
+  index: -1
+b4-zuojian
+  rotate: true
+  xy: 267, 219
+  size: 138, 244
+  orig: 138, 244
+  offset: 0, 0
+  index: -1
+b4-zuoshou-1
+  rotate: true
+  xy: 815, 112
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+b4-zuoshou-2
+  rotate: false
+  xy: 267, 359
+  size: 284, 151
+  orig: 284, 151
+  offset: 0, 0
+  index: -1
+b4-zuoshou-3
+  rotate: false
+  xy: 815, 174
+  size: 79, 89
+  orig: 79, 89
+  offset: 0, 0
+  index: -1
+b4-zuotui-1
+  rotate: true
+  xy: 681, 252
+  size: 91, 103
+  orig: 91, 103
+  offset: 0, 0
+  index: -1
+b4-zuotui-2
+  rotate: true
+  xy: 955, 133
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+b4-zuotui-3
+  rotate: true
+  xy: 896, 181
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+kage
+  rotate: false
+  xy: 252, 20
+  size: 153, 97
+  orig: 153, 97
+  offset: 0, 0
+  index: -1

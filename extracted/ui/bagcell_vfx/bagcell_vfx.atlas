@@ -1,0 +1,34 @@
+
+bagcell_vfx.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gantanhao
+  rotate: false
+  xy: 2, 53
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+kezhaomuText
+  rotate: false
+  xy: 2, 2
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 148, 53
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+yuanhuan
+  rotate: false
+  xy: 294, 53
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1

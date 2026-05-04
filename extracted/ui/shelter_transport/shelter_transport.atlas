@@ -1,0 +1,62 @@
+
+shelter_transport.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 1086, 487
+  orig: 1086, 487
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 1210, 162
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+ding
+  rotate: false
+  xy: 1090, 260
+  size: 300, 229
+  orig: 300, 229
+  offset: 0, 0
+  index: -1
+lb
+  rotate: false
+  xy: 1090, 145
+  size: 118, 113
+  orig: 118, 113
+  offset: 0, 0
+  index: -1
+lsz
+  rotate: false
+  xy: 1392, 386
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+lxb
+  rotate: false
+  xy: 1090, 40
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+mid
+  rotate: false
+  xy: 1392, 300
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+sz
+  rotate: false
+  xy: 1503, 388
+  size: 23, 101
+  orig: 23, 101
+  offset: 0, 0
+  index: -1

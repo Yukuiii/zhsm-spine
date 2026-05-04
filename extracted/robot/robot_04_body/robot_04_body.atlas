@@ -1,0 +1,13 @@
+
+robot_04_body.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+robot_04_body
+  rotate: false
+  xy: 2, 2
+  size: 520, 556
+  orig: 520, 556
+  offset: 0, 0
+  index: -1

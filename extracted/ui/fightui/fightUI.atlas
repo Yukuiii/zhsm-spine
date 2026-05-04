@@ -1,0 +1,48 @@
+
+fightUI.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baifaguang
+  rotate: false
+  xy: 1, 58
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+glowkuang
+  rotate: false
+  xy: 1, 190
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 1, 29
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+shuaguang
+  rotate: true
+  xy: 202, 127
+  size: 128, 46
+  orig: 128, 46
+  offset: 0, 0
+  index: -1
+waifaguang
+  rotate: false
+  xy: 1, 124
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+yellowxing
+  rotate: true
+  xy: 1, 1
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

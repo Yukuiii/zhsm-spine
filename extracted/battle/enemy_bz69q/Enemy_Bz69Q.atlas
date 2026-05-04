@@ -1,0 +1,272 @@
+
+Enemy_Bz69Q.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex_zhua_0_00000_01
+  rotate: false
+  xy: 2, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_zhua_0_00000_02
+  rotate: false
+  xy: 2, 508
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_zhua_0_00000_03
+  rotate: false
+  xy: 260, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_zhua_0_00000_04
+  rotate: false
+  xy: 2, 250
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_zhua_0_00000_05
+  rotate: false
+  xy: 260, 508
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_zhua_0_00000_06
+  rotate: false
+  xy: 518, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guan1
+  rotate: false
+  xy: 701, 372
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+guan2
+  rotate: true
+  xy: 340, 55
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+kage
+  rotate: false
+  xy: 260, 260
+  size: 110, 69
+  orig: 110, 69
+  offset: 0, 0
+  index: -1
+shenzi2
+  rotate: false
+  xy: 260, 331
+  size: 79, 175
+  orig: 79, 175
+  offset: 0, 0
+  index: -1
+shenzi3
+  rotate: false
+  xy: 979, 837
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 518, 469
+  size: 150, 295
+  orig: 150, 295
+  offset: 0, 0
+  index: -1
+yoshou7
+  rotate: false
+  xy: 979, 936
+  size: 34, 86
+  orig: 34, 86
+  offset: 0, 0
+  index: -1
+yoshou8
+  rotate: false
+  xy: 340, 95
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+youjian
+  rotate: false
+  xy: 291, 170
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+youjian2
+  rotate: true
+  xy: 825, 670
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 979, 865
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 670, 600
+  size: 99, 164
+  orig: 99, 164
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: false
+  xy: 475, 393
+  size: 41, 113
+  orig: 41, 113
+  offset: 0, 0
+  index: -1
+youshou4
+  rotate: true
+  xy: 518, 421
+  size: 46, 185
+  orig: 46, 185
+  offset: 0, 0
+  index: -1
+youshou5
+  rotate: false
+  xy: 771, 643
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+youshou6
+  rotate: true
+  xy: 475, 369
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+youshou9
+  rotate: false
+  xy: 928, 780
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: false
+  xy: 341, 361
+  size: 83, 145
+  orig: 83, 145
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: false
+  xy: 928, 829
+  size: 49, 193
+  orig: 49, 193
+  offset: 0, 0
+  index: -1
+youtui3
+  rotate: true
+  xy: 291, 2
+  size: 48, 93
+  orig: 48, 93
+  offset: 0, 0
+  index: -1
+zuitui3
+  rotate: false
+  xy: 426, 359
+  size: 47, 147
+  orig: 47, 147
+  offset: 0, 0
+  index: -1
+zuojian
+  rotate: false
+  xy: 705, 421
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 670, 491
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 291, 52
+  size: 47, 116
+  orig: 47, 116
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: false
+  xy: 895, 748
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+zuoshou4
+  rotate: true
+  xy: 779, 551
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+zuoshou5
+  rotate: true
+  xy: 2, 29
+  size: 219, 287
+  orig: 219, 287
+  offset: 0, 0
+  index: -1
+zuoshou6
+  rotate: true
+  xy: 771, 607
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+zuoshou7
+  rotate: false
+  xy: 341, 337
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+zuoshou8
+  rotate: true
+  xy: 776, 741
+  size: 45, 117
+  orig: 45, 117
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: false
+  xy: 776, 788
+  size: 150, 234
+  orig: 150, 234
+  offset: 0, 0
+  index: -1
+zuotui2
+  rotate: true
+  xy: 518, 375
+  size: 44, 181
+  orig: 44, 181
+  offset: 0, 0
+  index: -1

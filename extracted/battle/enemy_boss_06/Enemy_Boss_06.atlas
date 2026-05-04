@@ -1,0 +1,258 @@
+
+Enemy_Boss_06.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q01
+  rotate: true
+  xy: 1264, 187
+  size: 189, 65
+  orig: 189, 65
+  offset: 0, 0
+  index: -1
+Q02
+  rotate: false
+  xy: 328, 172
+  size: 149, 44
+  orig: 149, 44
+  offset: 0, 0
+  index: -1
+Q03
+  rotate: false
+  xy: 1603, 436
+  size: 216, 72
+  orig: 216, 72
+  offset: 0, 0
+  index: -1
+Q04
+  rotate: true
+  xy: 259, 2
+  size: 182, 59
+  orig: 182, 59
+  offset: 0, 0
+  index: -1
+Q05
+  rotate: true
+  xy: 1178, 173
+  size: 203, 84
+  orig: 203, 84
+  offset: 0, 0
+  index: -1
+Q06
+  rotate: false
+  xy: 1353, 409
+  size: 248, 99
+  orig: 248, 99
+  offset: 0, 0
+  index: -1
+Tex-0032-6_01
+  rotate: false
+  xy: 1331, 200
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0032-6_02
+  rotate: false
+  xy: 1495, 279
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0032-6_03
+  rotate: false
+  xy: 1625, 306
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0032-6_04
+  rotate: false
+  xy: 1755, 306
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+erduo-1
+  rotate: false
+  xy: 1007, 115
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: -1
+erduo-2
+  rotate: false
+  xy: 1331, 146
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 186
+  size: 324, 322
+  orig: 324, 322
+  offset: 0, 0
+  index: -1
+houguan
+  rotate: true
+  xy: 1625, 247
+  size: 57, 128
+  orig: 57, 128
+  offset: 0, 0
+  index: -1
+houqi
+  rotate: true
+  xy: 435, 28
+  size: 142, 83
+  orig: 142, 83
+  offset: 0, 0
+  index: -1
+houtui-1
+  rotate: false
+  xy: 583, 114
+  size: 111, 100
+  orig: 111, 100
+  offset: 0, 0
+  index: -1
+houtui-2
+  rotate: false
+  xy: 809, 109
+  size: 102, 77
+  orig: 102, 77
+  offset: 0, 0
+  index: -1
+houtui-3
+  rotate: true
+  xy: 1453, 108
+  size: 89, 117
+  orig: 89, 117
+  offset: 0, 0
+  index: -1
+jiao-1
+  rotate: true
+  xy: 597, 216
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+jiao-2
+  rotate: true
+  xy: 1119, 378
+  size: 130, 232
+  orig: 130, 232
+  offset: 0, 0
+  index: -1
+shenti-1
+  rotate: false
+  xy: 1885, 318
+  size: 109, 119
+  orig: 109, 119
+  offset: 0, 0
+  index: -1
+shenti-2
+  rotate: false
+  xy: 1014, 168
+  size: 162, 186
+  orig: 162, 186
+  offset: 0, 0
+  index: -1
+shenti-3
+  rotate: true
+  xy: 328, 218
+  size: 196, 267
+  orig: 196, 267
+  offset: 0, 0
+  index: -1
+shenti-4
+  rotate: true
+  xy: 824, 188
+  size: 166, 188
+  orig: 166, 188
+  offset: 0, 0
+  index: -1
+yaci
+  rotate: true
+  xy: 1821, 439
+  size: 69, 219
+  orig: 69, 219
+  offset: 0, 0
+  index: -1
+yaci-1
+  rotate: true
+  xy: 2, 17
+  size: 167, 255
+  orig: 167, 255
+  offset: 0, 0
+  index: -1
+yaci-2
+  rotate: true
+  xy: 864, 356
+  size: 152, 253
+  orig: 152, 253
+  offset: 0, 0
+  index: -1
+youtui-1
+  rotate: false
+  xy: 1353, 330
+  size: 140, 77
+  orig: 140, 77
+  offset: 0, 0
+  index: -1
+youtui-2
+  rotate: false
+  xy: 320, 25
+  size: 113, 145
+  orig: 113, 145
+  offset: 0, 0
+  index: -1
+yuanding-1
+  rotate: true
+  xy: 696, 126
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+yuanding-2
+  rotate: false
+  xy: 520, 108
+  size: 61, 108
+  orig: 61, 108
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 328, 416
+  size: 534, 92
+  orig: 534, 92
+  offset: 0, 0
+  index: -1
+zuotui-1
+  rotate: false
+  xy: 1755, 204
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+zuotui-2
+  rotate: true
+  xy: 913, 100
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+zuotui-3
+  rotate: true
+  xy: 1461, 199
+  size: 78, 122
+  orig: 78, 122
+  offset: 0, 0
+  index: -1
+zuotui-4
+  rotate: false
+  xy: 520, 55
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1

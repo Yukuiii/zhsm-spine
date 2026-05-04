@@ -1,0 +1,13 @@
+
+mine_contest_01.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mine_contest_01
+  rotate: true
+  xy: 2, 2
+  size: 212, 301
+  orig: 212, 301
+  offset: 0, 0
+  index: -1

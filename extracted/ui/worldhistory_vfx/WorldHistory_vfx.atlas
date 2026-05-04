@@ -1,0 +1,27 @@
+
+WorldHistory_vfx.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 67
+  size: 396, 168
+  orig: 396, 168
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 237
+  size: 507, 259
+  orig: 507, 259
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 2
+  size: 130, 63
+  orig: 130, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+Pet_002Q_skill.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 911, 764
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+cb_y_01
+  rotate: false
+  xy: 1808, 768
+  size: 199, 252
+  orig: 199, 252
+  offset: 0, 0
+  index: -1
+cb_y_02
+  rotate: false
+  xy: 226, 490
+  size: 276, 194
+  orig: 276, 194
+  offset: 0, 0
+  index: -1
+cb_y_03
+  rotate: false
+  xy: 1559, 767
+  size: 247, 253
+  orig: 247, 253
+  offset: 0, 0
+  index: -1
+cb_z_01
+  rotate: true
+  xy: 562, 757
+  size: 263, 347
+  orig: 263, 347
+  offset: 0, 0
+  index: -1
+cb_z_02
+  rotate: true
+  xy: 1280, 757
+  size: 263, 277
+  orig: 263, 277
+  offset: 0, 0
+  index: -1
+cb_z_03
+  rotate: true
+  xy: 911, 795
+  size: 225, 367
+  orig: 225, 367
+  offset: 0, 0
+  index: -1
+effect/fq3
+  rotate: false
+  xy: 299, 49
+  size: 221, 212
+  orig: 221, 212
+  offset: 0, 0
+  index: -1
+effect/fq4
+  rotate: false
+  xy: 520, 344
+  size: 221, 212
+  orig: 221, 212
+  offset: 0, 0
+  index: -1
+effect/fq5
+  rotate: true
+  xy: 522, 121
+  size: 221, 212
+  orig: 221, 212
+  offset: 0, 0
+  index: -1
+effect/fq6
+  rotate: false
+  xy: 794, 543
+  size: 221, 212
+  orig: 221, 212
+  offset: 0, 0
+  index: -1
+effect/guangyun
+  rotate: false
+  xy: 226, 686
+  size: 334, 334
+  orig: 334, 334
+  offset: 0, 0
+  index: -1
+effect/s1
+  rotate: false
+  xy: 1280, 680
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: -1
+effect/s2
+  rotate: false
+  xy: 522, 52
+  size: 140, 67
+  orig: 140, 67
+  offset: 0, 0
+  index: -1
+effect/s3
+  rotate: false
+  xy: 1415, 685
+  size: 121, 70
+  orig: 121, 70
+  offset: 0, 0
+  index: -1
+effect/s4
+  rotate: false
+  xy: 664, 52
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+effect/s5
+  rotate: false
+  xy: 1566, 616
+  size: 54, 67
+  orig: 54, 67
+  offset: 0, 0
+  index: -1
+effect/s6
+  rotate: false
+  xy: 1538, 685
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+effect/yc_1
+  rotate: true
+  xy: 1181, 546
+  size: 135, 67
+  orig: 135, 67
+  offset: 0, 0
+  index: -1
+effect/yun_5
+  rotate: true
+  xy: 198, 133
+  size: 355, 99
+  orig: 355, 99
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 2042, 1013
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 562, 558
+  size: 230, 197
+  orig: 230, 197
+  offset: 0, 0
+  index: -1
+tou_01
+  rotate: false
+  xy: 198, 500
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+tou_02
+  rotate: true
+  xy: 1017, 533
+  size: 148, 162
+  orig: 148, 162
+  offset: 0, 0
+  index: -1
+tui_y_01
+  rotate: true
+  xy: 504, 611
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+tui_y_02
+  rotate: false
+  xy: 1429, 597
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+tui_z_01
+  rotate: true
+  xy: 1348, 578
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+tui_z_02
+  rotate: true
+  xy: 1502, 612
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+ty_01
+  rotate: false
+  xy: 1250, 527
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+ty_02
+  rotate: true
+  xy: 2009, 950
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 1017, 683
+  size: 227, 110
+  orig: 227, 110
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 1600, 701
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 1246, 703
+  size: 90, 32
+  orig: 90, 32
+  offset: 0, 0
+  index: -1
+zhayan
+  rotate: true
+  xy: 1740, 706
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+zj_01
+  rotate: false
+  xy: 1669, 708
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+zj_02
+  rotate: false
+  xy: 198, 2
+  size: 76, 129
+  orig: 76, 129
+  offset: 0, 0
+  index: -1
+zj_0211
+  rotate: true
+  xy: 299, 263
+  size: 225, 219
+  orig: 225, 219
+  offset: 0, 0
+  index: -1
+zs_01
+  rotate: false
+  xy: 1250, 590
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+zs_02
+  rotate: false
+  xy: 2, 518
+  size: 222, 502
+  orig: 222, 502
+  offset: 0, 0
+  index: -1
+zs_03
+  rotate: false
+  xy: 2, 14
+  size: 194, 502
+  orig: 194, 502
+  offset: 0, 0
+  index: -1
+zui_01
+  rotate: true
+  xy: 1622, 638
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+zui_02
+  rotate: true
+  xy: 743, 504
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1

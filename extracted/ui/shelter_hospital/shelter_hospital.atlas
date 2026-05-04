@@ -1,0 +1,62 @@
+
+shelter_hospital.png
+size: 1389,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: false
+  xy: 2, 2
+  size: 1087, 489
+  orig: 1087, 489
+  offset: 0, 0
+  index: -1
+jh
+  rotate: true
+  xy: 1262, 275
+  size: 216, 96
+  orig: 216, 96
+  offset: 0, 0
+  index: -1
+jh1
+  rotate: true
+  xy: 1259, 58
+  size: 215, 57
+  orig: 215, 57
+  offset: 0, 0
+  index: -1
+kdnh
+  rotate: true
+  xy: 1091, 35
+  size: 66, 150
+  orig: 66, 150
+  offset: 0, 0
+  index: -1
+kdnh2
+  rotate: false
+  xy: 1318, 127
+  size: 69, 146
+  orig: 69, 146
+  offset: 0, 0
+  index: -1
+kdwh1
+  rotate: false
+  xy: 1091, 103
+  size: 166, 193
+  orig: 166, 193
+  offset: 0, 0
+  index: -1
+kdwh2
+  rotate: false
+  xy: 1091, 298
+  size: 169, 193
+  orig: 169, 193
+  offset: 0, 0
+  index: -1
+yizi
+  rotate: false
+  xy: 1318, 37
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1

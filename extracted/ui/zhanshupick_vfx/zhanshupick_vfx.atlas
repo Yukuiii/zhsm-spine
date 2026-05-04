@@ -1,0 +1,13 @@
+
+zhanshupick_vfx.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_ring
+  rotate: false
+  xy: 2, 2
+  size: 204, 205
+  orig: 204, 205
+  offset: 0, 0
+  index: -1

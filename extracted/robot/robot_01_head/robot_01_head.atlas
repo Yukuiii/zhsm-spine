@@ -1,0 +1,13 @@
+
+robot_01_head.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+robot_01_head
+  rotate: false
+  xy: 2, 2
+  size: 382, 352
+  orig: 382, 352
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+lose_vfx.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defeat01Img
+  rotate: true
+  xy: 492, 149
+  size: 95, 12
+  orig: 95, 12
+  offset: 0, 0
+  index: -1
+defeatImg
+  rotate: false
+  xy: 200, 14
+  size: 286, 14
+  orig: 286, 14
+  offset: 0, 0
+  index: -1
+img01
+  rotate: false
+  xy: 200, 30
+  size: 293, 21
+  orig: 293, 21
+  offset: 0, 0
+  index: -1
+img02
+  rotate: false
+  xy: 200, 53
+  size: 293, 47
+  orig: 293, 47
+  offset: 0, 0
+  index: -1
+img03
+  rotate: false
+  xy: 325, 102
+  size: 165, 142
+  orig: 165, 142
+  offset: 0, 0
+  index: -1
+liuguang_0
+  rotate: false
+  xy: 2, 2
+  size: 196, 112
+  orig: 196, 112
+  offset: 0, 0
+  index: -1
+loseImg
+  rotate: false
+  xy: 2, 116
+  size: 321, 128
+  orig: 321, 128
+  offset: 0, 0
+  index: -1

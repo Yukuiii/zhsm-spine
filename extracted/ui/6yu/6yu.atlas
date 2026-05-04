@@ -1,0 +1,48 @@
+
+6yu.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish0
+  rotate: false
+  xy: 122, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+fish1
+  rotate: false
+  xy: 242, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+fish2
+  rotate: false
+  xy: 362, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+fish3
+  rotate: false
+  xy: 482, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+fish4
+  rotate: false
+  xy: 602, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+fish5
+  rotate: false
+  xy: 2, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1

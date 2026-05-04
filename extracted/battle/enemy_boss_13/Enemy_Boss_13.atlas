@@ -1,0 +1,293 @@
+
+Enemy_Boss_13.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex-0204_1
+  rotate: true
+  xy: 573, 157
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Tex-0204_14
+  rotate: false
+  xy: 820, 264
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Tex-0204_2
+  rotate: false
+  xy: 543, 112
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Tex-0204_3
+  rotate: false
+  xy: 613, 112
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Tex-0204_5
+  rotate: true
+  xy: 775, 283
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Tex-0204_7
+  rotate: false
+  xy: 820, 309
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Tex-0204_8
+  rotate: false
+  xy: 890, 309
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Tex-0310-1_0
+  rotate: false
+  xy: 319, 118
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+Tex-0310-1_1
+  rotate: false
+  xy: 320, 29
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+Tex-0310-1_2
+  rotate: false
+  xy: 618, 203
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+Tex-0310-1_3
+  rotate: false
+  xy: 618, 157
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+Tex-0310-1_4
+  rotate: false
+  xy: 459, 114
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+Tex-0310-1_5
+  rotate: true
+  xy: 702, 165
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+Tex_5406_0
+  rotate: false
+  xy: 960, 301
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Tex_5417
+  rotate: false
+  xy: 469, 160
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+glow_004_0
+  rotate: false
+  xy: 613, 249
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+kage
+  rotate: true
+  xy: 1005, 469
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+sbs
+  rotate: false
+  xy: 2, 24
+  size: 167, 106
+  orig: 167, 106
+  offset: 0, 0
+  index: -1
+shou11
+  rotate: false
+  xy: 263, 5
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+shou22
+  rotate: true
+  xy: 939, 354
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+shou_y_01
+  rotate: true
+  xy: 336, 164
+  size: 98, 131
+  orig: 98, 131
+  offset: 0, 0
+  index: -1
+shou_y_03
+  rotate: true
+  xy: 748, 176
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+shou_y_04
+  rotate: false
+  xy: 319, 75
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+shou_z_01
+  rotate: true
+  xy: 717, 255
+  size: 96, 56
+  orig: 96, 56
+  offset: 0, 0
+  index: -1
+shou_z_02
+  rotate: true
+  xy: 263, 75
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+shou_z_03
+  rotate: false
+  xy: 522, 357
+  size: 101, 138
+  orig: 101, 138
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 573, 227
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+tui_y_01
+  rotate: false
+  xy: 171, 2
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+tui_y_02
+  rotate: true
+  xy: 385, 264
+  size: 77, 154
+  orig: 77, 154
+  offset: 0, 0
+  index: -1
+tui_y_03
+  rotate: true
+  xy: 625, 399
+  size: 96, 142
+  orig: 96, 142
+  offset: 0, 0
+  index: -1
+tui_y_04
+  rotate: true
+  xy: 769, 415
+  size: 80, 156
+  orig: 80, 156
+  offset: 0, 0
+  index: -1
+tui_z_01
+  rotate: false
+  xy: 927, 418
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+tui_z_02
+  rotate: true
+  xy: 403, 115
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+tui_z_03
+  rotate: true
+  xy: 625, 353
+  size: 44, 154
+  orig: 44, 154
+  offset: 0, 0
+  index: -1
+tui_z_04
+  rotate: false
+  xy: 541, 279
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+tui_z_05
+  rotate: true
+  xy: 890, 260
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+tui_z_06
+  rotate: true
+  xy: 781, 354
+  size: 59, 156
+  orig: 59, 156
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 292
+  size: 381, 203
+  orig: 381, 203
+  offset: 0, 0
+  index: -1
+xbs
+  rotate: false
+  xy: 2, 132
+  size: 204, 158
+  orig: 204, 158
+  offset: 0, 0
+  index: -1
+zs_01
+  rotate: false
+  xy: 385, 343
+  size: 135, 152
+  orig: 135, 152
+  offset: 0, 0
+  index: -1
+zs_04
+  rotate: false
+  xy: 208, 167
+  size: 126, 123
+  orig: 126, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+shelter_Injuryfree.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 272
+  size: 1670, 750
+  orig: 1670, 750
+  offset: 0, 0
+  index: -1
+fx01
+  rotate: false
+  xy: 2, 16
+  size: 260, 254
+  orig: 260, 254
+  offset: 0, 0
+  index: -1
+fx02
+  rotate: false
+  xy: 1674, 768
+  size: 260, 254
+  orig: 260, 254
+  offset: 0, 0
+  index: -1
+youzhe
+  rotate: false
+  xy: 264, 107
+  size: 284, 163
+  orig: 284, 163
+  offset: 0, 0
+  index: -1
+zuotoukui
+  rotate: false
+  xy: 264, 2
+  size: 107, 103
+  orig: 107, 103
+  offset: 0, 0
+  index: -1
+zuozhe
+  rotate: true
+  xy: 1674, 493
+  size: 273, 158
+  orig: 273, 158
+  offset: 0, 0
+  index: -1

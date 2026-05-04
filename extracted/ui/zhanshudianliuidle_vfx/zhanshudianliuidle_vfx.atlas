@@ -1,0 +1,118 @@
+
+zhanshudianliuidle_vfx.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_00000
+  rotate: false
+  xy: 2, 728
+  size: 120, 240
+  orig: 120, 240
+  offset: 0, 0
+  index: -1
+idle_00001
+  rotate: false
+  xy: 2, 486
+  size: 120, 240
+  orig: 120, 240
+  offset: 0, 0
+  index: -1
+idle_00002
+  rotate: false
+  xy: 306, 728
+  size: 120, 240
+  orig: 120, 240
+  offset: 0, 0
+  index: -1
+idle_00003
+  rotate: false
+  xy: 2, 244
+  size: 120, 240
+  orig: 120, 240
+  offset: 0, 0
+  index: -1
+idle_00004
+  rotate: false
+  xy: 306, 486
+  size: 120, 240
+  orig: 120, 240
+  offset: 0, 0
+  index: -1
+idle_00005
+  rotate: false
+  xy: 610, 728
+  size: 120, 240
+  orig: 120, 240
+  offset: 0, 0
+  index: -1
+idle_00006
+  rotate: false
+  xy: 2, 2
+  size: 120, 240
+  orig: 120, 240
+  offset: 0, 0
+  index: -1
+idle_00007
+  rotate: false
+  xy: 306, 244
+  size: 120, 240
+  orig: 120, 240
+  offset: 0, 0
+  index: -1
+ring_00000
+  rotate: false
+  xy: 124, 788
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00001
+  rotate: false
+  xy: 124, 606
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00002
+  rotate: false
+  xy: 428, 788
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00003
+  rotate: false
+  xy: 124, 424
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00004
+  rotate: false
+  xy: 428, 606
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00005
+  rotate: false
+  xy: 732, 788
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00006
+  rotate: false
+  xy: 124, 242
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ring_00007
+  rotate: false
+  xy: 428, 424
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

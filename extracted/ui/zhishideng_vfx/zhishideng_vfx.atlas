@@ -1,0 +1,34 @@
+
+zhishideng_vfx.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 388, 103
+  orig: 388, 103
+  offset: 0, 0
+  index: -1
+jiantou01_00000
+  rotate: false
+  xy: 561, 48
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+jiantou02_00000
+  rotate: false
+  xy: 392, 48
+  size: 167, 57
+  orig: 167, 57
+  offset: 0, 0
+  index: -1
+jiantou03_00000
+  rotate: false
+  xy: 620, 48
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1

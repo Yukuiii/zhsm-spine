@@ -1,0 +1,27 @@
+
+HeroViewSkillUp.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 563, 2
+  size: 482, 162
+  orig: 482, 162
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 50
+  size: 559, 434
+  orig: 559, 434
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 7
+  size: 113, 41
+  orig: 113, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+qhsj.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bluelizi
+  rotate: false
+  xy: 259, 151
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bluezhu
+  rotate: false
+  xy: 1, 102
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 130, 102
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+level up
+  rotate: false
+  xy: 102, 72
+  size: 82, 29
+  orig: 82, 29
+  offset: 0, 0
+  index: -1
+purplelizi
+  rotate: false
+  xy: 388, 198
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+rainbow
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shuaguang
+  rotate: false
+  xy: 259, 184
+  size: 128, 46
+  orig: 128, 46
+  offset: 0, 0
+  index: -1

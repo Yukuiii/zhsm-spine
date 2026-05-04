@@ -1,0 +1,300 @@
+
+hero_pf01_068.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 413, 6
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 893, 111
+  size: 127, 33
+  orig: 127, 33
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 728, 131
+  size: 132, 29
+  orig: 132, 29
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 982, 271
+  size: 28, 75
+  orig: 28, 75
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 80
+  size: 178, 156
+  orig: 178, 156
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 336, 21
+  size: 24, 75
+  orig: 24, 75
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 889, 3
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 928, 62
+  size: 59, 93
+  orig: 59, 93
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 247, 222
+  size: 222, 109
+  orig: 222, 109
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 260, 14
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 353, 47
+  size: 121, 173
+  orig: 121, 173
+  offset: 0, 0
+  index: -1
+25
+  rotate: true
+  xy: 928, 186
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 761, 251
+  size: 66, 114
+  orig: 66, 114
+  offset: 0, 0
+  index: -1
+27
+  rotate: true
+  xy: 587, 71
+  size: 57, 105
+  orig: 57, 105
+  offset: 0, 0
+  index: -1
+28
+  rotate: true
+  xy: 2, 22
+  size: 56, 127
+  orig: 56, 127
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 748, 2
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 471, 239
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+30
+  rotate: true
+  xy: 759, 118
+  size: 120, 132
+  orig: 120, 132
+  offset: 0, 0
+  index: -1
+31
+  rotate: false
+  xy: 630, 4
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+32
+  rotate: true
+  xy: 928, 123
+  size: 61, 92
+  orig: 61, 92
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 692, 6
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 694, 59
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 752, 66
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 7
+  size: 128, 13
+  orig: 128, 13
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 982, 240
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 131, 46
+  size: 127, 29
+  orig: 127, 29
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 570, 367
+  size: 274, 143
+  orig: 274, 143
+  offset: 0, 0
+  index: -1
+death
+  rotate: true
+  xy: 856, 51
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+fadi
+  rotate: false
+  xy: 2, 238
+  size: 243, 272
+  orig: 243, 272
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 247, 333
+  size: 321, 177
+  orig: 321, 177
+  offset: 0, 0
+  index: -1
+talk_a
+  rotate: false
+  xy: 182, 222
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+talk_b
+  rotate: false
+  xy: 748, 51
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+talk_o
+  rotate: false
+  xy: 570, 250
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+talk_s
+  rotate: true
+  xy: 1012, 320
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+toufa-1
+  rotate: true
+  xy: 846, 348
+  size: 162, 171
+  orig: 162, 171
+  offset: 0, 0
+  index: -1
+toufa-2
+  rotate: true
+  xy: 182, 77
+  size: 143, 169
+  orig: 143, 169
+  offset: 0, 0
+  index: -1
+toufa-3
+  rotate: true
+  xy: 570, 265
+  size: 100, 189
+  orig: 100, 189
+  offset: 0, 0
+  index: -1
+toufa-4
+  rotate: false
+  xy: 587, 130
+  size: 139, 133
+  orig: 139, 133
+  offset: 0, 0
+  index: -1
+toufa-5
+  rotate: false
+  xy: 476, 70
+  size: 109, 167
+  orig: 109, 167
+  offset: 0, 0
+  index: -1
+toufa-6
+  rotate: true
+  xy: 829, 240
+  size: 106, 151
+  orig: 106, 151
+  offset: 0, 0
+  index: -1
+toufa-7
+  rotate: true
+  xy: 476, 2
+  size: 66, 152
+  orig: 66, 152
+  offset: 0, 0
+  index: -1
+zhangzui
+  rotate: false
+  xy: 982, 250
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1

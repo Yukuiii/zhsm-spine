@@ -1,0 +1,118 @@
+
+roguelike_elitemon.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daguai_die
+  rotate: false
+  xy: 1343, 299
+  size: 237, 198
+  orig: 237, 198
+  offset: 0, 0
+  index: -1
+daguai_diegolde
+  rotate: true
+  xy: 1821, 260
+  size: 237, 198
+  orig: 237, 198
+  offset: 0, 0
+  index: -1
+daguai_diered
+  rotate: false
+  xy: 1582, 299
+  size: 237, 198
+  orig: 237, 198
+  offset: 0, 0
+  index: -1
+daguai_live
+  rotate: false
+  xy: 837, 266
+  size: 257, 231
+  orig: 257, 231
+  offset: 0, 0
+  index: -1
+daguai_livegolden
+  rotate: false
+  xy: 578, 265
+  size: 257, 232
+  orig: 257, 232
+  offset: 0, 0
+  index: -1
+daguai_livered
+  rotate: false
+  xy: 319, 265
+  size: 257, 232
+  orig: 257, 232
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1096, 254
+  size: 245, 243
+  orig: 245, 243
+  offset: 0, 0
+  index: -1
+ring2_00000
+  rotate: false
+  xy: 2, 182
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+ring3_00000
+  rotate: false
+  xy: 319, 69
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+ring4_00000
+  rotate: false
+  xy: 2, 2
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+star_00000
+  rotate: false
+  xy: 182, 147
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+star_00001
+  rotate: false
+  xy: 2021, 471
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+star_00002
+  rotate: false
+  xy: 1343, 256
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+star_00003
+  rotate: false
+  xy: 515, 223
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+star_00004
+  rotate: false
+  xy: 1382, 269
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+star_00005
+  rotate: false
+  xy: 515, 195
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+monopoly_transport.png
+size: 1940,796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuangsongqi_0
+  rotate: true
+  xy: 418, 550
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_1
+  rotate: true
+  xy: 834, 550
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_10
+  rotate: true
+  xy: 834, 276
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_11
+  rotate: true
+  xy: 1250, 276
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_12
+  rotate: true
+  xy: 2, 139
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_13
+  rotate: true
+  xy: 418, 139
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_14
+  rotate: true
+  xy: 834, 139
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_15
+  rotate: true
+  xy: 1250, 139
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_16
+  rotate: false
+  xy: 1666, 64
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_17
+  rotate: false
+  xy: 1803, 64
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_18
+  rotate: true
+  xy: 2, 2
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_19
+  rotate: true
+  xy: 418, 2
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_2
+  rotate: true
+  xy: 1250, 550
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_20
+  rotate: true
+  xy: 834, 2
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_21
+  rotate: true
+  xy: 1250, 2
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_3
+  rotate: true
+  xy: 2, 413
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_4
+  rotate: true
+  xy: 418, 413
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_5
+  rotate: true
+  xy: 834, 413
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_6
+  rotate: true
+  xy: 1250, 413
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_7
+  rotate: true
+  xy: 2, 276
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_8
+  rotate: true
+  xy: 418, 276
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+chuangsongqi_9
+  rotate: true
+  xy: 2, 550
+  size: 135, 414
+  orig: 135, 414
+  offset: 0, 0
+  index: -1
+vfx_di_0
+  rotate: true
+  xy: 1666, 480
+  size: 180, 199
+  orig: 180, 199
+  offset: 0, 0
+  index: -1
+vfx_lizi_0
+  rotate: true
+  xy: 2, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_lizi_1
+  rotate: true
+  xy: 149, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_lizi_10
+  rotate: true
+  xy: 1472, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_lizi_11
+  rotate: true
+  xy: 1619, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_lizi_2
+  rotate: true
+  xy: 296, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_lizi_3
+  rotate: true
+  xy: 443, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_lizi_4
+  rotate: true
+  xy: 590, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_lizi_5
+  rotate: true
+  xy: 737, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_lizi_6
+  rotate: true
+  xy: 884, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_lizi_7
+  rotate: true
+  xy: 1031, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_lizi_8
+  rotate: true
+  xy: 1178, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_lizi_9
+  rotate: true
+  xy: 1325, 687
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+vfx_ring_0
+  rotate: true
+  xy: 1766, 662
+  size: 132, 145
+  orig: 132, 145
+  offset: 0, 0
+  index: -1

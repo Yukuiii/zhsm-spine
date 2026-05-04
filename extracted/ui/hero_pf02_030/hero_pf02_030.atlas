@@ -1,0 +1,307 @@
+
+hero_pf02_030.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 278, 382
+  size: 128, 228
+  orig: 128, 228
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 139
+  size: 134, 226
+  orig: 134, 226
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 574, 35
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 697, 268
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 607, 229
+  size: 104, 88
+  orig: 104, 88
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 497, 243
+  size: 108, 90
+  orig: 108, 90
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 676, 130
+  size: 123, 26
+  orig: 123, 26
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 335, 38
+  size: 136, 28
+  orig: 136, 28
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 476, 70
+  size: 133, 52
+  orig: 133, 52
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 424, 69
+  size: 134, 50
+  orig: 134, 50
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 718, 348
+  size: 181, 162
+  orig: 181, 162
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 508, 399
+  size: 111, 208
+  orig: 111, 208
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 697, 222
+  size: 44, 120
+  orig: 44, 120
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 480, 21
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 365, 67
+  size: 57, 136
+  orig: 57, 136
+  offset: 0, 0
+  index: -1
+26
+  rotate: true
+  xy: 446, 337
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+29
+  rotate: true
+  xy: 156, 13
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 508, 335
+  size: 62, 187
+  orig: 62, 187
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 271, 35
+  size: 62, 139
+  orig: 62, 139
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 437, 205
+  size: 58, 128
+  orig: 58, 128
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 901, 318
+  size: 99, 192
+  orig: 99, 192
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 278, 336
+  size: 44, 166
+  orig: 44, 166
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 269, 176
+  size: 84, 158
+  orig: 84, 158
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 138, 165
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 367
+  size: 274, 143
+  orig: 274, 143
+  offset: 0, 0
+  index: -1
+death
+  rotate: false
+  xy: 586, 62
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+pf02/aixinbang
+  rotate: true
+  xy: 156, 36
+  size: 127, 113
+  orig: 127, 113
+  offset: 0, 0
+  index: -1
+pf02/hudiejie
+  rotate: false
+  xy: 519, 11
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+pf02/qundi
+  rotate: true
+  xy: 355, 205
+  size: 129, 80
+  orig: 129, 80
+  offset: 0, 0
+  index: -1
+pf02/shenzi
+  rotate: true
+  xy: 2, 12
+  size: 125, 152
+  orig: 125, 152
+  offset: 0, 0
+  index: -1
+pf02/shenzi2
+  rotate: false
+  xy: 586, 139
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+pf02/youshou1
+  rotate: false
+  xy: 530, 64
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+pf02/youshou2
+  rotate: true
+  xy: 586, 95
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1
+pf02/youshou3
+  rotate: true
+  xy: 809, 282
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+pf02/youtui1
+  rotate: true
+  xy: 676, 158
+  size: 62, 106
+  orig: 62, 106
+  offset: 0, 0
+  index: -1
+pf02/youtui2
+  rotate: false
+  xy: 530, 117
+  size: 54, 124
+  orig: 54, 124
+  offset: 0, 0
+  index: -1
+pf02/zuoshou1
+  rotate: false
+  xy: 982, 218
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+pf02/zuoshou2
+  rotate: true
+  xy: 670, 91
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+pf02/zuoshou3
+  rotate: true
+  xy: 819, 212
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+pf02/zuoshou4
+  rotate: true
+  xy: 897, 219
+  size: 49, 83
+  orig: 49, 83
+  offset: 0, 0
+  index: -1
+pf02/zuotui1
+  rotate: true
+  xy: 901, 270
+  size: 46, 97
+  orig: 46, 97
+  offset: 0, 0
+  index: -1
+pf02/zuotui2
+  rotate: true
+  xy: 365, 2
+  size: 63, 113
+  orig: 63, 113
+  offset: 0, 0
+  index: -1
+shouji2
+  rotate: true
+  xy: 697, 348
+  size: 49, 18
+  orig: 49, 18
+  offset: 0, 0
+  index: -1

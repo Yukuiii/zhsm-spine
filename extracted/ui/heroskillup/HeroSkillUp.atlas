@@ -1,0 +1,34 @@
+
+HeroSkillUp.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+M_Hit_03
+  rotate: false
+  xy: 2, 306
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+glow01_00000
+  rotate: false
+  xy: 2, 2
+  size: 135, 44
+  orig: 135, 44
+  offset: 0, 0
+  index: -1
+glow02_00000_00000
+  rotate: false
+  xy: 516, 771
+  size: 457, 47
+  orig: 457, 47
+  offset: 0, 0
+  index: -1
+lizi009
+  rotate: false
+  xy: 2, 48
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

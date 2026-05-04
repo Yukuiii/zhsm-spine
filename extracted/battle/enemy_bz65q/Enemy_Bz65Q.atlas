@@ -1,0 +1,230 @@
+
+Enemy_Bz65Q.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack1_Sbo
+  rotate: false
+  xy: 940, 764
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 825, 727
+  size: 113, 175
+  orig: 113, 175
+  offset: 0, 0
+  index: -1
+chi-1
+  rotate: false
+  xy: 2, 354
+  size: 122, 270
+  orig: 122, 270
+  offset: 0, 0
+  index: -1
+chi-2
+  rotate: true
+  xy: 820, 377
+  size: 192, 143
+  orig: 192, 143
+  offset: 0, 0
+  index: -1
+chi-3
+  rotate: false
+  xy: 242, 192
+  size: 55, 232
+  orig: 55, 232
+  offset: 0, 0
+  index: -1
+chi-4
+  rotate: false
+  xy: 781, 571
+  size: 170, 154
+  orig: 170, 154
+  offset: 0, 0
+  index: -1
+chibang-1
+  rotate: false
+  xy: 186, 178
+  size: 54, 246
+  orig: 54, 246
+  offset: 0, 0
+  index: -1
+chibang-2
+  rotate: false
+  xy: 2, 626
+  size: 110, 396
+  orig: 110, 396
+  offset: 0, 0
+  index: -1
+chibang-3
+  rotate: true
+  xy: 2, 110
+  size: 242, 182
+  orig: 242, 182
+  offset: 0, 0
+  index: -1
+daizi-1
+  rotate: true
+  xy: 552, 732
+  size: 170, 271
+  orig: 170, 271
+  offset: 0, 0
+  index: -1
+daizi-2
+  rotate: false
+  xy: 552, 570
+  size: 227, 160
+  orig: 227, 160
+  offset: 0, 0
+  index: -1
+erduo-1
+  rotate: true
+  xy: 299, 192
+  size: 26, 71
+  orig: 26, 71
+  offset: 0, 0
+  index: -1
+erduo-2
+  rotate: false
+  xy: 126, 354
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+houchi-1
+  rotate: false
+  xy: 126, 426
+  size: 173, 217
+  orig: 173, 217
+  offset: 0, 0
+  index: -1
+houchi-2
+  rotate: true
+  xy: 552, 904
+  size: 118, 339
+  orig: 118, 339
+  offset: 0, 0
+  index: -1
+houtui-1
+  rotate: false
+  xy: 348, 596
+  size: 202, 174
+  orig: 202, 174
+  offset: 0, 0
+  index: -1
+houtui-2
+  rotate: true
+  xy: 2, 2
+  size: 106, 250
+  orig: 106, 250
+  offset: 0, 0
+  index: -1
+houtui-3
+  rotate: true
+  xy: 445, 293
+  size: 102, 186
+  orig: 102, 186
+  offset: 0, 0
+  index: -1
+houtui-4
+  rotate: true
+  xy: 301, 412
+  size: 182, 205
+  orig: 182, 205
+  offset: 0, 0
+  index: -1
+jianchi
+  rotate: false
+  xy: 445, 208
+  size: 203, 83
+  orig: 203, 83
+  offset: 0, 0
+  index: -1
+kage
+  rotate: true
+  xy: 708, 393
+  size: 175, 110
+  orig: 175, 110
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 508, 397
+  size: 198, 171
+  orig: 198, 171
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 893, 925
+  size: 53, 97
+  orig: 53, 97
+  offset: 0, 0
+  index: -1
+toudai
+  rotate: false
+  xy: 633, 304
+  size: 176, 87
+  orig: 176, 87
+  offset: 0, 0
+  index: -1
+xuzi-1
+  rotate: true
+  xy: 650, 204
+  size: 98, 132
+  orig: 98, 132
+  offset: 0, 0
+  index: -1
+xuzi-2
+  rotate: true
+  xy: 186, 110
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+youshou-1
+  rotate: false
+  xy: 114, 749
+  size: 210, 273
+  orig: 210, 273
+  offset: 0, 0
+  index: -1
+youshou-2
+  rotate: true
+  xy: 114, 645
+  size: 102, 232
+  orig: 102, 232
+  offset: 0, 0
+  index: -1
+youshou-3
+  rotate: false
+  xy: 953, 817
+  size: 69, 205
+  orig: 69, 205
+  offset: 0, 0
+  index: -1
+zuoshou-1
+  rotate: false
+  xy: 326, 772
+  size: 224, 250
+  orig: 224, 250
+  offset: 0, 0
+  index: -1
+zuoshou-2
+  rotate: false
+  xy: 299, 220
+  size: 144, 190
+  orig: 144, 190
+  offset: 0, 0
+  index: -1
+zuoshou-3
+  rotate: true
+  xy: 811, 313
+  size: 62, 175
+  orig: 62, 175
+  offset: 0, 0
+  index: -1

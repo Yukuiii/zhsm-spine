@@ -1,0 +1,69 @@
+
+FT_01Q.png
+size: 298,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+w01
+  rotate: false
+  xy: 276, 42
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+w02
+  rotate: false
+  xy: 148, 9
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+w03
+  rotate: true
+  xy: 100, 9
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+w05
+  rotate: false
+  xy: 2, 2
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+w06
+  rotate: false
+  xy: 51, 2
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+w07
+  rotate: false
+  xy: 2, 45
+  size: 186, 92
+  orig: 186, 92
+  offset: 0, 0
+  index: -1
+w08
+  rotate: true
+  xy: 252, 56
+  size: 81, 44
+  orig: 81, 44
+  offset: 0, 0
+  index: -1
+w09
+  rotate: false
+  xy: 190, 4
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+ww01
+  rotate: false
+  xy: 190, 53
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1

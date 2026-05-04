@@ -1,0 +1,160 @@
+
+shelter_factory.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex-0234_01
+  rotate: false
+  xy: 660, 903
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0234_02
+  rotate: false
+  xy: 918, 1161
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex_5383_01
+  rotate: false
+  xy: 402, 1033
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_5383_02
+  rotate: false
+  xy: 2, 55
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_5383_03
+  rotate: false
+  xy: 402, 775
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tex_5383_04
+  rotate: false
+  xy: 660, 1033
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bj
+  rotate: false
+  xy: 2, 1291
+  size: 1672, 752
+  orig: 1672, 752
+  offset: 0, 0
+  index: -1
+bq
+  rotate: true
+  xy: 1676, 1291
+  size: 281, 177
+  orig: 281, 177
+  offset: 0, 0
+  index: -1
+dz
+  rotate: false
+  xy: 2, 802
+  size: 398, 487
+  orig: 398, 487
+  offset: 0, 0
+  index: -1
+guan1
+  rotate: false
+  xy: 790, 932
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+guan2
+  rotate: true
+  xy: 2, 2
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+kpz
+  rotate: false
+  xy: 660, 797
+  size: 122, 104
+  orig: 122, 104
+  offset: 0, 0
+  index: -1
+pz
+  rotate: false
+  xy: 402, 327
+  size: 124, 122
+  orig: 124, 122
+  offset: 0, 0
+  index: -1
+qg
+  rotate: false
+  xy: 2, 313
+  size: 398, 487
+  orig: 398, 487
+  offset: 0, 0
+  index: -1
+qg1
+  rotate: false
+  xy: 260, 56
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1
+qg2
+  rotate: false
+  xy: 918, 1064
+  size: 108, 95
+  orig: 108, 95
+  offset: 0, 0
+  index: -1
+qg3
+  rotate: true
+  xy: 402, 451
+  size: 322, 153
+  orig: 322, 153
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1855, 1477
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+wq1
+  rotate: true
+  xy: 260, 155
+  size: 156, 130
+  orig: 156, 130
+  offset: 0, 0
+  index: -1
+y_jg
+  rotate: true
+  xy: 1932, 1928
+  size: 115, 112
+  orig: 115, 112
+  offset: 0, 0
+  index: -1
+z_gd_b
+  rotate: true
+  xy: 1676, 1574
+  size: 469, 254
+  orig: 469, 254
+  offset: 0, 0
+  index: -1
+z_jg
+  rotate: false
+  xy: 557, 629
+  size: 71, 144
+  orig: 71, 144
+  offset: 0, 0
+  index: -1

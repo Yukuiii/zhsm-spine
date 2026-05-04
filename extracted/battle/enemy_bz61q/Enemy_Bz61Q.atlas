@@ -1,0 +1,69 @@
+
+Enemy_Bz61Q.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 742, 431
+  size: 78, 178
+  orig: 78, 178
+  offset: 0, 0
+  index: -1
+shou_y
+  rotate: true
+  xy: 206, 249
+  size: 166, 389
+  orig: 166, 389
+  offset: 0, 0
+  index: -1
+shou_z
+  rotate: false
+  xy: 2, 79
+  size: 202, 430
+  orig: 202, 430
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 922, 427
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+tui_y_01
+  rotate: true
+  xy: 206, 144
+  size: 103, 203
+  orig: 103, 203
+  offset: 0, 0
+  index: -1
+tui_y_02
+  rotate: false
+  xy: 597, 290
+  size: 86, 125
+  orig: 86, 125
+  offset: 0, 0
+  index: -1
+tui_z_01
+  rotate: true
+  xy: 411, 144
+  size: 103, 189
+  orig: 103, 189
+  offset: 0, 0
+  index: -1
+tui_z_02
+  rotate: true
+  xy: 2, 2
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 206, 417
+  size: 534, 92
+  orig: 534, 92
+  offset: 0, 0
+  index: -1

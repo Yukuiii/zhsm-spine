@@ -1,0 +1,440 @@
+
+Hero_pf01_046Q_skill.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 469, 124
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 513, 376
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 352, 228
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 181, 2
+  size: 49, 89
+  orig: 49, 89
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 592, 262
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 486, 224
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 1008, 440
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 486, 273
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 694, 281
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 635, 404
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 480, 2
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 181, 93
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 694, 316
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 432, 249
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+23
+  rotate: true
+  xy: 433, 179
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+25
+  rotate: true
+  xy: 354, 2
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 856, 381
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 1008, 425
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+34
+  rotate: false
+  xy: 252, 242
+  size: 98, 121
+  orig: 98, 121
+  offset: 0, 0
+  index: -1
+37
+  rotate: true
+  xy: 456, 54
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+38
+  rotate: true
+  xy: 90, 2
+  size: 42, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1
+39
+  rotate: false
+  xy: 317, 28
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+40
+  rotate: false
+  xy: 481, 60
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+41
+  rotate: false
+  xy: 414, 53
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+42
+  rotate: true
+  xy: 510, 126
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+43
+  rotate: false
+  xy: 686, 352
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+45
+  rotate: true
+  xy: 158, 202
+  size: 140, 92
+  orig: 140, 92
+  offset: 0, 0
+  index: -1
+46
+  rotate: true
+  xy: 352, 181
+  size: 45, 79
+  orig: 45, 79
+  offset: 0, 0
+  index: -1
+47
+  rotate: false
+  xy: 351, 109
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+48
+  rotate: true
+  xy: 378, 303
+  size: 98, 106
+  orig: 98, 106
+  offset: 0, 0
+  index: -1
+49
+  rotate: true
+  xy: 278, 118
+  size: 82, 20
+  orig: 82, 20
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 300, 182
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+50
+  rotate: false
+  xy: 486, 251
+  size: 82, 20
+  orig: 82, 20
+  offset: 0, 0
+  index: -1
+51
+  rotate: false
+  xy: 696, 399
+  size: 82, 17
+  orig: 82, 17
+  offset: 0, 0
+  index: -1
+52
+  rotate: false
+  xy: 513, 458
+  size: 181, 52
+  orig: 181, 52
+  offset: 0, 0
+  index: -1
+53
+  rotate: false
+  xy: 2, 169
+  size: 154, 173
+  orig: 154, 173
+  offset: 0, 0
+  index: -1
+54
+  rotate: true
+  xy: 232, 3
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+55
+  rotate: true
+  xy: 816, 414
+  size: 96, 112
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+56
+  rotate: false
+  xy: 241, 365
+  size: 135, 145
+  orig: 135, 145
+  offset: 0, 0
+  index: -1
+57
+  rotate: false
+  xy: 378, 403
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+58
+  rotate: false
+  xy: 300, 104
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+59
+  rotate: false
+  xy: 158, 172
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 354, 45
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+60
+  rotate: true
+  xy: 781, 381
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+61
+  rotate: false
+  xy: 656, 292
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+62
+  rotate: true
+  xy: 482, 179
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+63
+  rotate: false
+  xy: 516, 63
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+64
+  rotate: false
+  xy: 2, 344
+  size: 237, 166
+  orig: 237, 166
+  offset: 0, 0
+  index: -1
+65
+  rotate: false
+  xy: 930, 404
+  size: 76, 106
+  orig: 76, 106
+  offset: 0, 0
+  index: -1
+66
+  rotate: true
+  xy: 696, 418
+  size: 92, 118
+  orig: 92, 118
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 592, 292
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 252, 202
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 90, 46
+  size: 89, 121
+  orig: 89, 121
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 2, 3
+  size: 164, 86
+  orig: 164, 86
+  offset: 0, 0
+  index: -1
+death
+  rotate: true
+  xy: 656, 343
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+gongji
+  rotate: false
+  xy: 426, 2
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+kaomoji_09
+  rotate: true
+  xy: 742, 357
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+lingzi1
+  rotate: true
+  xy: 543, 179
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+lingzi2
+  rotate: false
+  xy: 159, 34
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+shouji
+  rotate: true
+  xy: 352, 307
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 409, 124
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+y_shou_BZ
+  rotate: true
+  xy: 814, 378
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1

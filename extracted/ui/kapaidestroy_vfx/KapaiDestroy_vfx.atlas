@@ -1,0 +1,20 @@
+
+KapaiDestroy_vfx.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang
+  rotate: false
+  xy: 2, 139
+  size: 309, 311
+  orig: 309, 311
+  offset: 0, 0
+  index: -1
+sanjiaokuai
+  rotate: false
+  xy: 2, 2
+  size: 217, 135
+  orig: 217, 135
+  offset: 0, 0
+  index: -1

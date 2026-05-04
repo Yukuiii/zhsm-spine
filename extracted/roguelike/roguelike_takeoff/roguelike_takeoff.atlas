@@ -1,0 +1,286 @@
+
+roguelike_takeoff.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E3D-Loop4-38
+  rotate: false
+  xy: 2, 504
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Tex_di1626_00000
+  rotate: false
+  xy: 774, 560
+  size: 256, 114
+  orig: 256, 114
+  offset: 0, 0
+  index: -1
+Tex_flash1413_01
+  rotate: false
+  xy: 923, 290
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Tex_flash1413_02
+  rotate: false
+  xy: 857, 202
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Tex_flash1413_03
+  rotate: false
+  xy: 923, 203
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Tex_flash1413_04
+  rotate: false
+  xy: 854, 115
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Tex_flash1413_05
+  rotate: true
+  xy: 762, 35
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+Tex_flash1413_06
+  rotate: false
+  xy: 857, 377
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+Tex_flash1413_07
+  rotate: false
+  xy: 857, 289
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+Tex_flash1413_08
+  rotate: false
+  xy: 923, 377
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+Tex_flash1413_09
+  rotate: false
+  xy: 989, 378
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Tex_flash1413_10
+  rotate: false
+  xy: 989, 291
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Tex_flash1413_11
+  rotate: false
+  xy: 989, 204
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Tex_flash1413_12
+  rotate: false
+  xy: 1834, 529
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Tex_guang1141
+  rotate: false
+  xy: 1090, 694
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+dian006_01
+  rotate: false
+  xy: 774, 465
+  size: 246, 93
+  orig: 246, 93
+  offset: 0, 0
+  index: -1
+dian006_02
+  rotate: false
+  xy: 1348, 665
+  size: 246, 93
+  orig: 246, 93
+  offset: 0, 0
+  index: -1
+dian006_03
+  rotate: false
+  xy: 1606, 711
+  size: 246, 93
+  orig: 246, 93
+  offset: 0, 0
+  index: -1
+dian006_04
+  rotate: false
+  xy: 1596, 616
+  size: 246, 93
+  orig: 246, 93
+  offset: 0, 0
+  index: -1
+dian006_05
+  rotate: false
+  xy: 1090, 599
+  size: 246, 93
+  orig: 246, 93
+  offset: 0, 0
+  index: -1
+dian006_06
+  rotate: false
+  xy: 1338, 570
+  size: 246, 93
+  orig: 246, 93
+  offset: 0, 0
+  index: -1
+dian006_07
+  rotate: false
+  xy: 1586, 521
+  size: 246, 93
+  orig: 246, 93
+  offset: 0, 0
+  index: -1
+dian006_08
+  rotate: true
+  xy: 762, 208
+  size: 246, 93
+  orig: 246, 93
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 516, 456
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+heidi_00000
+  rotate: false
+  xy: 1596, 750
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+light1753_00000
+  rotate: false
+  xy: 504, 24
+  size: 256, 172
+  orig: 256, 172
+  offset: 0, 0
+  index: -1
+line01_00000
+  rotate: false
+  xy: 814, 952
+  size: 512, 64
+  orig: 512, 64
+  offset: 0, 0
+  index: -1
+lizi1_00000
+  rotate: false
+  xy: 1900, 559
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+lizi2_00000
+  rotate: false
+  xy: 1966, 559
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+t1
+  rotate: true
+  xy: 762, 101
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 1032, 613
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 516, 714
+  size: 296, 302
+  orig: 296, 302
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 1854, 625
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 814, 676
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+t6_00000
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+t7_00000
+  rotate: false
+  xy: 504, 198
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+t8_00000
+  rotate: false
+  xy: 1606, 806
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+t9_00000
+  rotate: false
+  xy: 1818, 806
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 774, 680
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+yuan003
+  rotate: false
+  xy: 1348, 760
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+roguelike_campsite.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000
+  rotate: false
+  xy: 190, 18
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+0001
+  rotate: false
+  xy: 376, 220
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+0002
+  rotate: false
+  xy: 376, 18
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+0003
+  rotate: true
+  xy: 428, 422
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+0004
+  rotate: true
+  xy: 630, 424
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+0005
+  rotate: true
+  xy: 832, 424
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+0006
+  rotate: true
+  xy: 1034, 424
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+0007
+  rotate: true
+  xy: 1236, 424
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+0008
+  rotate: true
+  xy: 1438, 424
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+0009
+  rotate: true
+  xy: 1640, 424
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+0010
+  rotate: false
+  xy: 1842, 408
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+0011
+  rotate: false
+  xy: 562, 220
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 260, 796
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1576, 796
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1764, 796
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 260, 608
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 314
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 448, 796
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 109
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 636, 796
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 824, 796
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1012, 796
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1200, 796
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1388, 796
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+A
+  rotate: true
+  xy: 1879, 610
+  size: 184, 130
+  orig: 184, 130
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 934, 292
+  size: 184, 130
+  orig: 184, 130
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 934, 160
+  size: 184, 130
+  orig: 184, 130
+  offset: 0, 0
+  index: -1
+g (1)
+  rotate: true
+  xy: 465, 610
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+g (10)
+  rotate: false
+  xy: 562, 18
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+g (11)
+  rotate: false
+  xy: 748, 222
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+g (12)
+  rotate: false
+  xy: 748, 20
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+g (2)
+  rotate: true
+  xy: 667, 610
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+g (3)
+  rotate: true
+  xy: 869, 610
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+g (4)
+  rotate: true
+  xy: 1071, 610
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+g (5)
+  rotate: true
+  xy: 1273, 610
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+g (6)
+  rotate: true
+  xy: 1475, 610
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+g (7)
+  rotate: true
+  xy: 1677, 610
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+g (8)
+  rotate: true
+  xy: 226, 422
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+g (9)
+  rotate: false
+  xy: 190, 220
+  size: 184, 200
+  orig: 184, 200
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 519
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+glow_204
+  rotate: false
+  xy: 2, 2
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+ring_00000
+  rotate: false
+  xy: 2, 743
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

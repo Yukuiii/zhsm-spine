@@ -1,0 +1,83 @@
+
+roguelike_renew.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ditu_01_00000
+  rotate: false
+  xy: 2, 412
+  size: 781, 542
+  orig: 781, 542
+  offset: 0, 0
+  index: -1
+heal_00000
+  rotate: false
+  xy: 2, 207
+  size: 227, 203
+  orig: 227, 203
+  offset: 0, 0
+  index: -1
+heal_00002
+  rotate: false
+  xy: 785, 751
+  size: 227, 203
+  orig: 227, 203
+  offset: 0, 0
+  index: -1
+heal_00004
+  rotate: false
+  xy: 2, 2
+  size: 227, 203
+  orig: 227, 203
+  offset: 0, 0
+  index: -1
+heal_00006
+  rotate: false
+  xy: 231, 207
+  size: 227, 203
+  orig: 227, 203
+  offset: 0, 0
+  index: -1
+heal_00008
+  rotate: false
+  xy: 785, 546
+  size: 227, 203
+  orig: 227, 203
+  offset: 0, 0
+  index: -1
+heal_00010
+  rotate: false
+  xy: 231, 2
+  size: 227, 203
+  orig: 227, 203
+  offset: 0, 0
+  index: -1
+heal_00012
+  rotate: false
+  xy: 460, 207
+  size: 227, 203
+  orig: 227, 203
+  offset: 0, 0
+  index: -1
+heal_00014
+  rotate: false
+  xy: 460, 2
+  size: 227, 203
+  orig: 227, 203
+  offset: 0, 0
+  index: -1
+heal_00016
+  rotate: false
+  xy: 785, 341
+  size: 227, 203
+  orig: 227, 203
+  offset: 0, 0
+  index: -1
+heal_00018
+  rotate: false
+  xy: 689, 136
+  size: 227, 203
+  orig: 227, 203
+  offset: 0, 0
+  index: -1

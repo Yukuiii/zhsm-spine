@@ -1,0 +1,188 @@
+
+abyss_challenge_001_skill.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jian_y
+  rotate: false
+  xy: 474, 635
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+Tou_1
+  rotate: true
+  xy: 748, 825
+  size: 45, 155
+  orig: 45, 155
+  offset: 0, 0
+  index: -1
+Tou_2
+  rotate: false
+  xy: 144, 106
+  size: 86, 120
+  orig: 86, 120
+  offset: 0, 0
+  index: -1
+Tou_4
+  rotate: false
+  xy: 107, 32
+  size: 21, 74
+  orig: 21, 74
+  offset: 0, 0
+  index: -1
+Wing_B_01
+  rotate: false
+  xy: 2, 795
+  size: 471, 227
+  orig: 471, 227
+  offset: 0, 0
+  index: -1
+Wing_B_02
+  rotate: false
+  xy: 2, 368
+  size: 270, 196
+  orig: 270, 196
+  offset: 0, 0
+  index: -1
+Wing_Z_01
+  rotate: false
+  xy: 2, 566
+  size: 470, 227
+  orig: 470, 227
+  offset: 0, 0
+  index: -1
+Wing_Z_02
+  rotate: false
+  xy: 475, 826
+  size: 271, 196
+  orig: 271, 196
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 704, 756
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+dao
+  rotate: false
+  xy: 2, 2
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+dao-3
+  rotate: false
+  xy: 2, 108
+  size: 140, 118
+  orig: 140, 118
+  offset: 0, 0
+  index: -1
+datui-1
+  rotate: false
+  xy: 223, 269
+  size: 50, 97
+  orig: 50, 97
+  offset: 0, 0
+  index: -1
+datui-2
+  rotate: false
+  xy: 561, 628
+  size: 75, 84
+  orig: 75, 84
+  offset: 0, 0
+  index: -1
+jianbang-2
+  rotate: true
+  xy: 638, 642
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+kage
+  rotate: false
+  xy: 2, 228
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 905, 812
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+lan-1
+  rotate: false
+  xy: 800, 757
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+lan-2
+  rotate: false
+  xy: 744, 757
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 474, 566
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 274, 402
+  size: 135, 162
+  orig: 135, 162
+  offset: 0, 0
+  index: -1
+tui-2
+  rotate: false
+  xy: 411, 405
+  size: 86, 159
+  orig: 86, 159
+  offset: 0, 0
+  index: -1
+xiaotui-2
+  rotate: true
+  xy: 475, 714
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+xigai-1
+  rotate: false
+  xy: 855, 766
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+xigai-2
+  rotate: false
+  xy: 704, 700
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 622, 726
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+圖層 72
+  rotate: true
+  xy: 748, 872
+  size: 150, 257
+  orig: 150, 257
+  offset: 0, 0
+  index: -1

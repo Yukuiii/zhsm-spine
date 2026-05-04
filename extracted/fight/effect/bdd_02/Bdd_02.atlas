@@ -1,0 +1,41 @@
+
+Bdd_02.png
+size: 164,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: true
+  xy: 106, 3
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+T01
+  rotate: false
+  xy: 63, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+bb
+  rotate: false
+  xy: 2, 19
+  size: 102, 39
+  orig: 102, 39
+  offset: 0, 0
+  index: -1
+f03
+  rotate: false
+  xy: 2, 3
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+f04
+  rotate: false
+  xy: 33, 2
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1

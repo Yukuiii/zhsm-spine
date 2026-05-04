@@ -1,0 +1,55 @@
+
+Boom_04.png
+size: 978,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T01
+  rotate: false
+  xy: 349, 250
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+jizhong_001
+  rotate: false
+  xy: 2, 4
+  size: 345, 291
+  orig: 345, 291
+  offset: 0, 0
+  index: -1
+jizhong_002
+  rotate: false
+  xy: 434, 2
+  size: 358, 314
+  orig: 358, 314
+  offset: 0, 0
+  index: -1
+jizhong_003
+  rotate: false
+  xy: 2, 297
+  size: 430, 341
+  orig: 430, 341
+  offset: 0, 0
+  index: -1
+jizhong_004
+  rotate: false
+  xy: 434, 318
+  size: 382, 320
+  orig: 382, 320
+  offset: 0, 0
+  index: -1
+jizhong_005
+  rotate: true
+  xy: 794, 30
+  size: 286, 182
+  orig: 286, 182
+  offset: 0, 0
+  index: -1
+jizhong_006
+  rotate: true
+  xy: 818, 450
+  size: 188, 139
+  orig: 188, 139
+  offset: 0, 0
+  index: -1

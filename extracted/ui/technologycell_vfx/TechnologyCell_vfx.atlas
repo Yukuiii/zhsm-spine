@@ -1,0 +1,230 @@
+
+TechnologyCell_vfx.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_0
+  rotate: false
+  xy: 2, 296
+  size: 205, 206
+  orig: 205, 206
+  offset: 0, 0
+  index: -1
+02_0
+  rotate: false
+  xy: 2, 88
+  size: 205, 206
+  orig: 205, 206
+  offset: 0, 0
+  index: -1
+tec_0
+  rotate: false
+  xy: 209, 418
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_1
+  rotate: false
+  xy: 2, 2
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_10
+  rotate: false
+  xy: 381, 332
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_11
+  rotate: false
+  xy: 467, 418
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_12
+  rotate: false
+  xy: 295, 160
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_13
+  rotate: false
+  xy: 381, 246
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_14
+  rotate: false
+  xy: 467, 332
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_15
+  rotate: false
+  xy: 553, 418
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_16
+  rotate: false
+  xy: 381, 160
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_17
+  rotate: false
+  xy: 467, 246
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_18
+  rotate: false
+  xy: 553, 332
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_19
+  rotate: false
+  xy: 639, 418
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_2
+  rotate: false
+  xy: 209, 332
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_20
+  rotate: false
+  xy: 467, 160
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_21
+  rotate: false
+  xy: 553, 246
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_22
+  rotate: false
+  xy: 639, 332
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_23
+  rotate: false
+  xy: 725, 418
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_24
+  rotate: false
+  xy: 553, 160
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_25
+  rotate: false
+  xy: 639, 246
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_26
+  rotate: false
+  xy: 725, 332
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_27
+  rotate: false
+  xy: 811, 418
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_28
+  rotate: false
+  xy: 639, 160
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_29
+  rotate: false
+  xy: 725, 246
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_3
+  rotate: false
+  xy: 295, 418
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_4
+  rotate: false
+  xy: 88, 2
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_5
+  rotate: false
+  xy: 209, 246
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_6
+  rotate: false
+  xy: 295, 332
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_7
+  rotate: false
+  xy: 381, 418
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_8
+  rotate: false
+  xy: 209, 160
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tec_9
+  rotate: false
+  xy: 295, 246
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1

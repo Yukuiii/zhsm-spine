@@ -1,0 +1,181 @@
+
+roguelike_reborn.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex-0389_01
+  rotate: false
+  xy: 866, 234
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0389_02
+  rotate: false
+  xy: 996, 234
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0389_03
+  rotate: false
+  xy: 1126, 234
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0389_04
+  rotate: false
+  xy: 1256, 234
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chibang_00000
+  rotate: false
+  xy: 364, 259
+  size: 214, 238
+  orig: 214, 238
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 41
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+glow_00000
+  rotate: false
+  xy: 2, 94
+  size: 180, 403
+  orig: 180, 403
+  offset: 0, 0
+  index: -1
+liuti_00000
+  rotate: true
+  xy: 580, 357
+  size: 140, 260
+  orig: 140, 260
+  offset: 0, 0
+  index: -1
+lizi_00004
+  rotate: false
+  xy: 985, 364
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+lizi_00006
+  rotate: false
+  xy: 1128, 364
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+lizi_00008
+  rotate: false
+  xy: 1271, 364
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+lizi_00010
+  rotate: false
+  xy: 1414, 364
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+lizi_00012
+  rotate: false
+  xy: 1557, 364
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+lizi_00014
+  rotate: false
+  xy: 1700, 364
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+lizi_00016
+  rotate: false
+  xy: 1843, 364
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+lizi_00018
+  rotate: false
+  xy: 580, 222
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+lizi_00020
+  rotate: false
+  xy: 723, 222
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+lizi_00022
+  rotate: false
+  xy: 842, 364
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+star_00000
+  rotate: false
+  xy: 184, 130
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+star_00001
+  rotate: false
+  xy: 1986, 460
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+star_00002
+  rotate: false
+  xy: 364, 220
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+star_00003
+  rotate: false
+  xy: 1386, 325
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+star_00004
+  rotate: false
+  xy: 2, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+star_00005
+  rotate: false
+  xy: 54, 55
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+xing_00000
+  rotate: false
+  xy: 184, 169
+  size: 178, 328
+  orig: 178, 328
+  offset: 0, 0
+  index: -1

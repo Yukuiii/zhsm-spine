@@ -1,0 +1,139 @@
+
+zhanzheng_vfx.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+world_btnz_08_0
+  rotate: false
+  xy: 2, 68
+  size: 205, 142
+  orig: 205, 142
+  offset: 0, 0
+  index: -1
+world_btnz_08_1
+  rotate: false
+  xy: 209, 68
+  size: 205, 142
+  orig: 205, 142
+  offset: 0, 0
+  index: -1
+world_btnz_08_2
+  rotate: false
+  xy: 416, 68
+  size: 205, 142
+  orig: 205, 142
+  offset: 0, 0
+  index: -1
+world_btnz_08_3
+  rotate: false
+  xy: 623, 68
+  size: 205, 142
+  orig: 205, 142
+  offset: 0, 0
+  index: -1
+world_btnz_08_4
+  rotate: false
+  xy: 830, 68
+  size: 205, 142
+  orig: 205, 142
+  offset: 0, 0
+  index: -1
+world_btnz_08_5
+  rotate: false
+  xy: 1037, 68
+  size: 205, 142
+  orig: 205, 142
+  offset: 0, 0
+  index: -1
+world_btnz_08_6
+  rotate: false
+  xy: 1244, 68
+  size: 205, 142
+  orig: 205, 142
+  offset: 0, 0
+  index: -1
+world_btnz_08_7
+  rotate: false
+  xy: 1451, 68
+  size: 205, 142
+  orig: 205, 142
+  offset: 0, 0
+  index: -1
+world_btnz_08_8
+  rotate: false
+  xy: 1658, 68
+  size: 205, 142
+  orig: 205, 142
+  offset: 0, 0
+  index: -1
+world_btnz_08_9
+  rotate: true
+  xy: 1865, 5
+  size: 205, 142
+  orig: 205, 142
+  offset: 0, 0
+  index: -1
+world_btnz_09_0
+  rotate: false
+  xy: 136, 2
+  size: 132, 64
+  orig: 132, 64
+  offset: 0, 0
+  index: -1
+world_btnz_09_1
+  rotate: false
+  xy: 270, 2
+  size: 132, 64
+  orig: 132, 64
+  offset: 0, 0
+  index: -1
+world_btnz_09_2
+  rotate: false
+  xy: 404, 2
+  size: 132, 64
+  orig: 132, 64
+  offset: 0, 0
+  index: -1
+world_btnz_09_3
+  rotate: false
+  xy: 538, 2
+  size: 132, 64
+  orig: 132, 64
+  offset: 0, 0
+  index: -1
+world_btnz_09_4
+  rotate: false
+  xy: 672, 2
+  size: 132, 64
+  orig: 132, 64
+  offset: 0, 0
+  index: -1
+world_btnz_09_5
+  rotate: false
+  xy: 806, 2
+  size: 132, 64
+  orig: 132, 64
+  offset: 0, 0
+  index: -1
+world_btnz_09_6
+  rotate: false
+  xy: 940, 2
+  size: 132, 64
+  orig: 132, 64
+  offset: 0, 0
+  index: -1
+world_btnz_09_7
+  rotate: false
+  xy: 1074, 2
+  size: 132, 64
+  orig: 132, 64
+  offset: 0, 0
+  index: -1
+world_btnz_09_8
+  rotate: false
+  xy: 2, 2
+  size: 132, 64
+  orig: 132, 64
+  offset: 0, 0
+  index: -1

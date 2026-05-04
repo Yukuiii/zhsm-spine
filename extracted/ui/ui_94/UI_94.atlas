@@ -1,0 +1,27 @@
+
+UI_94.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_00000
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+1_00000
+  rotate: false
+  xy: 202, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+3_00000
+  rotate: false
+  xy: 404, 113
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1

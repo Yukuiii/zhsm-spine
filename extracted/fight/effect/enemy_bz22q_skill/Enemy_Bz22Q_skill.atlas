@@ -1,0 +1,160 @@
+
+Enemy_Bz22Q_skill.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enemy_Bz22Q-attack_00017
+  rotate: false
+  xy: 2, 555
+  size: 256, 293
+  orig: 256, 293
+  offset: 0, 0
+  index: -1
+Enemy_Bz22Q-attack_00018
+  rotate: false
+  xy: 2, 260
+  size: 256, 293
+  orig: 256, 293
+  offset: 0, 0
+  index: -1
+Enemy_Bz22Q-attack_00019
+  rotate: true
+  xy: 2, 2
+  size: 256, 293
+  orig: 256, 293
+  offset: 0, 0
+  index: -1
+Enemy_Bz22Q-attack_00020
+  rotate: false
+  xy: 260, 555
+  size: 256, 293
+  orig: 256, 293
+  offset: 0, 0
+  index: -1
+Enemy_Bz22Q-attack_00021
+  rotate: false
+  xy: 260, 260
+  size: 256, 293
+  orig: 256, 293
+  offset: 0, 0
+  index: -1
+Enemy_Bz22Q-attack_00022
+  rotate: true
+  xy: 297, 2
+  size: 256, 293
+  orig: 256, 293
+  offset: 0, 0
+  index: -1
+Enemy_Bz22Q-attack_00023
+  rotate: false
+  xy: 518, 707
+  size: 256, 293
+  orig: 256, 293
+  offset: 0, 0
+  index: -1
+Enemy_Bz22Q-attack_00024
+  rotate: false
+  xy: 518, 412
+  size: 256, 293
+  orig: 256, 293
+  offset: 0, 0
+  index: -1
+Enemy_Bz22Q-attack_00025
+  rotate: true
+  xy: 592, 14
+  size: 256, 293
+  orig: 256, 293
+  offset: 0, 0
+  index: -1
+daizi_01
+  rotate: true
+  xy: 895, 373
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1
+kage
+  rotate: false
+  xy: 518, 272
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 776, 586
+  size: 203, 197
+  orig: 203, 197
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 776, 785
+  size: 236, 215
+  orig: 236, 215
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 850
+  size: 435, 150
+  orig: 435, 150
+  offset: 0, 0
+  index: -1
+youshou_01
+  rotate: true
+  xy: 887, 10
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+youshou_02
+  rotate: true
+  xy: 895, 485
+  size: 99, 127
+  orig: 99, 127
+  offset: 0, 0
+  index: -1
+youtui_01
+  rotate: false
+  xy: 887, 69
+  size: 86, 143
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+youtui_02
+  rotate: false
+  xy: 981, 727
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+zuoshou_01
+  rotate: false
+  xy: 776, 437
+  size: 117, 147
+  orig: 117, 147
+  offset: 0, 0
+  index: -1
+zuoshou_02
+  rotate: true
+  xy: 439, 850
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+zuotui_01
+  rotate: false
+  xy: 887, 214
+  size: 96, 157
+  orig: 96, 157
+  offset: 0, 0
+  index: -1
+zuotui_02
+  rotate: false
+  xy: 439, 920
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1

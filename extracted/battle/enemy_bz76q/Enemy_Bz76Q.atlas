@@ -1,0 +1,160 @@
+
+Enemy_Bz76Q.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beibao_y
+  rotate: false
+  xy: 2, 561
+  size: 374, 438
+  orig: 374, 438
+  offset: 0, 0
+  index: -1
+beibao_z
+  rotate: false
+  xy: 2, 148
+  size: 309, 411
+  orig: 309, 411
+  offset: 0, 0
+  index: -1
+guangxiao
+  rotate: false
+  xy: 313, 205
+  size: 90, 99
+  orig: 90, 99
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 692, 721
+  size: 136, 184
+  orig: 136, 184
+  offset: 0, 0
+  index: -1
+shou_y_01
+  rotate: false
+  xy: 406, 273
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+shou_y_02
+  rotate: false
+  xy: 935, 800
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+shou_y_03
+  rotate: true
+  xy: 488, 508
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+shou_y_04
+  rotate: false
+  xy: 406, 344
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+shou_z_01
+  rotate: false
+  xy: 405, 221
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+shou_z_02
+  rotate: true
+  xy: 389, 424
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+shou_z_03
+  rotate: false
+  xy: 562, 694
+  size: 128, 211
+  orig: 128, 211
+  offset: 0, 0
+  index: -1
+shou_z_04
+  rotate: false
+  xy: 830, 730
+  size: 103, 175
+  orig: 103, 175
+  offset: 0, 0
+  index: -1
+tou_01
+  rotate: false
+  xy: 562, 603
+  size: 112, 89
+  orig: 112, 89
+  offset: 0, 0
+  index: -1
+tou_02
+  rotate: true
+  xy: 313, 412
+  size: 147, 74
+  orig: 147, 74
+  offset: 0, 0
+  index: -1
+tui_y_01
+  rotate: false
+  xy: 378, 594
+  size: 182, 311
+  orig: 182, 311
+  offset: 0, 0
+  index: -1
+tui_y_02
+  rotate: true
+  xy: 914, 907
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+tui_y_03
+  rotate: false
+  xy: 313, 155
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+tui_y_04
+  rotate: true
+  xy: 2, 2
+  size: 144, 298
+  orig: 144, 298
+  offset: 0, 0
+  index: -1
+tui_z_01
+  rotate: true
+  xy: 313, 306
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+tui_z_02
+  rotate: false
+  xy: 935, 728
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+tui_z_03
+  rotate: false
+  xy: 389, 494
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 378, 907
+  size: 534, 92
+  orig: 534, 92
+  offset: 0, 0
+  index: -1

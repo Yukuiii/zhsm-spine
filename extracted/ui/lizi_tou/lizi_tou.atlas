@@ -1,0 +1,34 @@
+
+lizi_tou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: false
+  xy: 130, 93
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1, 111
+  size: 128, 109
+  orig: 128, 109
+  offset: 0, 0
+  index: -1
+star02
+  rotate: false
+  xy: 1, 1
+  size: 128, 109
+  orig: 128, 109
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 130, 157
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1

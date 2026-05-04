@@ -1,0 +1,188 @@
+
+Hero_055Q_xpskill.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: true
+  xy: 369, 33
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 664, 128
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: false
+  xy: 811, 198
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 847, 212
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+2_2A
+  rotate: true
+  xy: 664, 206
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+2_2B
+  rotate: true
+  xy: 664, 152
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: true
+  xy: 250, 8
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: true
+  xy: 300, 10
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+4_1
+  rotate: true
+  xy: 761, 201
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+4_2
+  rotate: true
+  xy: 708, 200
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+Dg
+  rotate: true
+  xy: 117, 2
+  size: 106, 81
+  orig: 106, 81
+  offset: 0, 0
+  index: -1
+MOHU
+  rotate: false
+  xy: 200, 41
+  size: 167, 67
+  orig: 167, 67
+  offset: 0, 0
+  index: -1
+PF_1
+  rotate: false
+  xy: 838, 242
+  size: 56, 112
+  orig: 56, 112
+  offset: 0, 0
+  index: -1
+PF_2
+  rotate: false
+  xy: 896, 251
+  size: 57, 103
+  orig: 57, 103
+  offset: 0, 0
+  index: -1
+S_1
+  rotate: true
+  xy: 706, 160
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+S_2
+  rotate: false
+  xy: 200, 7
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+TOU_1
+  rotate: true
+  xy: 2, 2
+  size: 106, 113
+  orig: 106, 113
+  offset: 0, 0
+  index: -1
+TOU_2
+  rotate: false
+  xy: 838, 356
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Tex-0752_01
+  rotate: false
+  xy: 404, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0752_02
+  rotate: false
+  xy: 708, 360
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0752_03
+  rotate: false
+  xy: 534, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tex-0752_04
+  rotate: false
+  xy: 708, 230
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+WB
+  rotate: false
+  xy: 369, 58
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+WQ
+  rotate: false
+  xy: 404, 261
+  size: 302, 227
+  orig: 302, 227
+  offset: 0, 0
+  index: -1
+guang01
+  rotate: true
+  xy: 404, 490
+  size: 20, 532
+  orig: 20, 532
+  offset: 0, 0
+  index: -1
+skill
+  rotate: false
+  xy: 2, 110
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1

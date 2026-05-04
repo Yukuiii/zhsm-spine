@@ -1,0 +1,76 @@
+
+DALL_002QS.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ftk-houbai-1
+  rotate: false
+  xy: 304, 53
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+ftk-shenti
+  rotate: true
+  xy: 167, 50
+  size: 68, 135
+  orig: 68, 135
+  offset: 0, 0
+  index: -1
+ftk-wuguan
+  rotate: false
+  xy: 367, 65
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+ftk-wuqi
+  rotate: false
+  xy: 2, 33
+  size: 163, 85
+  orig: 163, 85
+  offset: 0, 0
+  index: -1
+ftk-youshou-1
+  rotate: false
+  xy: 167, 33
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+ftk-youtui
+  rotate: true
+  xy: 67, 8
+  size: 23, 61
+  orig: 23, 61
+  offset: 0, 0
+  index: -1
+ftk-zuoshou-2
+  rotate: false
+  xy: 367, 94
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+ftk-zuotui
+  rotate: true
+  xy: 2, 2
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+miya-shouji-yanjing-L
+  rotate: false
+  xy: 130, 23
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+miya-shouji-yanjing-R
+  rotate: false
+  xy: 433, 110
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1

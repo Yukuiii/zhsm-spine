@@ -1,0 +1,20 @@
+
+UI_32.png
+size: 190,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t1
+  rotate: true
+  xy: 123, 6
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 2, 2
+  size: 104, 119
+  orig: 104, 119
+  offset: 0, 0
+  index: -1

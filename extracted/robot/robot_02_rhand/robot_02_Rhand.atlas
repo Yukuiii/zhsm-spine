@@ -1,0 +1,13 @@
+
+robot_02_Rhand.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+robot_02_Lhand
+  rotate: false
+  xy: 2, 2
+  size: 348, 918
+  orig: 348, 918
+  offset: 0, 0
+  index: -1

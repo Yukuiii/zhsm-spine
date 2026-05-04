@@ -1,0 +1,62 @@
+
+UI_39_01.png
+size: 109,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ss1
+  rotate: true
+  xy: 48, 4
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+ss2
+  rotate: false
+  xy: 77, 39
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+ss3
+  rotate: false
+  xy: 77, 68
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+ss4
+  rotate: false
+  xy: 41, 39
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+ss5
+  rotate: false
+  xy: 2, 38
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+ss6
+  rotate: false
+  xy: 70, 106
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+ss7
+  rotate: true
+  xy: 2, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+ss8
+  rotate: false
+  xy: 2, 84
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1

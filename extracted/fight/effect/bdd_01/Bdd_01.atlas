@@ -1,0 +1,13 @@
+
+Bdd_01.png
+size: 68,30
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bdd_01
+  rotate: false
+  xy: 2, 2
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+win_vfx.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img01
+  rotate: false
+  xy: 373, 389
+  size: 293, 21
+  orig: 293, 21
+  offset: 0, 0
+  index: -1
+img02
+  rotate: false
+  xy: 373, 412
+  size: 293, 47
+  orig: 293, 47
+  offset: 0, 0
+  index: -1
+img03
+  rotate: false
+  xy: 373, 245
+  size: 165, 142
+  orig: 165, 142
+  offset: 0, 0
+  index: -1
+light_0
+  rotate: false
+  xy: 2, 259
+  size: 369, 200
+  orig: 369, 200
+  offset: 0, 0
+  index: -1
+liuguang_0
+  rotate: false
+  xy: 2, 16
+  size: 196, 112
+  orig: 196, 112
+  offset: 0, 0
+  index: -1
+shandian_1
+  rotate: true
+  xy: 540, 215
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+shandian_10
+  rotate: true
+  xy: 642, 41
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+shandian_2
+  rotate: true
+  xy: 240, 85
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+shandian_3
+  rotate: false
+  xy: 354, 131
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+shandian_4
+  rotate: false
+  xy: 668, 331
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+shandian_5
+  rotate: false
+  xy: 654, 217
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+shandian_6
+  rotate: false
+  xy: 842, 331
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+shandian_7
+  rotate: false
+  xy: 828, 217
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+shandian_8
+  rotate: false
+  xy: 354, 17
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+shandian_9
+  rotate: true
+  xy: 528, 41
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+victory01Img
+  rotate: false
+  xy: 2, 2
+  size: 109, 12
+  orig: 109, 12
+  offset: 0, 0
+  index: -1
+victoryImg
+  rotate: false
+  xy: 668, 445
+  size: 285, 14
+  orig: 285, 14
+  offset: 0, 0
+  index: -1
+winImg
+  rotate: false
+  xy: 2, 130
+  size: 236, 127
+  orig: 236, 127
+  offset: 0, 0
+  index: -1

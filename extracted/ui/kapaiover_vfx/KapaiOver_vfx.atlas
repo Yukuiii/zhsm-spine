@@ -1,0 +1,20 @@
+
+KapaiOver_vfx.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuai
+  rotate: true
+  xy: 1340, 2
+  size: 168, 171
+  orig: 168, 171
+  offset: 0, 0
+  index: -1
+xiantiao
+  rotate: false
+  xy: 2, 16
+  size: 1336, 154
+  orig: 1336, 154
+  offset: 0, 0
+  index: -1

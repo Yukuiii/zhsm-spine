@@ -1,0 +1,160 @@
+
+zhanshu01_vfx.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_0
+  rotate: false
+  xy: 2, 268
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+2_0
+  rotate: false
+  xy: 678, 330
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3_0
+  rotate: false
+  xy: 216, 272
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+light_11
+  rotate: false
+  xy: 370, 328
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+light_13
+  rotate: false
+  xy: 338, 20
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+light_15
+  rotate: false
+  xy: 464, 174
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+light_17
+  rotate: false
+  xy: 524, 328
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+light_19
+  rotate: false
+  xy: 492, 20
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+light_21
+  rotate: false
+  xy: 618, 174
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+light_3
+  rotate: false
+  xy: 156, 114
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+light_5
+  rotate: false
+  xy: 216, 328
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+light_7
+  rotate: false
+  xy: 310, 174
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+light_9
+  rotate: false
+  xy: 2, 114
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+line_1
+  rotate: false
+  xy: 2, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+line_2
+  rotate: false
+  xy: 114, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+line_3
+  rotate: false
+  xy: 226, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+line_4
+  rotate: false
+  xy: 772, 218
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+line_5
+  rotate: false
+  xy: 830, 370
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+line_6
+  rotate: false
+  xy: 884, 258
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+line_7
+  rotate: false
+  xy: 884, 146
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+mask_0
+  rotate: false
+  xy: 646, 28
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+yuan_0
+  rotate: false
+  xy: 792, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

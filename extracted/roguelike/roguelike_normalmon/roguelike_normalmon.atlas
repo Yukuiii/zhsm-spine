@@ -1,0 +1,69 @@
+
+roguelike_normalmon.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 256, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+guai_die
+  rotate: false
+  xy: 1330, 100
+  size: 195, 147
+  orig: 195, 147
+  offset: 0, 0
+  index: -1
+guai_diegolden
+  rotate: false
+  xy: 1724, 99
+  size: 195, 148
+  orig: 195, 148
+  offset: 0, 0
+  index: -1
+guai_diered
+  rotate: false
+  xy: 1527, 99
+  size: 195, 148
+  orig: 195, 148
+  offset: 0, 0
+  index: -1
+guai_live
+  rotate: false
+  xy: 704, 66
+  size: 199, 181
+  orig: 199, 181
+  offset: 0, 0
+  index: -1
+guai_live_00000
+  rotate: false
+  xy: 1106, 101
+  size: 222, 146
+  orig: 222, 146
+  offset: 0, 0
+  index: -1
+guai_livegolden
+  rotate: false
+  xy: 905, 66
+  size: 199, 181
+  orig: 199, 181
+  offset: 0, 0
+  index: -1
+guai_livered
+  rotate: false
+  xy: 503, 65
+  size: 199, 182
+  orig: 199, 182
+  offset: 0, 0
+  index: -1
+ring1
+  rotate: false
+  xy: 2, 7
+  size: 252, 240
+  orig: 252, 240
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+WarZoneTips.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 26
+  size: 495, 423
+  orig: 495, 423
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 2
+  size: 311, 22
+  orig: 311, 22
+  offset: 0, 0
+  index: -1

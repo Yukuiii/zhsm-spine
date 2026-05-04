@@ -1,0 +1,34 @@
+
+army_02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dijun-body
+  rotate: false
+  xy: 2, 122
+  size: 725, 865
+  orig: 725, 865
+  offset: 0, 0
+  index: -1
+dijun-cap
+  rotate: false
+  xy: 2, 2
+  size: 259, 118
+  orig: 259, 118
+  offset: 0, 0
+  index: -1
+dijun-face01
+  rotate: false
+  xy: 729, 787
+  size: 192, 200
+  orig: 192, 200
+  offset: 0, 0
+  index: -1
+dijun-face02
+  rotate: false
+  xy: 729, 602
+  size: 192, 183
+  orig: 192, 183
+  offset: 0, 0
+  index: -1

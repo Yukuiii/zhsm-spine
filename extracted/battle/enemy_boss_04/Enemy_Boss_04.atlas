@@ -1,0 +1,307 @@
+
+Enemy_Boss_04.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S01
+  rotate: false
+  xy: 856, 374
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+S02a
+  rotate: true
+  xy: 595, 218
+  size: 152, 137
+  orig: 152, 137
+  offset: 0, 0
+  index: -1
+S02b
+  rotate: false
+  xy: 691, 374
+  size: 163, 136
+  orig: 163, 136
+  offset: 0, 0
+  index: -1
+S03
+  rotate: true
+  xy: 370, 14
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
+S04a
+  rotate: false
+  xy: 681, 151
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+S04b
+  rotate: false
+  xy: 470, 91
+  size: 108, 81
+  orig: 108, 81
+  offset: 0, 0
+  index: -1
+SG01
+  rotate: true
+  xy: 2, 11
+  size: 105, 204
+  orig: 105, 204
+  offset: 0, 0
+  index: -1
+SG02
+  rotate: false
+  xy: 661, 91
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+ST01
+  rotate: false
+  xy: 580, 85
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+ST02
+  rotate: false
+  xy: 860, 115
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+ST03
+  rotate: false
+  xy: 939, 190
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+ST04
+  rotate: false
+  xy: 890, 123
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+TX01
+  rotate: false
+  xy: 2, 118
+  size: 466, 392
+  orig: 466, 392
+  offset: 0, 0
+  index: -1
+X01
+  rotate: false
+  xy: 734, 225
+  size: 136, 147
+  orig: 136, 147
+  offset: 0, 0
+  index: -1
+X02
+  rotate: false
+  xy: 470, 174
+  size: 123, 196
+  orig: 123, 196
+  offset: 0, 0
+  index: -1
+X03
+  rotate: false
+  xy: 872, 241
+  size: 107, 131
+  orig: 107, 131
+  offset: 0, 0
+  index: -1
+X04
+  rotate: true
+  xy: 208, 17
+  size: 99, 160
+  orig: 99, 160
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 779, 4
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+dianxian
+  rotate: false
+  xy: 1000, 265
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dianxian2
+  rotate: true
+  xy: 871, 152
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dianxian3
+  rotate: false
+  xy: 2, 3
+  size: 31, 6
+  orig: 31, 6
+  offset: 0, 0
+  index: -1
+kage
+  rotate: false
+  xy: 470, 372
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 595, 163
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 890, 154
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+tou3
+  rotate: false
+  xy: 981, 248
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 775, 44
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+yao2
+  rotate: true
+  xy: 671, 29
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: true
+  xy: 717, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: false
+  xy: 841, 102
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+youtui3
+  rotate: false
+  xy: 815, 95
+  size: 24, 55
+  orig: 24, 55
+  offset: 0, 0
+  index: -1
+youtui4
+  rotate: true
+  xy: 671, 5
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+youtui5
+  rotate: false
+  xy: 820, 180
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+youtui7
+  rotate: true
+  xy: 613, 14
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+youtui8
+  rotate: true
+  xy: 744, 184
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+zuitui2
+  rotate: false
+  xy: 717, 44
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+zuochi7
+  rotate: true
+  xy: 464, 2
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+zuochi8
+  rotate: true
+  xy: 744, 151
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: false
+  xy: 552, 3
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+zuotui3
+  rotate: false
+  xy: 981, 289
+  size: 20, 83
+  orig: 20, 83
+  offset: 0, 0
+  index: -1
+zuotui4
+  rotate: true
+  xy: 808, 152
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+zuotui5
+  rotate: false
+  xy: 717, 97
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+zuotui6
+  rotate: false
+  xy: 881, 189
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+zuotui6 拷贝
+  rotate: false
+  xy: 778, 94
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+boom01.png
+size: 981,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: false
+  xy: 2, 2
+  size: 163, 164
+  orig: 163, 164
+  offset: 0, 0
+  index: -1
+behit_b_01
+  rotate: true
+  xy: 850, 85
+  size: 113, 129
+  orig: 113, 129
+  offset: 0, 0
+  index: -1
+behit_b_02
+  rotate: false
+  xy: 870, 258
+  size: 107, 140
+  orig: 107, 140
+  offset: 0, 0
+  index: -1
+behit_b_03
+  rotate: false
+  xy: 492, 14
+  size: 152, 162
+  orig: 152, 162
+  offset: 0, 0
+  index: -1
+behit_b_04
+  rotate: false
+  xy: 167, 2
+  size: 161, 164
+  orig: 161, 164
+  offset: 0, 0
+  index: -1
+behit_b_05
+  rotate: true
+  xy: 330, 11
+  size: 163, 160
+  orig: 163, 160
+  offset: 0, 0
+  index: -1
+behit_b_06
+  rotate: false
+  xy: 653, 7
+  size: 195, 191
+  orig: 195, 191
+  offset: 0, 0
+  index: -1
+behit_b_07
+  rotate: false
+  xy: 653, 200
+  size: 215, 198
+  orig: 215, 198
+  offset: 0, 0
+  index: -1
+behit_b_08
+  rotate: false
+  xy: 219, 176
+  size: 215, 222
+  orig: 215, 222
+  offset: 0, 0
+  index: -1
+behit_b_09
+  rotate: false
+  xy: 2, 168
+  size: 215, 230
+  orig: 215, 230
+  offset: 0, 0
+  index: -1
+behit_b_10
+  rotate: false
+  xy: 436, 178
+  size: 215, 220
+  orig: 215, 220
+  offset: 0, 0
+  index: -1

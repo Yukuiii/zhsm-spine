@@ -1,0 +1,20 @@
+
+UI_53_04.png
+size: 67,27
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t01
+  rotate: true
+  xy: 42, 5
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+t02
+  rotate: false
+  xy: 2, 2
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+dikuai.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangshu
+  rotate: true
+  xy: 1, 5
+  size: 112, 135
+  orig: 112, 135
+  offset: 0, 0
+  index: -1
+redguangshu
+  rotate: true
+  xy: 137, 5
+  size: 112, 135
+  orig: 112, 135
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 273, 6
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+xinpian
+  rotate: true
+  xy: 1, 1
+  size: 3, 99
+  orig: 3, 99
+  offset: 0, 0
+  index: -1
+yellow_kuang
+  rotate: false
+  xy: 273, 65
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
